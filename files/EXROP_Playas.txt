@@ -1,0 +1,1591 @@
+<    EXROP:R=ALL;
+
+
+ROUTE DATA
+R        ROUTE PARAMETERS
+SS0O     DETY=JT       
+         R=SS0I
+         MIS4=100   
+SS0I     DETY=JT       
+         R=SS0O
+         MIS4=100   
+KR2SS0   DETY=KR2      
+CJSS0    DETY=CJ       EMG=SS0             FNC=1      MIS4=2     
+CANS1    DETY=CANS     FNC=1      
+CANS2    DETY=CANS     FNC=1      MIS1=7     
+CANSC1   DETY=CANSC    FNC=1      MIS1=1     MIS2=2     
+CANSC2   DETY=CANSC    FNC=1      MIS1=8     MIS2=2     
+CANSC3   DETY=CANSC    FNC=1      MIS1=4     MIS2=2     
+CANSCT   DETY=CANSC    FNC=1      MIS2=2     
+TTON1    DETY=TONED    FNC=2      MIS1=1     
+TTON2    DETY=TONED    FNC=2      MIS1=7     
+CCD      DETY=CCD      
+CSK2     DETY=CSK      FNC=1      
+CSKD     DETY=CSKD     FNC=1      
+TONE     DETY=TC       FNC=3      
+AUIF     DETY=AUIF     
+CHCOOR   DETY=CHCOOR   
+TOM      DETY=TOM      
+RE       DETY=RE       
+
+         GENERIC PARAMETERS IN ROUTE ANALYSIS
+         IDO=193             IDD=193             
+CL       DETY=CLCOF    
+COF      DETY=CLCOF    FNC=1      
+SURM     DETY=SURM     
+CJI      DETY=CJI      
+CANST    DETY=CANS     FNC=2      MIS2=2     
+BWL      DETY=BWL1     FNC=1      
+LIST001  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+SIPA     DETY=SIPA     FNC=1      
+         R1=CSKD
+TONE1    DETY=TONE     FNC=1      MIS1=3     MIS2=1     
+TONE2    DETY=TONE     FNC=1      MIS1=7     MIS2=1     
+TONET    DETY=TONE     FNC=2      
+PCDLS    DETY=PCDLS    FNC=1      
+1ADIT    DETY=SUSADIT  FNC=1      
+2ADIT    DETY=SUSADIT  FNC=2      
+3ADIT    DETY=SUSADIT  FNC=3      
+4ADIT    DETY=SUSADIT  FNC=4      
+5ADIT    DETY=SUSADIT  FNC=5      
+6ADIT    DETY=SUSADIT  FNC=6      
+7ADIT    DETY=SUSADIT  FNC=7      
+8ADIT    DETY=SUSADIT  FNC=8      
+9ADIT    DETY=SUSADIT  FNC=9      
+10ADIT   DETY=SUSADIT  FNC=10     
+ASUCALL  DETY=SUSASU   FNC=1      
+ASUACTP  DETY=SUSASU   FNC=2      
+ASUACTS  DETY=SUSASU   FNC=3      
+ASUDEAC  DETY=SUSASU   FNC=4      
+ASUINT   DETY=SUSASU   FNC=5      
+ASUVER   DETY=SUSASU   FNC=6      
+1AACT    DETY=SUSAACT  FNC=1      MIS4=1     MIS6=1     
+2AACT    DETY=SUSAACT  FNC=2      
+3AACT    DETY=SUSAACT  FNC=3      
+4AACT    DETY=SUSAACT  FNC=4      MIS4=1     MIS6=1     
+5AACT    DETY=SUSAACT  FNC=5      
+6AACT    DETY=SUSAACT  FNC=6      
+7AACT    DETY=SUSAACT  FNC=7      MIS4=1     MIS6=1     
+8AACT    DETY=SUSAACT  FNC=8      
+9AACT    DETY=SUSAACT  FNC=9      
+10AACT   DETY=SUSAACT  FNC=10     MC=1      BO=10      CO=NO      
+1AACA    DETY=SUSAACA  FNC=1      
+CFBFORW  DETY=SUSCFIH  FNC=3      
+CFBFAKR  DETY=SUSCFPH  FNC=17     
+CFBVAKR  DETY=SUSCFPH  FNC=23     
+CFBFDKR  DETY=SUSCFPH  FNC=19     
+CFBVDKR  DETY=SUSCFPH  FNC=25     
+CFBDKR   DETY=SUSCFPH  FNC=13     
+CFBFIKR  DETY=SUSCFPH  FNC=21     
+CFBVIKR  DETY=SUSCFPH  FNC=27     
+CFBIKR   DETY=SUSCFPH  FNC=15     
+CFBVVKR  DETY=SUSCFPH  FNC=29     
+PIOZXIS  DETY=UPDN3    TTRANS=1    FNC=3      
+         R=PIOZXIE
+         ST=2       RNO=101    RIN=12     SI=ISUP4    SP=2-3773   
+CFNFAKR  DETY=SUSCFPH  FNC=41     
+CFNVAKR  DETY=SUSCFPH  FNC=47     
+CFNFDKR  DETY=SUSCFPH  FNC=43     
+CFNVDKR  DETY=SUSCFPH  FNC=49     
+CFNRDKR  DETY=SUSCFPH  FNC=37     
+CFNFIKR  DETY=SUSCFPH  FNC=45     
+CFNVIKR  DETY=SUSCFPH  FNC=51     
+CFNRIKR  DETY=SUSCFPH  FNC=39     
+CFNVVKR  DETY=SUSCFPH  FNC=53     
+PIOZXIE  DETY=UPDN3    PRI=10  EO=1   FNC=3      
+         R=PIOZXIS
+         BO=33      RO=1       CO=NO      RNO=102    RIN=2      
+         SI=ISUP4    SP=2-3773   
+CFUFAKR  DETY=SUSCFPH  FNC=59     
+CFUACTV  DETY=SUSCFPH  FNC=65     
+CFUFDKR  DETY=SUSCFPH  FNC=61     
+CFUVDKR  DETY=SUSCFPH  FNC=67     
+CFUDKR   DETY=SUSCFPH  FNC=55     
+CFUFIKR  DETY=SUSCFPH  FNC=63     
+CFUVIKR  DETY=SUSCFPH  FNC=69     
+CFUIKR   DETY=SUSCFPH  FNC=57     
+CFUVVKR  DETY=SUSCFPH  FNC=71     
+FLOEENS  DETY=UPDN3    TTRANS=1    FNC=3      
+         R=FLOEENE
+         ST=6       RNO=103    RIN=12     RTR=3      SI=ISUP4    
+         SP=2-3789   
+4SUSACF  DETY=SUSACF   FNC=4      
+FLOEENE  DETY=UPDN3    PRI=10  EO=1   FNC=3      
+         R=FLOEENS
+         BO=33      RO=1       CO=NO      RNO=104    RIN=2      
+         RTR=3      SI=ISUP4    SP=2-3789   
+OTYEXIS  DETY=UPDN3    TTRANS=1    FNC=3      
+         R=OTYEXIE
+         ST=6       RNO=105    RIN=12     SI=ISUP4    SP=2-3794   
+         
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+1CWP     DETY=SUSCWP   FNC=1      
+2CWP     DETY=SUSCWP   FNC=2      
+3CWP     DETY=SUSCWP   FNC=3      
+4CWP     DETY=SUSCWP   FNC=4      
+5CWP     DETY=SUSCWP   FNC=5      
+1CCTA    DETY=SUSCCTA  FNC=1      
+2CCTA    DETY=SUSCCTA  FNC=2      
+3CCTA    DETY=SUSCCTA  FNC=3      
+4CCTA    DETY=SUSCCTA  FNC=4      
+5CCTA    DETY=SUSCCTA  FNC=5      CO=NO      
+1CCTB    DETY=SUSCCTB  FNC=1      
+2CCTB    DETY=SUSCCTB  FNC=2      
+3CCTB    DETY=SUSCCTB  FNC=3      BO=195     CO=NO      
+DDBACT   DETY=SUSDDB   FNC=1      
+DDBDEAC  DETY=SUSDDB   FNC=2      
+DDBINT   DETY=SUSDDB   FNC=3      
+1SUSFDC  DETY=SUSFDC   FNC=1      
+2SUSFDC  DETY=SUSFDC   FNC=2      
+3SUSFDC  DETY=SUSFDC   FNC=3      
+4SUSFDC  DETY=SUSFDC   FNC=4      
+5SUSFDC  DETY=SUSFDC   FNC=5      
+6SUSFDC  DETY=SUSFDC   FNC=6      
+SUSGD    DETY=SUSGD    FNC=1      
+1LNR     DETY=SUSLNR   FNC=1      
+2LNR     DETY=SUSLNR   FNC=2      
+3LNR     DETY=SUSLNR   FNC=3      
+5LNR     DETY=SUSLNR   FNC=5      
+SUSMCIA  DETY=SUSMCIA  
+SUSMCIT  DETY=SUSMCIT  
+OCBPACT  DETY=SUSOCB   FNC=1      
+OCBPDEA  DETY=SUSOCB   FNC=2      
+OCBPINT  DETY=SUSOCB   FNC=3      
+OCBSACT  DETY=SUSOCB   FNC=4      
+OCBSDEA  DETY=SUSOCB   FNC=5      
+OCBSINT  DETY=SUSOCB   FNC=6      
+OCBRPAC  DETY=SUSOCB   FNC=7      
+OCBRPDE  DETY=SUSOCB   FNC=8      
+OCBRSAC  DETY=SUSOCB   FNC=9      
+OCBRSDE  DETY=SUSOCB   FNC=10     
+OTYEXIE  DETY=UPDN3    PRI=10  EO=1   FNC=3      
+         R=OTYEXIS
+         BO=33      RO=1       CO=NO      RNO=106    RIN=2      
+         SI=ISUP4    SP=2-3794   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+ESRDM1S  DETY=RST      
+         R=ESRDM1E
+         MIS4=100   
+ESRDM1E  DETY=RST      
+         R=ESRDM1S
+         MIS4=100   
+EARDM1S  DETY=RST      
+         R=EARDM1E
+         MIS4=100   
+EARDM1E  DETY=RST      
+         R=EARDM1S
+         MIS4=100   
+CJERDM   DETY=CJ       EMG=ERDM            FNC=2      
+RECEVE1  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+EVENTO1  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+ESMIR6S  DETY=RST      
+         R=ESMIR6E
+         MIS4=100   
+ESMIR6E  DETY=RST      
+         R=ESMIR6S
+         MIS4=100   
+EAMIR6S  DETY=RST      
+         R=EAMIR6E
+         MIS4=100   RIN=4095   
+EAMIR6E  DETY=RST      
+         R=EAMIR6S
+         MIS4=100   RIN=4095   
+ESSAT4S  DETY=RST      
+         R=ESSAT4E
+         MIS4=100   
+CANRFI   DETY=SUSCFIH  FNC=18     
+KEYFKW   DETY=SUSKEY   FNC=1      
+KEYSKW   DETY=SUSKEY   FNC=2      
+0CEC1    DETY=SUSCEC1  
+1CEC1    DETY=SUSCEC1  FNC=1      
+2CEC1    DETY=SUSCEC1  FNC=2      
+3CEC1    DETY=SUSCEC1  FNC=3      
+4CEC1    DETY=SUSCEC1  FNC=4      
+5CEC1    DETY=SUSCEC1  FNC=5      
+6CEC1    DETY=SUSCEC1  FNC=6      
+7CEC1    DETY=SUSCEC1  FNC=7      
+8CEC1    DETY=SUSCEC1  FNC=8      
+9CEC1    DETY=SUSCEC1  FNC=9      
+10CEC1   DETY=SUSCEC1  FNC=10     
+SUSCEC2  DETY=SUSCEC2  R2=MAIN+1
+ENQ      DETY=SUSENQ   
+SUSCH    DETY=SUSCH    FNC=1      
+SUSCS    DETY=SUSCS    FNC=0      
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         BOIN=275            ITP=14              
+SUSCIF   DETY=SUSCIF   FNC=1      
+SUSSCR   DETY=SUSSCR   EO=6   
+1SUSLM   DETY=SUSLM    FNC=1      
+2SUSLM   DETY=SUSLM    FNC=2      
+3SUSLM   DETY=SUSLM    FNC=3      
+1SUSQT   DETY=SUSQT    FNC=1      
+2SUSQT   DETY=SUSQT    FNC=2      
+3SUSQT   DETY=SUSQT    FNC=3      
+4SUSQT   DETY=SUSQT    FNC=4      
+5SUSQT   DETY=SUSQT    FNC=5      
+6SUSQT   DETY=SUSQT    FNC=6      
+0CCP     DETY=SUSCCP   FNC=0      
+SUSCFT   DETY=SUSCRE   
+CANRVI   DETY=SUSCFIH  FNC=19     
+SUSGAS1  DETY=SUSGAS   FNC=1      
+ESSAT4E  DETY=RST      
+         R=ESSAT4S
+         MIS4=100   
+EASAT4S  DETY=RST      
+         R=EASAT4E
+         MIS4=100   
+EASAT4E  DETY=RST      
+         R=EASAT4S
+         MIS4=100   
+CJSAT4   DETY=CJ       EMG=ESAT4           FNC=2      
+ACTFDC   DETY=SUSASSB  FNC=5      
+REC+32   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+RECLOG   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+TRILOG   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+ACTPRE   DETY=SUSASSB  FNC=9      
+DEACPRE  DETY=SUSASSB  FNC=10     
+TCIAR2   DETY=TCIA     RSV=8      
+NACCOCS  DETY=LITS     
+         R=NACCOCE
+DEACSEL  DETY=SUSASSB  FNC=13     
+INTSEL   DETY=SUSASSB  FNC=14     
+REG1     DETY=SUSASSB  FNC=15     
+REG2     DETY=SUSASSB  FNC=16     
+SUSCNUA  DETY=SUSCNUA  FNC=1      
+NACCOCE  DETY=LITS     
+         R=NACCOCS
+NACCODS  DETY=LITS     
+         R=NACCODE
+NACCODE  DETY=LITS     
+         R=NACCODS
+CACFNRI  DETY=SUSCFIH  FNC=20     
+1CAC     DETY=CAC      FNC=1      
+2CAC     DETY=CAC      FNC=2      
+3CAC     DETY=CAC      FNC=3      
+4CAC     DETY=CAC      FNC=4      
+5CAC     DETY=CAC      FNC=5      
+6CAC     DETY=CAC      FNC=6      
+KR       DETY=KR       FNC=1      
+CACVNRI  DETY=SUSCFIH  FNC=21     
+SUSCWI   DETY=SUSCWI   FNC=1      
+GCPU     DETY=BCPU     FNC=0      
+TCPU     DETY=BCPU     FNC=1      
+DCPU     DETY=BCPU     FNC=2      
+SUPIA    DETY=SUPIA    
+BDSREL   DETY=BDSREL   
+BAEO     DETY=BAEO     
+BCM      DETY=BCM      FNC=0      
+BATINTO  DETY=BATINT   FNC=0      
+MAIN+1   DETY=ASDH     FNC=1      
+REC+1    DETY=ASDH     FNC=5      
+         R1=MAIN+1
+PRUEBA   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=2     MIS5=10    
+AUIF001  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF002  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF003  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF004  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF005  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF006  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF007  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF008  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF009  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+AUIF010  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+CS1      DETY=CSRLM    FNC=3      
+         R=CR1
+         MIS4=100   
+CR1      DETY=CSRLM    FNC=3      
+         R=CS1
+         MIS4=100   
+SULTO    DETY=SULT     FNC=1      
+         R=SULTI
+SULTI    DETY=SULT     FNC=1      MC=3      
+         R=SULTO
+         CO=NO      
+1TCONI   DETY=TCON     FNC=1      MC=1      BO=10      RO=0       
+         CO=NO      TO=0       TDCL=15    
+2TCONI   DETY=TCON     FNC=2      MA=6646332200      MC=3      
+         BO=24      RO=0       CO=NO      TO=0       TDCL=0     
+TCALT    DETY=TCALT    FNC=3      
+TCALTO   DETY=TCALT    FNC=3      
+3TCON1O  DETY=TCALT    FNC=3      
+3TCON2O  DETY=TCALT    FNC=3      
+3TCON3O  DETY=TCALT    FNC=3      
+3TCON4O  DETY=TCALT    FNC=3      
+LI_ADS1  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RE_ADS1  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+PIOZLIS  DETY=UPDN3    TTRANS=1    FNC=3      
+         R=PIOZLIE
+         ST=3       RNO=115    RIN=14     SI=ISUP4    SP=2-3773   
+PIOZLIE  DETY=UPDN3    PRI=10  FNC=3      
+         R=PIOZLIS
+         SI=ISUP4    SP=2-3773   
+CJISAT2  DETY=CJI      EMG=*****           FNC=1      MIS4=2     
+CJSAT2   DETY=CJ       EMG=*****           FNC=1      MIS4=2     
+LOMEXIS  DETY=UPDN3    NMO=1    TTRANS=1    FNC=3      
+         R=LOMEXIE
+         ST=2       RNO=107    RIN=12     SI=ISUP4    SP=2-3777   
+         
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+LOMEXIE  DETY=UPDN3    PRI=3   EO=1   FNC=3      
+         R=LOMEXIS
+         BO=33      RO=1       CO=NO      RNO=108    RIN=2      
+         SI=ISUP4    SP=2-3777   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+LCJINT   DETY=LCJ      
+LIST032  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+MXLIXIS  DETY=UPDN3    TTRANS=1    FNC=3      
+         R=MXLIXIE
+         ST=2       RNO=109    RIN=14     SI=ISUP4    SP=2-3183   
+         
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+MXLIXIE  DETY=UPDN3    PRI=3   EO=1   FNC=3      
+         R=MXLIXIS
+         BO=33      RO=1       CO=NO      RNO=110    RIN=4      
+         SI=ISUP4    SP=2-3183   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+SS4O     DETY=JT       
+         R=SS4I
+         MIS4=100   RIN=4095   
+SS4I     DETY=JT       
+         R=SS4O
+         MIS4=100   RIN=4095   
+NACCOAS  DETY=LITS     
+         R=NACCOAE
+SS2O     DETY=JT       
+         R=SS2I
+         MIS4=100   
+SS2I     DETY=JT       
+         R=SS2O
+         MIS4=100   
+KR2SS3   DETY=KR2      
+SS3O     DETY=JT       
+         R=SS3I
+         MIS4=100   
+SS3I     DETY=JT       
+         R=SS3O
+         MIS4=100   
+TCTEST   DETY=TC       FNC=1      
+NACCOAE  DETY=LITS     
+         R=NACCOAS
+PRUEBAO  DETY=BT2D3    TTRANS=3    FNC=3      
+         R1=CS1
+         R=PRUEBAI
+         MIS2=150   
+BT2O     DETY=BT2D3    TTRANS=3    FNC=3      
+         R1=CS1
+         R=BT2I
+         LSV=1      MIS2=150   MIS4=20    
+BT2I     DETY=BT2D3    PRI=10  FNC=3      
+         R1=CR1
+         R=BT2O
+         LSV=1      BO=113     MIS4=20    
+PRUEBAI  DETY=BT2D3    PRI=10  FNC=3      
+         R=PRUEBAO
+DIGCCBS  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+PRLEOIS  DETY=UPDN3    TTRANS=1    CACB=3   FNC=3      
+         R=PRLEOIE
+         ST=2       RNO=113    RIN=15     RTR=3      SI=ISUP4    
+         SP=2-3783   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+PRLEOIE  DETY=UPDN3    PRI=3   EO=1   FNC=3      
+         R=PRLEOIS
+         BO=33      RO=1       CO=NO      RNO=114    RIN=5      
+         RTR=3      SI=ISUP4    SP=2-3783   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+RE_MED   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+LI_MED   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+BBUSY    DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+6CCTA    DETY=SUSCCTA  FNC=6      
+7CCTA    DETY=SUSCCTA  FNC=7      
+1SUSACF  DETY=SUSACF   FNC=1      BO=195     
+2SUSACF  DETY=SUSACF   FNC=2      
+3SUSACF  DETY=SUSACF   FNC=3      
+RTPOR1S  DETY=RT2      
+         R=RTPOR1E
+         MIS4=100   RIN=4095   
+RTPOR1E  DETY=RT2      
+         R=RTPOR1S
+         MIS4=100   RIN=4095   
+RSPOR1S  DETY=RT2      
+         R=RSPOR1E
+         MIS4=100   RIN=4095   
+RSPOR1E  DETY=RT2      
+         R=RSPOR1S
+         MIS4=100   RIN=4095   
+KRD2     DETY=KRD      FNC=1      
+KRDTEST  DETY=KRD      FNC=2      
+RTSOL1S  DETY=RT2      
+         R=RTSOL1E
+         MIS4=100   RIN=4095   
+RTSOL1E  DETY=RT2      
+         R=RTSOL1S
+         MIS4=100   RIN=4095   
+RSSOL1S  DETY=RT2      
+         R=RSSOL1E
+         MIS4=100   RIN=4095   
+RSSOL1E  DETY=RT2      
+         R=RSSOL1S
+         MIS4=100   RIN=4095   
+RTMIR1S  DETY=RT2      
+         R=RTMIR1E
+         MIS4=100   RIN=4095   
+RTMIR1E  DETY=RT2      
+         R=RTMIR1S
+         MIS4=100   RIN=4095   
+RTSOL2S  DETY=RT2      
+         R=RTSOL2E
+         MIS4=100   RIN=4095   
+RTSOL2E  DETY=RT2      
+         R=RTSOL2S
+         MIS4=100   RIN=4095   
+RSSOL2S  DETY=RT2      
+         R=RSSOL2E
+         MIS4=100   RIN=4095   
+RSSOL2E  DETY=RT2      
+         R=RSSOL2S
+         MIS4=100   RIN=4095   
+RTMIR2S  DETY=RT2      
+         R=RTMIR2E
+         MIS4=100   RIN=4095   
+RTMIR2E  DETY=RT2      
+         R=RTMIR2S
+         MIS4=100   RIN=4095   
+RSMIR2S  DETY=RT2      
+         R=RSMIR2E
+         MIS4=100   RIN=4095   
+RSMIR2E  DETY=RT2      
+         R=RSMIR2S
+         MIS4=100   RIN=4095   
+RTPOR2S  DETY=RT2      
+         R=RTPOR2E
+         MIS4=100   RIN=4095   
+RTPOR2E  DETY=RT2      
+         R=RTPOR2S
+         MIS4=100   RIN=4095   
+RSPOR2S  DETY=RT2      
+         R=RSPOR2E
+         MIS4=100   RIN=4095   
+RSPOR2E  DETY=RT2      
+         R=RSPOR2S
+         MIS4=100   RIN=4095   
+RE_050   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+LI_050   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RECPACO  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+LISPACO  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+JTSS3O   DETY=JT       
+         R=JTSS3I
+         MIS4=100   
+JTSS3I   DETY=JT       
+         R=JTSS3O
+         MIS4=100   
+JTSS2O   DETY=JT       
+         R=JTSS2I
+         MIS4=100   
+JTSS2I   DETY=JT       
+         R=JTSS2O
+         MIS4=100   
+JTSS1O   DETY=JT       
+         R=JTSS1I
+         MIS4=100   
+JTSS1I   DETY=JT       
+         R=JTSS1O
+         MIS4=100   
+CJMIR1   DETY=CJ       EMG=*****           FNC=1      MIS4=2     
+CJMIR2   DETY=CJ       EMG=MIR2            FNC=1      MIS4=2     
+CJPOR1   DETY=CJ       EMG=POR             FNC=1      MIS4=2     
+CJPOR2   DETY=CJ       EMG=POR2            FNC=1      MIS4=2     
+CJSOL1   DETY=CJ       EMG=SOL             FNC=1      MIS4=2     
+CJSOL2   DETY=CJ       EMG=SOL2            FNC=1      MIS4=2     
+CJSS1    DETY=CJ       EMG=SS1             FNC=1      MIS4=2     
+CJSS2    DETY=CJ       EMG=SS2             FNC=1      MIS4=2     
+CJSS3    DETY=CJ       EMG=SS3             FNC=1      MIS4=2     
+CJSSI6   DETY=CJ       EMG=*****           FNC=1      MIS4=2     
+KR2POR1  DETY=KR2      
+KR2SOL1  DETY=KR2      
+KR2SS1   DETY=KR2      
+KR2SS2   DETY=KR2      
+KR2SOL2  DETY=KR2      
+KR2MIR2  DETY=KR2      
+KR2POR2  DETY=KR2      
+5SUSACF  DETY=SUSACF   FNC=5      
+LIST053  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+SS1O     DETY=JT       
+         R=SS1I
+         MIS4=100   
+SS1I     DETY=JT       
+         R=SS1O
+         MIS4=100   
+LIST054  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST055  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST056  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST057  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+1RPR116  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+1REC116  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+21   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+03   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+04   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+05   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+06   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+07   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+08   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+09   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+10   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+11   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+12   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+13   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+14   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+15   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+16   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+17   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+18   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+19   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+20   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+22   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+23   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+24   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+25   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+MENS500  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+MENS501  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+05  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+06  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+07  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+08  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+09  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+10  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+11  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+12  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+13  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+14  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+15  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+16  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+17  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+18  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+19  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+20  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+21  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+22  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+23  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+24  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+25  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+26  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TEST+27  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+REC+26   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+27   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+28   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+29   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+REC+30   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+MENS28   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+MENS29   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+MENS30   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+MENS31   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+REC+31   DETY=ASDH     FNC=5      
+         R1=MAIN+1
+KR2SS4   DETY=KR2      
+CJSS4    DETY=CJ       EMG=SS4             FNC=1      MIS4=2     
+RSSOL3S  DETY=RT2      
+         R=RSSOL3E
+         MIS4=100   RIN=4095   
+RSSOL3E  DETY=RT2      
+         R=RSSOL3S
+         MIS4=100   RIN=4095   
+RTSOL3S  DETY=RT2      
+         R=RTSOL3E
+         MIS4=100   RIN=4095   
+RTSOL3E  DETY=RT2      
+         R=RTSOL3S
+         MIS4=100   RIN=4095   
+KR2SOL3  DETY=KR2      
+CJSOL3   DETY=CJ       EMG=SOL3            FNC=1      MIS4=2     
+SSI0O    DETY=JT2      
+         R=SSI0I
+         MIS4=100   
+SSI0I    DETY=JT2      
+         R=SSI0O
+         MIS4=100   
+CJISSI0  DETY=CJI      EMG=SSI0            FNC=1      MIS4=2     
+CJSSI0   DETY=CJ       EMG=SSI0            FNC=1      MIS4=2     
+PRUEBA0  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO0  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TIJIXIS  DETY=UPDN3    TTRANS=1    FNC=3      
+         R=TIJIXIE
+         ST=3       RNO=115    RIN=14     SI=ISUP4    SP=2-3182   
+         
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+TIJIXIE  DETY=UPDN3    PRI=10  EO=1   FNC=3      
+         R=TIJIXIS
+         BO=33      RO=1       CO=NO      RNO=116    RIN=4      
+         SI=ISUP4    SP=2-3182   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+DIGITO1  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO2  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO3  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO4  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+FLOEXIS  DETY=UPDN3    NMO=1    TTRANS=1    FNC=3      
+         R=FLOEXIE
+         ST=2       RNO=117    RIN=12     SI=ISUP4    SP=2-3790   
+         
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+FLOEXIE  DETY=UPDN3    PRI=10  EO=1   FNC=3      
+         R=FLOEXIS
+         BO=33      RO=1       CO=NO      RNO=118    RIN=2      
+         SI=ISUP4    SP=2-3790   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+RSPOR3S  DETY=RT2      
+         R=RSPOR3E
+         MIS4=100   RIN=4095   
+RSPOR3E  DETY=RT2      
+         R=RSPOR3S
+         MIS4=100   RIN=4095   
+RTPOR3S  DETY=RT2      
+         R=RTPOR3E
+         MIS4=100   RIN=4095   
+RTPOR3E  DETY=RT2      
+         R=RTPOR3S
+         MIS4=100   RIN=4095   
+KR2POR3  DETY=KR2      
+CJPOR3   DETY=CJ       EMG=POR3            FNC=1      MIS4=2     
+CJEMIR   DETY=CJ       EMG=EMIR            FNC=2      
+1LIS116  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RSMIR3S  DETY=RT2      
+         R=RSMIR3E
+         MIS4=100   RIN=4095   
+RSMIR3E  DETY=RT2      
+         R=RSMIR3S
+         MIS4=100   RIN=4095   
+RTMIR3S  DETY=RT2      
+         R=RTMIR3E
+         MIS4=100   RIN=4095   
+RTMIR3E  DETY=RT2      
+         R=RTMIR3S
+         MIS4=100   RIN=4095   
+KR2MIR3  DETY=KR2      
+CJMIR3   DETY=CJ       EMG=MIR3            FNC=1      MIS4=2     
+2LIS116  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+2REC116  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+3LIS116  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+3REC116  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+CJSAT3   DETY=CJ       EMG=*****           FNC=1      MIS4=1     
+CSFSK    DETY=CSFSK    FNC=1      
+SIPA1    DETY=SIPA     FNC=2      
+         R1=CSFSK
+RSSOL4S  DETY=RT3      
+         R=RSSOL4E
+         MIS4=100   RIN=100    
+RSSOL4E  DETY=RT3      
+         R=RSSOL4S
+         MIS4=100   RIN=100    
+DIGITO5  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO6  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RSMIR4S  DETY=RT2      
+         R=RSMIR4E
+         MIS4=100   RIN=4095   
+RSMIR4E  DETY=RT2      
+         R=RSMIR4S
+         MIS4=100   RIN=4095   
+RTMIR4S  DETY=RT2      
+         R=RTMIR4E
+         MIS4=100   RIN=4095   
+RTMIR4E  DETY=RT2      
+         R=RTMIR4S
+         MIS4=100   RIN=4095   
+KR2MIR4  DETY=KR2      
+CJMIR4   DETY=CJ       EMG=*****           FNC=1      MIS4=2     
+RSSS5S   DETY=RT2      
+         R=RSSS5E
+         MIS4=100   RIN=4095   
+RSSS5E   DETY=RT2      
+         R=RSSS5S
+         MIS4=100   RIN=4095   
+KR2SS5   DETY=KR2      
+CJSS5    DETY=CJ       EMG=*****           FNC=1      MIS4=2     
+PRLEEIS  DETY=UPDN3    TTRANS=1    CACB=3   FNC=3      
+         R=PRLEEIE
+         ST=2       RNO=119    RIN=12     RTR=3      SI=ISUP4    
+         SP=2-3783   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+PRLEEIE  DETY=UPDN3    PRI=3   EO=1   FNC=3      
+         R=PRLEEIS
+         BO=33      RO=1       CO=NO      RNO=120    RIN=2      
+         RTR=3      SI=ISUP4    SP=2-3783   
+
+         GENERIC PARAMETERS IN ROUTE OWNER
+         OAI=0               
+RECBUZO  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+BUZON    DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+CAUFI    DETY=SUSCFIH  FNC=22     
+CAUVI    DETY=SUSCFIH  FNC=23     
+CFTUAKR  DETY=SUSCFPH  FNC=1      
+CFTUAKF  DETY=SUSCFPH  FNC=2      
+RECBUZ1  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+MARC10D  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+CJIPOR4  DETY=CJI      EMG=*****           FNC=1      MIS4=2     
+CJIMIR5  DETY=CJI      EMG=*****           FNC=1      MIS4=2     
+CJMIR5   DETY=CJ       EMG=*****           FNC=1      MIS4=2     
+RSSSI1S  DETY=RT3      
+         R=RSSSI1E
+         MIS4=100   RIN=100    
+RSSSI1E  DETY=RT3      
+         R=RSSSI1S
+         MIS4=100   RIN=100    
+RTSSI1S  DETY=RT3      
+         R=RTSSI1E
+         MIS4=100   
+RTSSI1E  DETY=RT3      
+         R=RTSSI1S
+         MIS4=100   
+CJISSI1  DETY=CJI      EMG=SSI1            FNC=1      MIS4=2     
+CJSSI1   DETY=CJ       EMG=SSI1            FNC=1      MIS4=2     
+CREDITO  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+CREDIT1  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RECRED0  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+RECRED1  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+RTSOL4S  DETY=RT3      
+         R=RTSOL4E
+         MIS4=100   
+RTSOL4E  DETY=RT3      
+         R=RTSOL4S
+         MIS4=100   
+CJSOL4   DETY=CJI      EMG=SOL4            FNC=1      MIS4=2     
+UPD3SIO  DETY=UPDN3    TTRANS=1    FNC=7      
+         R=UPD3SII
+UPD3SII  DETY=UPDN3    PRI=10  FNC=7      
+         R=UPD3SIO
+DIGITO7  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO8  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LI_MORO  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RE_MORO  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+RECEVEN  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+EVENTO   DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+DIGITO9  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+NALCU1S  DETY=LITS     
+         R=NALCU1E
+CFTUDKR  DETY=SUSCFPH  FNC=3      
+CFTUDKF  DETY=SUSCFPH  FNC=4      
+CFTUIKR  DETY=SUSCFPH  FNC=5      
+CFTUIKF  DETY=SUSCFPH  FNC=6      
+CFBDKF   DETY=SUSCFPH  FNC=14     
+CFBIKF   DETY=SUSCFPH  FNC=16     
+CFBFAKF  DETY=SUSCFPH  FNC=18     
+CFBFDKF  DETY=SUSCFPH  FNC=20     
+CFBFIKF  DETY=SUSCFPH  FNC=22     
+CFBVAKF  DETY=SUSCFPH  FNC=24     
+CFBVDKF  DETY=SUSCFPH  FNC=26     
+CFBVIKF  DETY=SUSCFPH  FNC=28     
+CFBVVKF  DETY=SUSCFPH  FNC=30     
+CFFLAKR  DETY=SUSCFPH  FNC=31     
+CFFLAKF  DETY=SUSCFPH  FNC=32     
+CFFLDKR  DETY=SUSCFPH  FNC=33     
+CFFLDKF  DETY=SUSCFPH  FNC=34     
+CFFLIKR  DETY=SUSCFPH  FNC=35     
+CFFLIKF  DETY=SUSCFPH  FNC=36     
+CFNRDKF  DETY=SUSCFPH  FNC=38     
+CFNRIKF  DETY=SUSCFPH  FNC=40     
+CFNFAKF  DETY=SUSCFPH  FNC=42     
+CFNFDKF  DETY=SUSCFPH  FNC=44     
+CFNFIKF  DETY=SUSCFPH  FNC=46     
+CFNVAKF  DETY=SUSCFPH  FNC=48     
+CFNVDKF  DETY=SUSCFPH  FNC=50     
+CFNVIKF  DETY=SUSCFPH  FNC=52     
+CFNVVKF  DETY=SUSCFPH  FNC=54     
+CFUDKF   DETY=SUSCFPH  FNC=56     
+CFUIKF   DETY=SUSCFPH  FNC=58     
+CFUFAKF  DETY=SUSCFPH  FNC=60     
+CFUFDKF  DETY=SUSCFPH  FNC=62     
+CFUFIKF  DETY=SUSCFPH  FNC=64     
+CFUVAKF  DETY=SUSCFPH  FNC=66     
+CFUVDKF  DETY=SUSCFPH  FNC=68     
+CFUVIKF  DETY=SUSCFPH  FNC=70     
+CFUVVKF  DETY=SUSCFPH  FNC=72     
+SCFUAKR  DETY=SUSCFPH  FNC=73     
+SCFUAKF  DETY=SUSCFPH  FNC=74     
+SCFUDKR  DETY=SUSCFPH  FNC=75     
+SCFUDKF  DETY=SUSCFPH  FNC=76     
+SCFUIKR  DETY=SUSCFPH  FNC=77     
+SCFUIKF  DETY=SUSCFPH  FNC=78     
+CDPAKR   DETY=SUSCFPH  FNC=79     
+CDPAKF   DETY=SUSCFPH  FNC=80     
+CDPDKR   DETY=SUSCFPH  FNC=81     
+CDPDKF   DETY=SUSCFPH  FNC=82     
+CDPIKR   DETY=SUSCFPH  FNC=83     
+CDPIKF   DETY=SUSCFPH  FNC=84     
+CABFAKR  DETY=SUSCFPH  FNC=89     
+CABFAKF  DETY=SUSCFPH  FNC=90     
+CABFDKR  DETY=SUSCFPH  FNC=91     
+CABFDKF  DETY=SUSCFPH  FNC=92     
+CABFIKR  DETY=SUSCFPH  FNC=93     
+CABFIKF  DETY=SUSCFPH  FNC=94     
+CABFRKR  DETY=SUSCFPH  FNC=95     
+CABFRKF  DETY=SUSCFPH  FNC=96     
+CABVAKR  DETY=SUSCFPH  FNC=97     
+CABVAKF  DETY=SUSCFPH  FNC=98     
+CABVDKR  DETY=SUSCFPH  FNC=99     
+CABVDKF  DETY=SUSCFPH  FNC=100    
+CABVIKR  DETY=SUSCFPH  FNC=101    
+CABVIKF  DETY=SUSCFPH  FNC=102    
+CABVVKR  DETY=SUSCFPH  FNC=103    
+CABVVKF  DETY=SUSCFPH  FNC=104    
+CABVRKR  DETY=SUSCFPH  FNC=105    
+CABVRKF  DETY=SUSCFPH  FNC=106    
+CANFAKR  DETY=SUSCFPH  FNC=107    
+CANFAKF  DETY=SUSCFPH  FNC=108    
+CANFDKR  DETY=SUSCFPH  FNC=109    
+CANFDKF  DETY=SUSCFPH  FNC=110    
+CANFIKR  DETY=SUSCFPH  FNC=111    
+CANFIKF  DETY=SUSCFPH  FNC=112    
+CANFRKR  DETY=SUSCFPH  FNC=113    
+CANFRKF  DETY=SUSCFPH  FNC=114    
+CANVAKR  DETY=SUSCFPH  FNC=115    
+CANVAKF  DETY=SUSCFPH  FNC=116    
+CANVDKR  DETY=SUSCFPH  FNC=117    
+CANVDKF  DETY=SUSCFPH  FNC=118    
+CANVIKR  DETY=SUSCFPH  FNC=119    
+CANVIKF  DETY=SUSCFPH  FNC=120    
+CANVVKR  DETY=SUSCFPH  FNC=121    
+CANVVKF  DETY=SUSCFPH  FNC=122    
+CANVRKR  DETY=SUSCFPH  FNC=123    
+CANVRKF  DETY=SUSCFPH  FNC=124    
+CACFAKR  DETY=SUSCFPH  FNC=125    
+CACFAKF  DETY=SUSCFPH  FNC=126    
+CACFDKR  DETY=SUSCFPH  FNC=127    
+CACFDKF  DETY=SUSCFPH  FNC=128    
+CACFIKR  DETY=SUSCFPH  FNC=129    
+CACFIKF  DETY=SUSCFPH  FNC=130    
+CACFRKR  DETY=SUSCFPH  FNC=131    
+CACFRKF  DETY=SUSCFPH  FNC=132    
+CACVAKR  DETY=SUSCFPH  FNC=133    
+CACVAKF  DETY=SUSCFPH  FNC=134    
+CACVDKR  DETY=SUSCFPH  FNC=135    
+CACVDKF  DETY=SUSCFPH  FNC=136    
+CACVIKR  DETY=SUSCFPH  FNC=137    
+CACVIKF  DETY=SUSCFPH  FNC=138    
+CACVVKR  DETY=SUSCFPH  FNC=139    
+CACVVKF  DETY=SUSCFPH  FNC=140    
+CACVRKR  DETY=SUSCFPH  FNC=141    
+CACVRKF  DETY=SUSCFPH  FNC=142    
+CAUFAKR  DETY=SUSCFPH  FNC=143    
+CAUFAKF  DETY=SUSCFPH  FNC=144    
+CAUFDKR  DETY=SUSCFPH  FNC=145    
+CAUFDKF  DETY=SUSCFPH  FNC=146    
+CAUFIKR  DETY=SUSCFPH  FNC=147    
+CAUFIKF  DETY=SUSCFPH  FNC=148    
+CAUFRKR  DETY=SUSCFPH  FNC=149    
+CAUFRKF  DETY=SUSCFPH  FNC=150    
+CAUVAKR  DETY=SUSCFPH  FNC=151    
+CAUVAKF  DETY=SUSCFPH  FNC=152    
+CAUVDKR  DETY=SUSCFPH  FNC=153    
+CAUVDKF  DETY=SUSCFPH  FNC=154    
+CAUVIKR  DETY=SUSCFPH  FNC=155    
+CAUVIKF  DETY=SUSCFPH  FNC=156    
+CAUVVKR  DETY=SUSCFPH  FNC=157    
+CAUVVKF  DETY=SUSCFPH  FNC=158    
+CAUVRKR  DETY=SUSCFPH  FNC=159    
+CAUVRKF  DETY=SUSCFPH  FNC=160    
+PXNSAC   DETY=SUSCFPH  FNC=161    
+PXNSDA   DETY=SUSCFPH  FNC=162    
+PXNSIN   DETY=SUSCFPH  FNC=163    
+PXNSRI   DETY=SUSCFPH  FNC=164    
+PXGNDAC  DETY=SUSCFPH  FNC=165    
+PXGNDDA  DETY=SUSCFPH  FNC=166    
+PXGNDIN  DETY=SUSCFPH  FNC=167    
+SUSCCMB  DETY=SUSCCMB  FNC=0      
+CRREGIS  DETY=SUSCR    FNC=1      
+CRINVOC  DETY=SUSCR    FNC=2      
+CRERASE  DETY=SUSCR    FNC=3      
+LHWACT   DETY=SUSLHW   FNC=1      
+LHWDACT  DETY=SUSLHW   FNC=2      
+LHWINT   DETY=SUSLHW   FNC=3      
+SUSMSN   DETY=SUSMSN   FNC=1      
+1BMWI    DETY=SUSMWC   FNC=1      
+2BMWI    DETY=SUSMWC   FNC=2      
+3BMWI    DETY=SUSMWC   FNC=3      
+4BMWI    DETY=SUSMWC   FNC=4      
+5MWC     DETY=SUSMWC   FNC=5      
+6MWC     DETY=SUSMWC   FNC=6      
+7MWC     DETY=SUSMWC   FNC=7      
+8MWC     DETY=SUSMWC   FNC=8      
+9MWC     DETY=SUSMWC   FNC=9      
+SUSMWMB  DETY=SUSMWMB  FNC=5      
+SUSMWPE  DETY=SUSMWPE  FNC=0      
+SUSMWP   DETY=SUSMWP   FNC=0      
+1NSF     DETY=SUSNSF   
+1SLE     DETY=SUSSLE   FNC=1      
+2SLE     DETY=SUSSLE   FNC=2      
+3SLE     DETY=SUSSLE   FNC=3      
+SRACT    DETY=SUSSLS   FNC=1      
+SRDEACT  DETY=SUSSLS   FNC=2      
+SRINT    DETY=SUSSLS   FNC=3      
+SRACLI   DETY=SUSSLS   FNC=4      
+SRECLI   DETY=SUSSLS   FNC=5      
+SRICLI   DETY=SUSSLS   FNC=6      
+SRUSE    DETY=SUSSLS   FNC=7      
+1SUSVCI  DETY=SUSVCI   FNC=1      
+2SUSVCI  DETY=SUSVCI   FNC=2      
+3SUSVCI  DETY=SUSVCI   FNC=3      
+11AACT   DETY=SUSAACT  FNC=11     MIS4=1     MIS6=1     
+APCCBS   DETY=SUSAPSS  FNC=0      
+APMWI    DETY=SUSAPN   FNC=0      
+1CLIRAC  DETY=SUSCLIR  FNC=1      
+2CLIRDE  DETY=SUSCLIR  FNC=2      
+3CLIRIN  DETY=SUSCLIR  FNC=3      
+4CLIRTA  DETY=SUSCLIR  FNC=4      
+6CWP     DETY=SUSCWP   FNC=6      
+7SUSFDC  DETY=SUSFDC   FNC=7      
+1SUSRC   DETY=SUSRC    FNC=1      
+3SUSRC   DETY=SUSRC    FNC=3      
+LIST002  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST003  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST004  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST005  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST006  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST007  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST008  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST009  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST010  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST011  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST012  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST013  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST014  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST015  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST016  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST017  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST018  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST019  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST020  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST021  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST022  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST023  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST024  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST025  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST026  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+LIST027  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+TCIAL    DETY=TCIA     RSV=516    
+TCIAR1   DETY=TCIA     RSV=8      
+NALCU1E  DETY=LITS     
+         R=NALCU1S
+LIMEDID  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+CAJEROS  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RECCAJE  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+RECLIME  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+GESTNMS  DETY=UPDN3    TTRANS=1    FNC=7      
+         R=GESTNME
+GESTNME  DETY=UPDN3    PRI=10  FNC=7      
+         R=GESTNMS
+NAMNO1S  DETY=LITS     
+         R=NAMNO1E
+NAMNO1E  DETY=LITS     
+         R=NAMNO1S
+LI_MOR2  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RE_MOR2  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+LI_MOR3  DETY=ASDH     FNC=2      
+         R1=MAIN+1
+         MIS2=3     MIS4=1     MIS5=64    
+RE_MOR3  DETY=ASDH     FNC=5      
+         R1=MAIN+1
+
+END      
+
+
+<    STRSP:R=ALL;
+
+
+DEVICE STATE SURVEY
+R        NDV   NOCC  NIDL  NBLO  RSTAT
+SS0O       256    21    75   160 NORES
+SS0I       256    21    75   160 NORES
+KR2SS0      24     0    24     0 NORES
+CANS1        0     0     0     0 NORES
+CANS2        0     0     0     0 NORES
+CANSC1       0     0     0     0 NORES
+CANSC2       0     0     0     0 NORES
+CANSC3       0     0     0     0 NORES
+CANSCT       0     0     0     0 NORES
+TTON1        0     0     0     0 NORES
+TTON2        0     0     0     0 NORES
+CCD        544     0   544     0 NORES
+CSK2         0     0     0     0 NORES
+CSKD        32     0    32     0 NORES
+TONE         0     0     0     0 NORES
+CANST        0     0     0     0 NORES
+LIST001      1     1     0     0 NORES
+TONE1        0     0     0     0 NORES
+TONE2        0     0     0     0 NORES
+TONET        0     0     0     0 NORES
+PCDLS        0     0     0     0 NORES
+PIOZXIS    496   116   380     0 NORES
+PIOZXIE    496   116   380     0 NORES
+FLOEENS    465     0     0   465 BLOC
+FLOEENE    465     0     0   465 NORES
+OTYEXIS    341     0    62   279 NORES
+OTYEXIE    341     0    62   279 NORES
+ESRDM1S      2     2     0     0 NORES
+ESRDM1E      2     2     0     0 NORES
+EARDM1S    122     9    51    62 NORES
+EARDM1E    122     9    51    62 NORES
+RECEVE1      0     0     0     0 NORES
+EVENTO1      0     0     0     0 NORES
+ESMIR6S      2     2     0     0 NORES
+ESMIR6E      2     2     0     0 NORES
+EAMIR6S    401    43    47   311 NORES
+EAMIR6E    401    43    47   311 NORES
+ESSAT4S      0     0     0     0 NORES
+ESSAT4E      0     0     0     0 NORES
+EASAT4S    186    15    47   124 NORES
+EASAT4E    186    15    47   124 NORES
+REC+32       0     0     0     0 BLOC
+RECLOG       0     0     0     0 NORES
+TRILOG       0     0     0     0 NORES
+TCIAR2       0     0     0     0 BLOC
+NACCOCS      0     0     0     0 NORES
+NACCOCE      0     0     0     0 NORES
+NACCODS      0     0     0     0 NORES
+NACCODE      0     0     0     0 NORES
+KR           8     0     8     0 NORES
+MAIN+1      64     1    63     0 NORES
+REC+1        0     0     0     0 NORES
+PRUEBA       0     0     0     0 BLOC
+AUIF001      0     0     0     0 NORES
+AUIF002      0     0     0     0 NORES
+AUIF003      0     0     0     0 NORES
+AUIF004      0     0     0     0 NORES
+AUIF005      0     0     0     0 NORES
+AUIF006      0     0     0     0 NORES
+AUIF007      0     0     0     0 NORES
+AUIF008      0     0     0     0 NORES
+AUIF009      0     0     0     0 NORES
+AUIF010      0     0     0     0 NORES
+CS1         64     0    64     0 NORES
+CR1         64     0    64     0 NORES
+SULTO        0     0     0     0 NORES
+SULTI        0     0     0     0 NORES
+1TCONI       4     0     0     4 NORES
+2TCONI      28     0    28     0 NORES
+LI_ADS1      0     0     0     0 NORES
+RE_ADS1      0     0     0     0 NORES
+PIOZLIS    248    27   221     0 NORES
+PIOZLIE    248    27   221     0 NORES
+LOMEXIS    248     0     0   248 NORES
+LOMEXIE    248     0     0   248 NORES
+LIST032      0     0     0     0 BLOC
+MXLIXIS    308     0     0   308 NORES
+MXLIXIE    308     0     0   308 NORES
+SS4O       128     0   128     0 NORES
+SS4I       128     0   128     0 NORES
+NACCOAS    124     0    62    62 NORES
+SS2O       256     0   256     0 NORES
+SS2I       256     0   256     0 NORES
+KR2SS3      24     2    22     0 NORES
+SS3O       256    20    76   160 NORES
+SS3I       256    20    76   160 NORES
+TCTEST       8     0     8     0 NORES
+NACCOAE    124     0    62    62 NORES
+PRUEBAO      0     0     0     0 NORES
+BT2O         0     0     0     0 NORES
+BT2I         0     0     0     0 NORES
+PRUEBAI      0     0     0     0 NORES
+DIGCCBS      0     0     0     0 NORES
+PRLEOIS     62     0     0    62 NORES
+PRLEOIE     62     0     0    62 NORES
+RE_MED       0     0     0     0 NORES
+LI_MED       0     0     0     0 NORES
+BBUSY        0     0     0     0 NORES
+RTPOR1S    212    25    65   122 NORES
+RTPOR1E    212    25    65   122 NORES
+RSPOR1S      2     2     0     0 NORES
+RSPOR1E      2     2     0     0 NORES
+KRD2        64     0    63     1 NORES
+KRDTEST      0     0     0     0 NORES
+RTSOL1S    212    16    74   122 NORES
+RTSOL1E    212    16    74   122 NORES
+RSSOL1S      2     2     0     0 NORES
+RSSOL1E      2     2     0     0 NORES
+RTMIR1S      0     0     0     0 NORES
+RTMIR1E      0     0     0     0 NORES
+RTSOL2S    181     7    53   121 NORES
+RTSOL2E    181     7    53   121 NORES
+RSSOL2S      2     2     0     0 NORES
+RSSOL2E      2     2     0     0 NORES
+RTMIR2S    151     0   151     0 NORES
+RTMIR2E    151     0   151     0 NORES
+RSMIR2S      2     2     0     0 NORES
+RSMIR2E      2     2     0     0 NORES
+RTPOR2S    183    12    78    93 NORES
+RTPOR2E    183    12    78    93 NORES
+RSPOR2S      2     2     0     0 NORES
+RSPOR2E      2     2     0     0 NORES
+RE_050       0     0     0     0 NORES
+LI_050       0     0     0     0 NORES
+RECPACO      0     0     0     0 NORES
+LISPACO      0     0     0     0 NORES
+JTSS3O       0     0     0     0 NORES
+JTSS3I       0     0     0     0 NORES
+JTSS2O       0     0     0     0 NORES
+JTSS2I       0     0     0     0 NORES
+JTSS1O       0     0     0     0 NORES
+JTSS1I       0     0     0     0 NORES
+KR2POR1     32     2    30     0 NORES
+KR2SOL1     24     3    21     0 NORES
+KR2SS1      24     0    24     0 NORES
+KR2SS2      24     0    24     0 NORES
+KR2SOL2     24     1    23     0 NORES
+KR2MIR2     16     0    16     0 NORES
+KR2POR2     24     1    22     1 NORES
+LIST053      0     0     0     0 NORES
+SS1O       256     9    87   160 NORES
+SS1I       256     9    87   160 NORES
+LIST054      0     0     0     0 NORES
+LIST055      0     0     0     0 NORES
+LIST056      0     0     0     0 NORES
+LIST057      0     0     0     0 NORES
+1RPR116      0     0     0     0 BLOC
+1REC116      0     0     0     0 NORES
+REC+21       0     0     0     0 NORES
+REC+03       0     0     0     0 NORES
+REC+04       0     0     0     0 NORES
+REC+05       0     0     0     0 NORES
+REC+06       0     0     0     0 NORES
+REC+07       0     0     0     0 NORES
+REC+08       0     0     0     0 NORES
+REC+09       0     0     0     0 NORES
+REC+10       0     0     0     0 NORES
+REC+11       0     0     0     0 NORES
+REC+12       0     0     0     0 NORES
+REC+13       0     0     0     0 NORES
+REC+14       0     0     0     0 NORES
+REC+15       0     0     0     0 NORES
+REC+16       0     0     0     0 NORES
+REC+17       0     0     0     0 NORES
+REC+18       0     0     0     0 NORES
+REC+19       0     0     0     0 NORES
+REC+20       0     0     0     0 NORES
+REC+22       0     0     0     0 NORES
+REC+23       0     0     0     0 NORES
+REC+24       0     0     0     0 NORES
+REC+25       0     0     0     0 NORES
+MENS500      0     0     0     0 NORES
+MENS501      0     0     0     0 NORES
+TEST+05      0     0     0     0 NORES
+TEST+06      0     0     0     0 NORES
+TEST+07      0     0     0     0 NORES
+TEST+08      0     0     0     0 NORES
+TEST+09      0     0     0     0 NORES
+TEST+10      0     0     0     0 NORES
+TEST+11      0     0     0     0 NORES
+TEST+12      0     0     0     0 NORES
+TEST+13      0     0     0     0 NORES
+TEST+14      0     0     0     0 NORES
+TEST+15      0     0     0     0 NORES
+TEST+16      0     0     0     0 NORES
+TEST+17      0     0     0     0 NORES
+TEST+18      0     0     0     0 NORES
+TEST+19      0     0     0     0 NORES
+TEST+20      0     0     0     0 NORES
+TEST+21      0     0     0     0 NORES
+TEST+22      0     0     0     0 NORES
+TEST+23      0     0     0     0 NORES
+TEST+24      0     0     0     0 NORES
+TEST+25      0     0     0     0 NORES
+TEST+26      0     0     0     0 NORES
+TEST+27      0     0     0     0 BLOC
+REC+26       0     0     0     0 NORES
+REC+27       0     0     0     0 BLOC
+REC+28       0     0     0     0 NORES
+REC+29       0     0     0     0 NORES
+REC+30       0     0     0     0 NORES
+MENS28       0     0     0     0 NORES
+MENS29       0     0     0     0 NORES
+MENS30       0     0     0     0 NORES
+MENS31       0     0     0     0 NORES
+REC+31       0     0     0     0 NORES
+KR2SS4      16     0    16     0 NORES
+RSSOL3S      2     2     0     0 NORES
+RSSOL3E      2     2     0     0 NORES
+RTSOL3S    153     0   153     0 NORES
+RTSOL3E    153     0   153     0 NORES
+KR2SOL3     24     0    24     0 NORES
+SSI0O       32     0    32     0 NORES
+SSI0I       32     0    32     0 NORES
+PRUEBA0      0     0     0     0 BLOC
+DIGITO0      0     0     0     0 NORES
+TIJIXIS    215     0     0   215 NORES
+TIJIXIE    215     0     0   215 NORES
+DIGITO1      0     0     0     0 NORES
+DIGITO2      0     0     0     0 NORES
+DIGITO3      0     0     0     0 NORES
+DIGITO4      0     0     0     0 NORES
+FLOEXIS    155     0     0   155 BLOC
+FLOEXIE    155     0     0   155 NORES
+RSPOR3S      2     2     0     0 NORES
+RSPOR3E      2     2     0     0 NORES
+RTPOR3S    184     0   184     0 NORES
+RTPOR3E    184     0   184     0 NORES
+KR2POR3     16     0    16     0 NORES
+1LIS116      0     0     0     0 NORES
+RSMIR3S      2     2     0     0 NORES
+RSMIR3E      2     2     0     0 NORES
+RTMIR3S    215    13    78   124 NORES
+RTMIR3E    215    13    78   124 NORES
+KR2MIR3     16     0    16     0 NORES
+2LIS116      0     0     0     0 NORES
+2REC116      0     0     0     0 NORES
+3LIS116      0     0     0     0 NORES
+3REC116      0     0     0     0 NORES
+CSFSK       64     2    62     0 NORES
+RSSOL4S      2     2     0     0 NORES
+RSSOL4E      2     2     0     0 NORES
+DIGITO5      0     0     0     0 NORES
+DIGITO6      0     0     0     0 NORES
+RSMIR4S      0     0     0     0 NORES
+RSMIR4E      0     0     0     0 NORES
+RTMIR4S      0     0     0     0 NORES
+RTMIR4E      0     0     0     0 NORES
+KR2MIR4      0     0     0     0 NORES
+RSSS5S       0     0     0     0 NORES
+RSSS5E       0     0     0     0 NORES
+KR2SS5      16     0     0    16 NORES
+PRLEEIS    155     0     0   155 BLOC
+PRLEEIE    155     0     0   155 NORES
+RECBUZO      0     0     0     0 NORES
+BUZON        0     0     0     0 NORES
+RECBUZ1      0     0     0     0 NORES
+MARC10D      0     0     0     0 NORES
+RSSSI1S      2     2     0     0 NORES
+RSSSI1E      2     2     0     0 NORES
+RTSSI1S    184     0   184     0 NORES
+RTSSI1E    184     0   184     0 NORES
+CREDITO      0     0     0     0 NORES
+CREDIT1      0     0     0     0 NORES
+RECRED0      0     0     0     0 NORES
+RECRED1      0     0     0     0 NORES
+RTSOL4S     91     0    91     0 NORES
+RTSOL4E     91     0    91     0 NORES
+UPD3SIO      4     4     0     0 NORES
+UPD3SII      4     4     0     0 NORES
+DIGITO7      0     0     0     0 NORES
+DIGITO8      0     0     0     0 NORES
+LI_MORO      0     0     0     0 NORES
+RE_MORO      0     0     0     0 NORES
+RECEVEN      0     0     0     0 NORES
+EVENTO       0     0     0     0 NORES
+DIGITO9      0     0     0     0 NORES
+NALCU1S    124     0    62    62 NORES
+LIST002      0     0     0     0 NORES
+LIST003      0     0     0     0 NORES
+LIST004      0     0     0     0 NORES
+LIST005      0     0     0     0 NORES
+LIST006      0     0     0     0 NORES
+LIST007      0     0     0     0 NORES
+LIST008      0     0     0     0 NORES
+LIST009      0     0     0     0 NORES
+LIST010      0     0     0     0 NORES
+LIST011      0     0     0     0 NORES
+LIST012      0     0     0     0 NORES
+LIST013      0     0     0     0 NORES
+LIST014      0     0     0     0 NORES
+LIST015      0     0     0     0 NORES
+LIST016      0     0     0     0 NORES
+LIST017      0     0     0     0 NORES
+LIST018      0     0     0     0 NORES
+LIST019      0     0     0     0 NORES
+LIST020      0     0     0     0 NORES
+LIST021      0     0     0     0 NORES
+LIST022      0     0     0     0 NORES
+LIST023      0     0     0     0 NORES
+LIST024      0     0     0     0 NORES
+LIST025      0     0     0     0 NORES
+LIST026      0     0     0     0 NORES
+LIST027      0     0     0     0 NORES
+TCIAL        0     0     0     0 NORES
+TCIAR1       0     0     0     0 NORES
+NALCU1E    124     0    62    62 NORES
+LIMEDID      0     0     0     0 NORES
+CAJEROS      0     0     0     0 NORES
+RECCAJE      0     0     0     0 NORES
+RECLIME      0     0     0     0 NORES
+GESTNMS      1     0     0     1 BLOC
+GESTNME      1     0     0     1 NORES
+NAMNO1S      0     0     0     0 NORES
+NAMNO1E      0     0     0     0 NORES
+LI_MOR2      0     0     0     0 NORES
+RE_MOR2      0     0     0     0 NORES
+LI_MOR3      0     0     0     0 NORES
+RE_MOR3      0     0     0     0 NORES
+END

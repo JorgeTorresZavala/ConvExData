@@ -1,0 +1,1633 @@
+EXEMP:RP=ALL,EM=ALL;
+
+
+EM DATA
+
+RP    TYPE   EM  EQM                       TWIN  CNTRL  PP     STATE
+  32  STC2C   1  CLC-0                           PRIM          WO
+
+  33  STC2C   1  CLC-1                           PRIM          WO
+
+  34  STC2C   1  CLC-14                          PRIM          WO
+
+  35  STC2C   1  CLC-15                          PRIM          WO
+
+  38  STC2C   1  CLC-12                          PRIM          WO
+
+  39  STC2C   1  CLC-13                          PRIM          WO
+
+  40  RPM6A   0  ETRT2-0                     41  PRIM          WO
+  40  RPM6A   1  ETRT2-1                     41  SEC           WOTWIN
+  40  RPM6A   2  ETRT2-2                     41  PRIM          WO
+  40  RPM6A   3  ETRT2-3                     41  SEC           WOTWIN
+  40  RPM6A   4  ETRT2-4                     41  PRIM          WO
+  40  RPM6A   5  ETRT2-5                     41  SEC           WOTWIN
+  40  RPM6A   6  ETRT2-6                     41  PRIM          WO
+  40  RPM6A   7  ETRT2-7                     41  SEC           WOTWIN
+  40  RPM6A  13  ETRT2-13                    41  SEC           WOTWIN
+  40  RPM6A  14  ETRT2-14                    41  PRIM          WO
+  40  RPM6A  15  ETRT2-15                    41  SEC           WOTWIN
+
+  41  RPM6A   0  ETRT2-0                     40  SEC           WOTWIN
+  41  RPM6A   1  ETRT2-1                     40  PRIM          WO
+  41  RPM6A   2  ETRT2-2                     40  SEC           WOTWIN
+  41  RPM6A   3  ETRT2-3                     40  PRIM          WO
+  41  RPM6A   4  ETRT2-4                     40  SEC           WOTWIN
+  41  RPM6A   5  ETRT2-5                     40  PRIM          WO
+  41  RPM6A   6  ETRT2-6                     40  SEC           WOTWIN
+  41  RPM6A   7  ETRT2-7                     40  PRIM          WO
+  41  RPM6A  13  ETRT2-13                    40  PRIM          WO
+  41  RPM6A  14  ETRT2-14                    40  SEC           WOTWIN
+  41  RPM6A  15  ETRT2-15                    40  PRIM          WO
+
+  42  STC2C   1  CLC-2                           PRIM          WO
+
+  43  STC2C   1  CLC-3                           PRIM          WO
+
+  44  STC2C   1  CLC-10                          PRIM          WO
+
+  45  STC2C   1  CLC-11                          PRIM          WO
+
+  48  STC2C   1  CLC-34                          PRIM          WO
+
+  49  STC2C   1  CLC-35                          PRIM          WO
+
+  50  RPM6A   0  ETRT2-16                    51  PRIM          WO
+  50  RPM6A   1  ETRT2-17                    51  SEC           WOTWIN
+  50  RPM6A   2  ETRT2-18                    51  PRIM          WO
+  50  RPM6A   3  ETRT2-19                    51  SEC           WOTWIN
+  50  RPM6A   4  ETRT2-20                    51  PRIM          WO
+  50  RPM6A   5  ETRT2-21                    51  SEC           WOTWIN
+  50  RPM6A   6  ETRT2-22                    51  PRIM          WO
+  50  RPM6A   7  ETRT2-23                    51  SEC           WOTWIN
+  50  RPM6A   8  ETRT2-24                    51  PRIM          WO
+  50  RPM6A   9  ETRT2-25                    51  SEC           WOTWIN
+  50  RPM6A  10  ETRT2-26                    51  PRIM          WO
+  50  RPM6A  11  ETRT2-27                    51  SEC           WOTWIN
+  50  RPM6A  12  ETRT2-28                    51  PRIM          WO
+  50  RPM6A  13  ETRT2-29                    51  SEC           WOTWIN
+  50  RPM6A  14  ETRT2-30                    51  PRIM          WO
+  50  RPM6A  15  ETRT2-31                    51  SEC           WOTWIN
+
+  51  RPM6A   0  ETRT2-16                    50  SEC           WOTWIN
+  51  RPM6A   1  ETRT2-17                    50  PRIM          WO
+  51  RPM6A   2  ETRT2-18                    50  SEC           WOTWIN
+  51  RPM6A   3  ETRT2-19                    50  PRIM          WO
+  51  RPM6A   4  ETRT2-20                    50  SEC           WOTWIN
+  51  RPM6A   5  ETRT2-21                    50  PRIM          WO
+  51  RPM6A   6  ETRT2-22                    50  SEC           WOTWIN
+  51  RPM6A   7  ETRT2-23                    50  PRIM          WO
+  51  RPM6A   8  ETRT2-24                    50  SEC           WOTWIN
+  51  RPM6A   9  ETRT2-25                    50  PRIM          WO
+  51  RPM6A  10  ETRT2-26                    50  SEC           WOTWIN
+  51  RPM6A  11  ETRT2-27                    50  PRIM          WO
+  51  RPM6A  12  ETRT2-28                    50  SEC           WOTWIN
+  51  RPM6A  13  ETRT2-29                    50  PRIM          WO
+  51  RPM6A  14  ETRT2-30                    50  SEC           WOTWIN
+  51  RPM6A  15  ETRT2-31                    50  PRIM          WO
+
+  52  RPM6A   0  ETRT2-32                    53  PRIM          WO
+  52  RPM6A   1  ETRT2-33                    53  SEC           WOTWIN
+  52  RPM6A   2  ETRT2-34                    53  PRIM          WO
+  52  RPM6A   3  ETRT2-35                    53  SEC           WOTWIN
+  52  RPM6A   4  ETRT2-36                    53  PRIM          WO
+  52  RPM6A   5  ETRT2-37                    53  SEC           WOTWIN
+  52  RPM6A   6  ETRT3-0                     53  PRIM          WO
+  52  RPM6A   7  ETRT3-2                     53  SEC           WOTWIN
+  52  RPM6A   8  UPETN3-9728&&-9759          53  PRIM          WO
+  52  RPM6A   9  C7ETN3-2496&&-2527          53  SEC           MB
+  52  RPM6A  10  C7ETN3-1952&&-1983          53  PRIM          MB
+  52  RPM6A  11  UPETN3-9856&&-9887          53  SEC           WOTWIN
+  52  RPM6A  12  UPETN3-3712&&-3743          53  PRIM          WO
+  52  RPM6A  13  C7ETN3-1920&&-1951          53  SEC           MB
+  52  RPM6A  14  UPETN3-9760&&-9791          53  PRIM          WO
+
+  53  RPM6A   0  ETRT2-32                    52  SEC           WOTWIN
+  53  RPM6A   1  ETRT2-33                    52  PRIM          WO
+  53  RPM6A   2  ETRT2-34                    52  SEC           WOTWIN
+  53  RPM6A   3  ETRT2-35                    52  PRIM          WO
+  53  RPM6A   4  ETRT2-36                    52  SEC           WOTWIN
+  53  RPM6A   5  ETRT2-37                    52  PRIM          WO
+  53  RPM6A   6  ETRT3-0                     52  SEC           WOTWIN
+  53  RPM6A   7  ETRT3-2                     52  PRIM          WO
+  53  RPM6A   8  UPETN3-9728&&-9759          52  SEC           WOTWIN
+  53  RPM6A   9  C7ETN3-2496&&-2527          52  PRIM          MB
+  53  RPM6A  10  C7ETN3-1952&&-1983          52  SEC           MB
+  53  RPM6A  11  UPETN3-9856&&-9887          52  PRIM          WO
+  53  RPM6A  12  UPETN3-3712&&-3743          52  SEC           WOTWIN
+  53  RPM6A  13  C7ETN3-1920&&-1951          52  PRIM          MB
+  53  RPM6A  14  UPETN3-9760&&-9791          52  SEC           WOTWIN
+
+  54  RPM6A   0  CCD-384&&-415               55  PRIM          WO
+  54  RPM6A   1  CCD-416&&-447               55  SEC           WOTWIN
+  54  RPM6A   2  CCD-448&&-479               55  PRIM          WO
+  54  RPM6A   3  CCD-480&&-511               55  SEC           WOTWIN
+  54  RPM6A   4  CCD-512&&-543               55  PRIM          WO
+
+  55  RPM6A   0  CCD-384&&-415               54  SEC           WOTWIN
+  55  RPM6A   1  CCD-416&&-447               54  PRIM          WO
+  55  RPM6A   2  CCD-448&&-479               54  SEC           WOTWIN
+  55  RPM6A   3  CCD-480&&-511               54  PRIM          WO
+  55  RPM6A   4  CCD-512&&-543               54  SEC           WOTWIN
+
+  56  RPM6A   0  TC-0&&-3                    57  PRIM          WO
+  56  RPM6A   1  TC-4&&-7                    57  SEC           WOTWIN
+  56  RPM6A  15  KR-0&&-7                    57  PRIM          WO
+
+  57  RPM6A   0  TC-0&&-3                    56  SEC           WOTWIN
+  57  RPM6A   1  TC-4&&-7                    56  PRIM          WO
+  57  RPM6A  15  KR-0&&-7                    56  SEC           WOTWIN
+
+  58  RPBC2C  1  CLC-20                          PRIM          WO
+
+  59  RPBC2C  1  CLC-21                          PRIM          WO
+
+  60  RPM6A   0  CLT-0                       61  PRIM          WO
+  60  RPM6A   1  CLT-1                       61  SEC           WOTWIN
+  60  RPM6A   2  CLT-2                       61  PRIM          WO
+
+  61  RPM6A   0  CLT-0                       60  SEC           WOTWIN
+  61  RPM6A   1  CLT-1                       60  PRIM          WO
+  61  RPM6A   2  CLT-2                       60  SEC           WOTWIN
+
+  62  RPBC2C  1  CLC-16                          PRIM          WO
+
+  63  RPBC2C  1  CLC-17                          PRIM          WO
+
+  64  RPM6A   0  ASDS-0&&-63                 65  PRIM          WO
+
+  65  RPM6A   0  ASDS-0&&-63                 64  SEC           WOTWIN
+
+  66  RPM6A   0  C7ETN3-2528&&-2559          67  PRIM          MB
+  66  RPM6A   1  C7ETN3-1984&&-2015          67  SEC           MB
+  66  RPM6A   2  UPETN3-3680&&-3711          67  PRIM          WO
+  66  RPM6A   3  UPETN3-9792&&-9823          67  SEC           WOTWIN
+  66  RPM6A   4  C7ETN3-2016&&-2047          67  PRIM          MB
+  66  RPM6A   5  UPETN3-3648&&-3679          67  SEC           WOTWIN
+  66  RPM6A   6  C7ETN3-2048&&-2079          67  PRIM          MB
+  66  RPM6A   7  UPETN3-3616&&-3647          67  SEC           WOTWIN
+  66  RPM6A   8  C7ETN3-2080&&-2111          67  PRIM          MB
+  66  RPM6A   9  C7ETN3-2112&&-2143          67  SEC           MB
+  66  RPM6A  10  C7ETN3-2144&&-2175          67  PRIM          MB
+  66  RPM6A  11  C7ETN3-2176&&-2207          67  SEC           MB
+  66  RPM6A  12  C7ETN3-2208&&-2239          67  PRIM          MB
+  66  RPM6A  13  C7ETN3-2240&&-2271          67  SEC           MB
+  66  RPM6A  14  C7ETN3-2272&&-2303          67  PRIM          MB
+  66  RPM6A  15  C7ETN3-2304&&-2335          67  SEC           MB
+
+  67  RPM6A   0  C7ETN3-2528&&-2559          66  SEC           MB
+  67  RPM6A   1  C7ETN3-1984&&-2015          66  PRIM          MB
+  67  RPM6A   2  UPETN3-3680&&-3711          66  SEC           WOTWIN
+  67  RPM6A   3  UPETN3-9792&&-9823          66  PRIM          WO
+  67  RPM6A   4  C7ETN3-2016&&-2047          66  SEC           MB
+  67  RPM6A   5  UPETN3-3648&&-3679          66  PRIM          WO
+  67  RPM6A   6  C7ETN3-2048&&-2079          66  SEC           MB
+  67  RPM6A   7  UPETN3-3616&&-3647          66  PRIM          WO
+  67  RPM6A   8  C7ETN3-2080&&-2111          66  SEC           MB
+  67  RPM6A   9  C7ETN3-2112&&-2143          66  PRIM          MB
+  67  RPM6A  10  C7ETN3-2144&&-2175          66  SEC           MB
+  67  RPM6A  11  C7ETN3-2176&&-2207          66  PRIM          MB
+  67  RPM6A  12  C7ETN3-2208&&-2239          66  SEC           MB
+  67  RPM6A  13  C7ETN3-2240&&-2271          66  PRIM          MB
+  67  RPM6A  14  C7ETN3-2272&&-2303          66  SEC           MB
+  67  RPM6A  15  C7ETN3-2304&&-2335          66  PRIM          MB
+
+  68  RPM6A   0  ETBL3-0&&-31                69  PRIM          WO
+  68  RPM6A   1  ETBL3-32&&-63               69  SEC           WOTWIN
+  68  RPM6A   2  ETBL3-64&&-95               69  PRIM          WO
+  68  RPM6A   3  ETBL3-96&&-127              69  SEC           WOTWIN
+  68  RPM6A   4  ETBL3-128&&-159             69  PRIM          WO
+  68  RPM6A   5  ETBL3-160&&-191             69  SEC           WOTWIN
+  68  RPM6A   6  ETBL3-192&&-223             69  PRIM          WO
+  68  RPM6A   7  ETBL3-224&&-255             69  SEC           WOTWIN
+  68  RPM6A   8  C7ETN3-1024&&-1055          69  PRIM          MB
+  68  RPM6A   9  C7ETN3-1056&&-1087          69  SEC           MB
+  68  RPM6A  10  UPETN3-2208&&-2239          69  PRIM          WO
+  68  RPM6A  11  UPETN3-384&&-415            69  SEC           WOTWIN
+  68  RPM6A  12  UPETN3-416&&-447            69  PRIM          WO
+  68  RPM6A  13  UPETN3-2432&&-2463          69  SEC           MB
+  68  RPM6A  14  UPETN3-2464&&-2495          69  PRIM          MB
+  68  RPM6A  15  UPETN3-448&&-479            69  SEC           WOTWIN
+
+  69  RPM6A   0  ETBL3-0&&-31                68  SEC           WOTWIN
+  69  RPM6A   1  ETBL3-32&&-63               68  PRIM          WO
+  69  RPM6A   2  ETBL3-64&&-95               68  SEC           WOTWIN
+  69  RPM6A   3  ETBL3-96&&-127              68  PRIM          WO
+  69  RPM6A   4  ETBL3-128&&-159             68  SEC           WOTWIN
+  69  RPM6A   5  ETBL3-160&&-191             68  PRIM          WO
+  69  RPM6A   6  ETBL3-192&&-223             68  SEC           WOTWIN
+  69  RPM6A   7  ETBL3-224&&-255             68  PRIM          WO
+  69  RPM6A   8  C7ETN3-1024&&-1055          68  SEC           MB
+  69  RPM6A   9  C7ETN3-1056&&-1087          68  PRIM          MB
+  69  RPM6A  10  UPETN3-2208&&-2239          68  SEC           WOTWIN
+  69  RPM6A  11  UPETN3-384&&-415            68  PRIM          WO
+  69  RPM6A  12  UPETN3-416&&-447            68  SEC           WOTWIN
+  69  RPM6A  13  UPETN3-2432&&-2463          68  PRIM          MB
+  69  RPM6A  14  UPETN3-2464&&-2495          68  SEC           MB
+  69  RPM6A  15  UPETN3-448&&-479            68  PRIM          WO
+
+  70  RPM6A   0  CSKD-0&&-31                 71  PRIM          WO
+
+  71  RPM6A   0  CSKD-0&&-31                 70  SEC           WOTWIN
+
+  72  RPM6A   0  CSRLM-0&&-15                73  PRIM          WO
+  72  RPM6A   1  CSRLM-16&&-31               73  SEC           WOTWIN
+  72  RPM6A   2  CSRLM-32&&-47               73  PRIM          WO
+  72  RPM6A   3  CSRLM-48&&-63               73  SEC           WOTWIN
+
+  73  RPM6A   0  CSRLM-0&&-15                72  SEC           WOTWIN
+  73  RPM6A   1  CSRLM-16&&-31               72  PRIM          WO
+  73  RPM6A   2  CSRLM-32&&-47               72  SEC           WOTWIN
+  73  RPM6A   3  CSRLM-48&&-63               72  PRIM          WO
+
+  74  RPM6A   0  CCD-0&&-31                  75  PRIM          WO
+  74  RPM6A   1  CCD-32&&-63                 75  SEC           WOTWIN
+  74  RPM6A   2  CCD-64&&-95                 75  PRIM          WO
+  74  RPM6A   3  CCD-96&&-127                75  SEC           WOTWIN
+  74  RPM6A   4  CCD-128&&-159               75  PRIM          WO
+  74  RPM6A   5  CCD-160&&-191               75  SEC           WOTWIN
+
+  75  RPM6A   0  CCD-0&&-31                  74  SEC           WOTWIN
+  75  RPM6A   1  CCD-32&&-63                 74  PRIM          WO
+  75  RPM6A   2  CCD-64&&-95                 74  SEC           WOTWIN
+  75  RPM6A   3  CCD-96&&-127                74  PRIM          WO
+  75  RPM6A   4  CCD-128&&-159               74  SEC           WOTWIN
+  75  RPM6A   5  CCD-160&&-191               74  PRIM          WO
+
+  76  RPM6A   0  CCD-192&&-223               77  PRIM          WO
+  76  RPM6A   1  CCD-224&&-255               77  SEC           WOTWIN
+  76  RPM6A   2  CCD-256&&-287               77  PRIM          WO
+  76  RPM6A   3  CCD-288&&-319               77  SEC           WOTWIN
+  76  RPM6A   4  CCD-320&&-351               77  PRIM          WO
+  76  RPM6A   5  CCD-352&&-383               77  SEC           WOTWIN
+
+  77  RPM6A   0  CCD-192&&-223               76  SEC           WOTWIN
+  77  RPM6A   1  CCD-224&&-255               76  PRIM          WO
+  77  RPM6A   2  CCD-256&&-287               76  SEC           WOTWIN
+  77  RPM6A   3  CCD-288&&-319               76  PRIM          WO
+  77  RPM6A   4  CCD-320&&-351               76  SEC           WOTWIN
+  77  RPM6A   5  CCD-352&&-383               76  PRIM          WO
+
+  78  RPBC2C  1  CLC-8                           PRIM          WO
+
+  79  RPBC2C  1  CLC-9                           PRIM          WO
+
+  80  RPM6A   0  TSM-0                       81  PRIM          WO
+  80  RPM6A   1  TSM-0                       81  PRIM          WO
+  80  RPM6A   2  TSM-1                       81  SEC           WOTWIN
+  80  RPM6A   3  TSM-1                       81  SEC           WOTWIN
+  80  RPM6A   4  TSM-2                       81  PRIM          WO
+  80  RPM6A   5  TSM-2                       81  PRIM          WO
+  80  RPM6A   6  TSM-3                       81  SEC           WOTWIN
+  80  RPM6A   7  TSM-3                       81  SEC           WOTWIN
+  80  RPM6A   8  TSM-4                       81  PRIM          WO
+  80  RPM6A   9  TSM-4                       81  PRIM          WO
+  80  RPM6A  10  TSM-5                       81  SEC           WOTWIN
+  80  RPM6A  11  TSM-5                       81  SEC           WOTWIN
+  80  RPM6A  12  TSM-6                       81  PRIM          WO
+  80  RPM6A  13  TSM-6                       81  PRIM          WO
+  80  RPM6A  14  TSM-7                       81  SEC           WOTWIN
+  80  RPM6A  15  TSM-7                       81  SEC           WOTWIN
+
+  81  RPM6A   0  TSM-0                       80  SEC           WOTWIN
+  81  RPM6A   1  TSM-0                       80  SEC           WOTWIN
+  81  RPM6A   2  TSM-1                       80  PRIM          WO
+  81  RPM6A   3  TSM-1                       80  PRIM          WO
+  81  RPM6A   4  TSM-2                       80  SEC           WOTWIN
+  81  RPM6A   5  TSM-2                       80  SEC           WOTWIN
+  81  RPM6A   6  TSM-3                       80  PRIM          WO
+  81  RPM6A   7  TSM-3                       80  PRIM          WO
+  81  RPM6A   8  TSM-4                       80  SEC           WOTWIN
+  81  RPM6A   9  TSM-4                       80  SEC           WOTWIN
+  81  RPM6A  10  TSM-5                       80  PRIM          WO
+  81  RPM6A  11  TSM-5                       80  PRIM          WO
+  81  RPM6A  12  TSM-6                       80  SEC           WOTWIN
+  81  RPM6A  13  TSM-6                       80  SEC           WOTWIN
+  81  RPM6A  14  TSM-7                       80  PRIM          WO
+  81  RPM6A  15  TSM-7                       80  PRIM          WO
+
+  82  RPM6A   0  TSM-8                       83  PRIM          WO
+  82  RPM6A   1  TSM-8                       83  PRIM          WO
+  82  RPM6A   2  TSM-9                       83  SEC           WOTWIN
+  82  RPM6A   3  TSM-9                       83  SEC           WOTWIN
+  82  RPM6A   4  TSM-10                      83  PRIM          WO
+  82  RPM6A   5  TSM-10                      83  PRIM          WO
+  82  RPM6A   6  TSM-11                      83  SEC           WOTWIN
+  82  RPM6A   7  TSM-11                      83  SEC           WOTWIN
+  82  RPM6A   8  TSM-12                      83  PRIM          WO
+  82  RPM6A   9  TSM-12                      83  PRIM          WO
+  82  RPM6A  10  TSM-13                      83  SEC           WOTWIN
+  82  RPM6A  11  TSM-13                      83  SEC           WOTWIN
+  82  RPM6A  12  TSM-14                      83  PRIM          WO
+  82  RPM6A  13  TSM-14                      83  PRIM          WO
+  82  RPM6A  14  TSM-15                      83  SEC           WOTWIN
+  82  RPM6A  15  TSM-15                      83  SEC           WOTWIN
+
+  83  RPM6A   0  TSM-8                       82  SEC           WOTWIN
+  83  RPM6A   1  TSM-8                       82  SEC           WOTWIN
+  83  RPM6A   2  TSM-9                       82  PRIM          WO
+  83  RPM6A   3  TSM-9                       82  PRIM          WO
+  83  RPM6A   4  TSM-10                      82  SEC           WOTWIN
+  83  RPM6A   5  TSM-10                      82  SEC           WOTWIN
+  83  RPM6A   6  TSM-11                      82  PRIM          WO
+  83  RPM6A   7  TSM-11                      82  PRIM          WO
+  83  RPM6A   8  TSM-12                      82  SEC           WOTWIN
+  83  RPM6A   9  TSM-12                      82  SEC           WOTWIN
+  83  RPM6A  10  TSM-13                      82  PRIM          WO
+  83  RPM6A  11  TSM-13                      82  PRIM          WO
+  83  RPM6A  12  TSM-14                      82  SEC           WOTWIN
+  83  RPM6A  13  TSM-14                      82  SEC           WOTWIN
+  83  RPM6A  14  TSM-15                      82  PRIM          WO
+  83  RPM6A  15  TSM-15                      82  PRIM          WO
+
+  84  RPBC2C  1  CLC-6                           PRIM          WO
+
+  85  RPBC2C  1  CLC-7                           PRIM          WO
+
+  86  RPM6A   0  UPETN3-9664&&-9695          87  PRIM          WO
+  86  RPM6A   1  C7ETN3-32&&-63              87  SEC           MB
+  86  RPM6A   2  C7ETN3-64&&-95              87  PRIM          MB
+  86  RPM6A   3  UPETN3-9824&&-9855          87  SEC           WOTWIN
+  86  RPM6A   4  UPETN3-1792&&-1823          87  PRIM          WO
+  86  RPM6A   5  UPETN3-2112&&-2143          87  SEC           WOTWIN
+  86  RPM6A   6  UPETN3-2080&&-2111          87  SEC           MB
+  86  RPM6A   7  UPETN3-9696&&-9727          87  SEC           WOTWIN
+  86  RPM6A   8  C7ETN3-256&&-287            87  PRIM          MB
+  86  RPM6A   9  UPETN3-1824&&-1855          87  PRIM          WO
+  86  RPM6A  10  UPETN3-1952&&-1983          87  SEC           MB
+  86  RPM6A  11  UPETN3-1856&&-1887          87  PRIM          WO
+  86  RPM6A  12  UPETN3-1984&&-2015          87  SEC           MB
+  86  RPM6A  13  UPETN3-1888&&-1919          87  PRIM          WO
+  86  RPM6A  14  UPETN3-2016&&-2047          87  SEC           MB
+  86  RPM6A  15  UPETN3-1920&&-1951          87  PRIM          MB
+
+  87  RPM6A   0  UPETN3-9664&&-9695          86  SEC           WOTWIN
+  87  RPM6A   1  C7ETN3-32&&-63              86  PRIM          MB
+  87  RPM6A   2  C7ETN3-64&&-95              86  SEC           MB
+  87  RPM6A   3  UPETN3-9824&&-9855          86  PRIM          WO
+  87  RPM6A   4  UPETN3-1792&&-1823          86  SEC           WOTWIN
+  87  RPM6A   5  UPETN3-2112&&-2143          86  PRIM          WO
+  87  RPM6A   6  UPETN3-2080&&-2111          86  PRIM          MB
+  87  RPM6A   7  UPETN3-9696&&-9727          86  PRIM          WO
+  87  RPM6A   8  C7ETN3-256&&-287            86  SEC           MB
+  87  RPM6A   9  UPETN3-1824&&-1855          86  SEC           WOTWIN
+  87  RPM6A  10  UPETN3-1952&&-1983          86  PRIM          MB
+  87  RPM6A  11  UPETN3-1856&&-1887          86  SEC           WOTWIN
+  87  RPM6A  12  UPETN3-1984&&-2015          86  PRIM          MB
+  87  RPM6A  13  UPETN3-1888&&-1919          86  SEC           WOTWIN
+  87  RPM6A  14  UPETN3-2016&&-2047          86  PRIM          MB
+  87  RPM6A  15  UPETN3-1920&&-1951          86  SEC           MB
+
+  88  RPM6A   0  UPETN3-2048&&-2079          89  SEC           MB
+  88  RPM6A   1  C7ETN3-544&&-575            89  SEC           MB
+  88  RPM6A   2  UPETN3-9920&&-9951          89  PRIM          WO
+  88  RPM6A   3  UPETN3-3936&&-3967          89  SEC           WOTWIN
+  88  RPM6A   4  C7ETN3-640&&-671            89  PRIM          MB
+  88  RPM6A   5  C7ETN3-672&&-703            89  SEC           MB
+  88  RPM6A   6  UPETN3-2144&&-2175          89  PRIM          WO
+  88  RPM6A   7  UPETN3-2176&&-2207          89  SEC           WOTWIN
+  88  RPM6A   8  UPETN3-2240&&-2271          89  PRIM          MB
+  88  RPM6A   9  UPETN3-2272&&-2303          89  SEC           MB
+  88  RPM6A  10  UPETN3-2304&&-2335          89  PRIM          MB
+  88  RPM6A  11  UPETN3-3904&&-3935          89  SEC           WOTWIN
+  88  RPM6A  12  UPETN3-3872&&-3903          89  PRIM          WO
+  88  RPM6A  13  UPETN3-288&&-319            89  SEC           WOTWIN
+  88  RPM6A  14  UPETN3-320&&-351            89  PRIM          WO
+  88  RPM6A  15  UPETN3-352&&-383            89  SEC           WOTWIN
+
+  89  RPM6A   0  UPETN3-2048&&-2079          88  PRIM          MB
+  89  RPM6A   1  C7ETN3-544&&-575            88  PRIM          MB
+  89  RPM6A   2  UPETN3-9920&&-9951          88  SEC           WOTWIN
+  89  RPM6A   3  UPETN3-3936&&-3967          88  PRIM          WO
+  89  RPM6A   4  C7ETN3-640&&-671            88  SEC           MB
+  89  RPM6A   5  C7ETN3-672&&-703            88  PRIM          MB
+  89  RPM6A   6  UPETN3-2144&&-2175          88  SEC           WOTWIN
+  89  RPM6A   7  UPETN3-2176&&-2207          88  PRIM          WO
+  89  RPM6A   8  UPETN3-2240&&-2271          88  SEC           MB
+  89  RPM6A   9  UPETN3-2272&&-2303          88  PRIM          MB
+  89  RPM6A  10  UPETN3-2304&&-2335          88  SEC           MB
+  89  RPM6A  11  UPETN3-3904&&-3935          88  PRIM          WO
+  89  RPM6A  12  UPETN3-3872&&-3903          88  SEC           WOTWIN
+  89  RPM6A  13  UPETN3-288&&-319            88  PRIM          WO
+  89  RPM6A  14  UPETN3-320&&-351            88  SEC           WOTWIN
+  89  RPM6A  15  UPETN3-352&&-383            88  PRIM          WO
+
+  90  RPM6A   0  ETL3DM-832&&-863            91  PRIM          WO
+  90  RPM6A   1  ETBL3-288&&-319             91  SEC           WOTWIN
+  90  RPM6A   2  ETBL3-320&&-351             91  PRIM          WO
+  90  RPM6A   3  ETBL3-352&&-383             91  SEC           WOTWIN
+  90  RPM6A   4  ETL3DM-96&&-127             91  PRIM          WO
+  90  RPM6A   5  ETL3DM-128&&-159            91  SEC           WOTWIN
+  90  RPM6A   6  ETBL3-448&&-479             91  PRIM          WO
+  90  RPM6A   7  ETBL3-480&&-511             91  SEC           WOTWIN
+  90  RPM6A   8  UPETN3-480&&-511            91  PRIM          WO
+  90  RPM6A   9  UPETN3-2336&&-2367          91  SEC           MB
+  90  RPM6A  10  UPETN3-2368&&-2399          91  PRIM          MB
+  90  RPM6A  11  UPETN3-2400&&-2431          91  SEC           MB
+  90  RPM6A  12  UPETN3-3840&&-3871          91  PRIM          WO
+  90  RPM6A  13  UPETN3-3808&&-3839          91  SEC           WOTWIN
+  90  RPM6A  14  UPETN3-3776&&-3807          91  PRIM          WO
+  90  RPM6A  15  UPETN3-128&&-159            91  SEC           WOTWIN
+
+  91  RPM6A   0  ETL3DM-832&&-863            90  SEC           WOTWIN
+  91  RPM6A   1  ETBL3-288&&-319             90  PRIM          WO
+  91  RPM6A   2  ETBL3-320&&-351             90  SEC           WOTWIN
+  91  RPM6A   3  ETBL3-352&&-383             90  PRIM          WO
+  91  RPM6A   4  ETL3DM-96&&-127             90  SEC           WOTWIN
+  91  RPM6A   5  ETL3DM-128&&-159            90  PRIM          WO
+  91  RPM6A   6  ETBL3-448&&-479             90  SEC           WOTWIN
+  91  RPM6A   7  ETBL3-480&&-511             90  PRIM          WO
+  91  RPM6A   8  UPETN3-480&&-511            90  SEC           WOTWIN
+  91  RPM6A   9  UPETN3-2336&&-2367          90  PRIM          MB
+  91  RPM6A  10  UPETN3-2368&&-2399          90  SEC           MB
+  91  RPM6A  11  UPETN3-2400&&-2431          90  PRIM          MB
+  91  RPM6A  12  UPETN3-3840&&-3871          90  SEC           WOTWIN
+  91  RPM6A  13  UPETN3-3808&&-3839          90  PRIM          WO
+  91  RPM6A  14  UPETN3-3776&&-3807          90  SEC           WOTWIN
+  91  RPM6A  15  UPETN3-128&&-159            90  PRIM          WO
+
+  92  RPM6A   0  UPETN3-160&&-191            93  PRIM          WO
+  92  RPM6A   1  UPETN3-192&&-223            93  SEC           WOTWIN
+  92  RPM6A   2  UPETN3-224&&-255            93  PRIM          WO
+  92  RPM6A   3  UPETN3-256&&-287            93  SEC           WOTWIN
+  92  RPM6A   4  UPETN3-64&&-95              93  PRIM          WO
+  92  RPM6A   5  UPETN3-96&&-127             93  SEC           WOTWIN
+  92  RPM6A   6  UPETN3-3968&&-3999          93  PRIM          WO
+  92  RPM6A   7  UPETN3-9888&&-9919          93  SEC           WOTWIN
+  92  RPM6A   8  UPETN3-4000&&-4031          93  PRIM          WO
+  92  RPM6A   9  UPETN3-0&&-31               93  SEC           WOTWIN
+  92  RPM6A  10  UPETN3-32&&-63              93  PRIM          WO
+
+  93  RPM6A   0  UPETN3-160&&-191            92  SEC           WOTWIN
+  93  RPM6A   1  UPETN3-192&&-223            92  PRIM          WO
+  93  RPM6A   2  UPETN3-224&&-255            92  SEC           WOTWIN
+  93  RPM6A   3  UPETN3-256&&-287            92  PRIM          WO
+  93  RPM6A   4  UPETN3-64&&-95              92  SEC           WOTWIN
+  93  RPM6A   5  UPETN3-96&&-127             92  PRIM          WO
+  93  RPM6A   6  UPETN3-3968&&-3999          92  SEC           WOTWIN
+  93  RPM6A   7  UPETN3-9888&&-9919          92  PRIM          WO
+  93  RPM6A   8  UPETN3-4000&&-4031          92  SEC           WOTWIN
+  93  RPM6A   9  UPETN3-0&&-31               92  PRIM          WO
+  93  RPM6A  10  UPETN3-32&&-63              92  SEC           WOTWIN
+
+  94  RPM6A   0  C7ST2-0                     95  PRIM          WO
+  94  RPM6A   1  C7ST2-1                     95  SEC           WOTWIN
+  94  RPM6A   2  C7ST2-2                     95  PRIM          WO
+  94  RPM6A   3  C7ST2-3                     95  SEC           WOTWIN
+
+  95  RPM6A   0  C7ST2-0                     94  SEC           WOTWIN
+  95  RPM6A   1  C7ST2-1                     94  PRIM          WO
+  95  RPM6A   2  C7ST2-2                     94  SEC           WOTWIN
+  95  RPM6A   3  C7ST2-3                     94  PRIM          WO
+
+  96  RPM6A   0  KRD-0&&-15                  97  PRIM          WO
+  96  RPM6A   1  CSFSK-32&&-63               97  SEC           WOTWIN
+
+  97  RPM6A   0  KRD-0&&-15                  96  SEC           WOTWIN
+  97  RPM6A   1  CSFSK-32&&-63               96  PRIM          WO
+
+  98  RPM6A   0  ETL3DM-0&&-31               99  PRIM          WO
+  98  RPM6A   1  ETL3DM-32&&-63              99  PRIM          WO
+  98  RPM6A   2  ETL3DM-64&&-95              99  PRIM          WO
+  98  RPM6A   3  UPETN3-3744&&-3775          99  SEC           WOTWIN
+  98  RPM6A   4  ET2D3-0&&-31                99  PRIM          WO
+  98  RPM6A   5  C7ETN3-3488&&-3519          99  SEC           WOTWIN
+  98  RPM6A   6  C7ETN3-3520&&-3551          99  PRIM          WO
+  98  RPM6A   8  ETRT3-3                     99  PRIM          WO
+  98  RPM6A   9  ETRT2-38                    99  SEC           WOTWIN
+  98  RPM6A  10  ETRT2-39                    99  PRIM          WO
+  98  RPM6A  11  ETRT2-40                    99  SEC           WOTWIN
+  98  RPM6A  12  ETRT2-41                    99  PRIM          WO
+  98  RPM6A  13  ETRT2-42                    99  SEC           WOTWIN
+  98  RPM6A  14  ETRT2-43                    99  PRIM          WO
+  98  RPM6A  15  ETRT2-52                    99  SEC           WOTWIN
+
+  99  RPM6A   0  ETL3DM-0&&-31               98  SEC           WOTWIN
+  99  RPM6A   1  ETL3DM-32&&-63              98  SEC           WOTWIN
+  99  RPM6A   2  ETL3DM-64&&-95              98  SEC           WOTWIN
+  99  RPM6A   3  UPETN3-3744&&-3775          98  PRIM          WO
+  99  RPM6A   4  ET2D3-0&&-31                98  SEC           WOTWIN
+  99  RPM6A   5  C7ETN3-3488&&-3519          98  PRIM          WO
+  99  RPM6A   6  C7ETN3-3520&&-3551          98  SEC           WOTWIN
+  99  RPM6A   8  ETRT3-3                     98  SEC           WOTWIN
+  99  RPM6A   9  ETRT2-38                    98  PRIM          WO
+  99  RPM6A  10  ETRT2-39                    98  SEC           WOTWIN
+  99  RPM6A  11  ETRT2-40                    98  PRIM          WO
+  99  RPM6A  12  ETRT2-41                    98  SEC           WOTWIN
+  99  RPM6A  13  ETRT2-42                    98  PRIM          WO
+  99  RPM6A  14  ETRT2-43                    98  SEC           WOTWIN
+  99  RPM6A  15  ETRT2-52                    98  PRIM          WO
+
+ 100  RPM6A   0  KRD-16&&-31                101  PRIM          WO
+ 100  RPM6A   1  CSFSK-0&&-31               101  SEC           WOTWIN
+
+ 101  RPM6A   0  KRD-16&&-31                100  SEC           WOTWIN
+ 101  RPM6A   1  CSFSK-0&&-31               100  PRIM          WO
+
+ 102  STC2C   1  CLC-38                          PRIM          CB
+
+ 103  STC2C   1  CLC-39                          PRIM          CB
+
+ 104  STC2C   1  CLC-24                          PRIM          WO
+
+ 105  STC2C   1  CLC-25                          PRIM          WO
+
+ 106  STC2C   1  CLC-28                          PRIM          WO
+
+ 107  STC2C   1  CLC-29                          PRIM          WO
+
+ 108  STC2C   1  CLC-32                          PRIM          WO
+
+ 109  STC2C   1  CLC-33                          PRIM          WO
+
+ 110  RPBC2C  1  CLC-22                          PRIM          WO
+
+ 111  RPBC2C  1  CLC-23                          PRIM          WO
+
+ 112  RPBC2C  1  CLC-26                          PRIM          WO
+
+ 113  RPBC2C  1  CLC-27                          PRIM          WO
+
+ 114  RPD1A   0  STGAM-0&&-31                    PRIM          WO
+ 114  RPD1A   1  DLPRA-0                         PRIM          WO
+ 114  RPD1A   2  MANPRA-0                        PRIM          WO
+ 114  RPD1A   3  MHPRA-0                         PRIM          WO
+
+ 115  RPD1A   0  STGAM-32&&-63                   PRIM          WO
+ 115  RPD1A   1  DLPRA-1                         PRIM          WO
+ 115  RPD1A   2  MANPRA-1                        PRIM          WO
+ 115  RPD1A   3  MHPRA-1                         PRIM          WO
+
+ 116  STC2C   1  CLC-30                          PRIM          WO
+
+ 117  STC2C   1  CLC-31                          PRIM          WO
+
+ 121  STC2C   1  CLC-43                          PRIM          WO
+
+ 122  STC2C   1  CLC-40                          PRIM          WO
+
+ 123  STC2C   1  CLC-41                          PRIM          WO
+
+ 124  RPM6A   0  ETRT2-44                   125  PRIM          WO
+ 124  RPM6A   1  ETRT2-45                   125  SEC           WOTWIN
+ 124  RPM6A   2  ETRT2-46                   125  PRIM          WO
+ 124  RPM6A   3  ETRT2-47                   125  SEC           WOTWIN
+ 124  RPM6A   4  ETRT2-48                   125  PRIM          WO
+ 124  RPM6A   5  ETRT2-49                   125  SEC           WOTWIN
+ 124  RPM6A   7  ETRT2-51                   125  SEC           WOTWIN
+
+ 125  RPM6A   0  ETRT2-44                   124  SEC           WOTWIN
+ 125  RPM6A   1  ETRT2-45                   124  PRIM          WO
+ 125  RPM6A   2  ETRT2-46                   124  SEC           WOTWIN
+ 125  RPM6A   3  ETRT2-47                   124  PRIM          WO
+ 125  RPM6A   4  ETRT2-48                   124  SEC           WOTWIN
+ 125  RPM6A   5  ETRT2-49                   124  PRIM          WO
+ 125  RPM6A   7  ETRT2-51                   124  PRIM          WO
+
+ 126  RPD1A   0  STGAM-64&&-95                   PRIM          WO
+ 126  RPD1A   1  DLPRA-2                         PRIM          WO
+ 126  RPD1A   2  MANPRA-2                        PRIM          WO
+ 126  RPD1A   3  MHPRA-2                         PRIM          WO
+
+ 128  RPM6A   0  ETRT2-53                   129  PRIM          WO
+ 128  RPM6A   1  ETRT2-54                   129  SEC           WOTWIN
+ 128  RPM6A   2  ETRT2-55                   129  PRIM          WO
+ 128  RPM6A   3  ETRT2-56                   129  SEC           WOTWIN
+ 128  RPM6A   4  ETRT2-57                   129  PRIM          WO
+ 128  RPM6A   5  ETRT2-58                   129  SEC           WOTWIN
+ 128  RPM6A   6  ETRT2-59                   129  PRIM          WO
+ 128  RPM6A   7  ETRT2-60                   129  SEC           WOTWIN
+ 128  RPM6A   8  ETRT2-61                   129  PRIM          WO
+ 128  RPM6A   9  ETRT3-4                    129  SEC           WOTWIN
+ 128  RPM6A  10  ETRT3-6                    129  PRIM          WO
+ 128  RPM6A  11  ETRT3-7                    129  SEC           WOTWIN
+ 128  RPM6A  12  ETRT3-8                    129  PRIM          WO
+ 128  RPM6A  13  ETRT3-10                   129  SEC           WOTWIN
+ 128  RPM6A  14  ETRT3-11                   129  PRIM          WO
+ 128  RPM6A  15  ETRT3-12                   129  SEC           WOTWIN
+
+ 129  RPM6A   0  ETRT2-53                   128  SEC           WOTWIN
+ 129  RPM6A   1  ETRT2-54                   128  PRIM          WO
+ 129  RPM6A   2  ETRT2-55                   128  SEC           WOTWIN
+ 129  RPM6A   3  ETRT2-56                   128  PRIM          WO
+ 129  RPM6A   4  ETRT2-57                   128  SEC           WOTWIN
+ 129  RPM6A   5  ETRT2-58                   128  PRIM          WO
+ 129  RPM6A   6  ETRT2-59                   128  SEC           WOTWIN
+ 129  RPM6A   7  ETRT2-60                   128  PRIM          WO
+ 129  RPM6A   8  ETRT2-61                   128  SEC           WOTWIN
+ 129  RPM6A   9  ETRT3-4                    128  PRIM          WO
+ 129  RPM6A  10  ETRT3-6                    128  SEC           WOTWIN
+ 129  RPM6A  11  ETRT3-7                    128  PRIM          WO
+ 129  RPM6A  12  ETRT3-8                    128  SEC           WOTWIN
+ 129  RPM6A  13  ETRT3-10                   128  PRIM          WO
+ 129  RPM6A  14  ETRT3-11                   128  SEC           WOTWIN
+ 129  RPM6A  15  ETRT3-12                   128  PRIM          WO
+
+ 130  RPM6A   0  UPETN3-704&&-735           131  PRIM          WO
+ 130  RPM6A   1  UPETN3-736&&-767           131  SEC           WOTWIN
+ 130  RPM6A   2  UPETN3-768&&-799           131  PRIM          WO
+ 130  RPM6A   3  UPETN3-800&&-831           131  SEC           MB
+ 130  RPM6A   4  UPETN3-832&&-863           131  PRIM          MB
+ 130  RPM6A   5  UPETN3-864&&-895           131  SEC           WOTWIN
+ 130  RPM6A   6  UPETN3-896&&-927           131  PRIM          WO
+ 130  RPM6A   7  UPETN3-512&&-543           131  SEC           WOTWIN
+ 130  RPM6A   8  UPETN3-544&&-575           131  PRIM          WO
+ 130  RPM6A   9  UPETN3-576&&-607           131  SEC           WOTWIN
+ 130  RPM6A  10  UPETN3-608&&-639           131  PRIM          WO
+ 130  RPM6A  11  UPETN3-640&&-671           131  SEC           WOTWIN
+ 130  RPM6A  12  UPETN3-672&&-703           131  PRIM          WO
+ 130  RPM6A  13  UPETN3-928&&-959           131  SEC           MB
+ 130  RPM6A  14  UPETN3-960&&-991           131  PRIM          MB
+ 130  RPM6A  15  UPETN3-992&&-1023          131  SEC           WOTWIN
+
+ 131  RPM6A   0  UPETN3-704&&-735           130  SEC           WOTWIN
+ 131  RPM6A   1  UPETN3-736&&-767           130  PRIM          WO
+ 131  RPM6A   2  UPETN3-768&&-799           130  SEC           WOTWIN
+ 131  RPM6A   3  UPETN3-800&&-831           130  PRIM          MB
+ 131  RPM6A   4  UPETN3-832&&-863           130  SEC           MB
+ 131  RPM6A   5  UPETN3-864&&-895           130  PRIM          WO
+ 131  RPM6A   6  UPETN3-896&&-927           130  SEC           WOTWIN
+ 131  RPM6A   7  UPETN3-512&&-543           130  PRIM          WO
+ 131  RPM6A   8  UPETN3-544&&-575           130  SEC           WOTWIN
+ 131  RPM6A   9  UPETN3-576&&-607           130  PRIM          WO
+ 131  RPM6A  10  UPETN3-608&&-639           130  SEC           WOTWIN
+ 131  RPM6A  11  UPETN3-640&&-671           130  PRIM          WO
+ 131  RPM6A  12  UPETN3-672&&-703           130  SEC           WOTWIN
+ 131  RPM6A  13  UPETN3-928&&-959           130  PRIM          MB
+ 131  RPM6A  14  UPETN3-960&&-991           130  SEC           MB
+ 131  RPM6A  15  UPETN3-992&&-1023          130  PRIM          WO
+
+ 132  RPM6A   0  UPETN3-1024&&-1055         133  PRIM          MB
+ 132  RPM6A   1  UPETN3-1056&&-1087         133  SEC           MB
+ 132  RPM6A   2  UPETN3-1088&&-1119         133  PRIM          MB
+ 132  RPM6A   3  UPETN3-1120&&-1151         133  SEC           MB
+ 132  RPM6A   4  UPETN3-1152&&-1183         133  PRIM          MB
+ 132  RPM6A   5  UPETN3-1184&&-1215         133  SEC           WOTWIN
+ 132  RPM6A   6  UPETN3-1216&&-1247         133  PRIM          WO
+ 132  RPM6A   7  UPETN3-1248&&-1279         133  SEC           WOTWIN
+ 132  RPM6A   8  UPETN3-1280&&-1311         133  PRIM          WO
+ 132  RPM6A   9  UPETN3-1312&&-1343         133  SEC           WOTWIN
+ 132  RPM6A  10  UPETN3-1344&&-1375         133  PRIM          WO
+ 132  RPM6A  11  UPETN3-1376&&-1407         133  SEC           WOTWIN
+ 132  RPM6A  12  UPETN3-1408&&-1439         133  PRIM          WO
+ 132  RPM6A  13  UPETN3-1440&&-1471         133  SEC           WOTWIN
+ 132  RPM6A  14  UPETN3-1472&&-1503         133  PRIM          WO
+ 132  RPM6A  15  UPETN3-1504&&-1535         133  SEC           WOTWIN
+
+ 133  RPM6A   0  UPETN3-1024&&-1055         132  SEC           MB
+ 133  RPM6A   1  UPETN3-1056&&-1087         132  PRIM          MB
+ 133  RPM6A   2  UPETN3-1088&&-1119         132  SEC           MB
+ 133  RPM6A   3  UPETN3-1120&&-1151         132  PRIM          MB
+ 133  RPM6A   4  UPETN3-1152&&-1183         132  SEC           MB
+ 133  RPM6A   5  UPETN3-1184&&-1215         132  PRIM          WO
+ 133  RPM6A   6  UPETN3-1216&&-1247         132  SEC           WOTWIN
+ 133  RPM6A   7  UPETN3-1248&&-1279         132  PRIM          WO
+ 133  RPM6A   8  UPETN3-1280&&-1311         132  SEC           WOTWIN
+ 133  RPM6A   9  UPETN3-1312&&-1343         132  PRIM          WO
+ 133  RPM6A  10  UPETN3-1344&&-1375         132  SEC           WOTWIN
+ 133  RPM6A  11  UPETN3-1376&&-1407         132  PRIM          WO
+ 133  RPM6A  12  UPETN3-1408&&-1439         132  SEC           WOTWIN
+ 133  RPM6A  13  UPETN3-1440&&-1471         132  PRIM          WO
+ 133  RPM6A  14  UPETN3-1472&&-1503         132  SEC           WOTWIN
+ 133  RPM6A  15  UPETN3-1504&&-1535         132  PRIM          WO
+
+ 134  RPM6A   0  UPETN3-1536&&-1567         135  PRIM          WO
+ 134  RPM6A   1  UPETN3-1568&&-1599         135  SEC           WOTWIN
+ 134  RPM6A   2  UPETN3-1600&&-1631         135  PRIM          WO
+ 134  RPM6A   3  UPETN3-1632&&-1663         135  SEC           WOTWIN
+ 134  RPM6A   4  UPETN3-1664&&-1695         135  PRIM          WO
+ 134  RPM6A   5  UPETN3-1696&&-1727         135  SEC           WOTWIN
+ 134  RPM6A   6  UPETN3-1728&&-1759         135  PRIM          WO
+ 134  RPM6A   7  UPETN3-1760&&-1791         135  SEC           MB
+ 134  RPM6A   8  UPETN3-2496&&-2527         135  PRIM          WO
+ 134  RPM6A   9  UPETN3-2528&&-2559         135  SEC           WOTWIN
+ 134  RPM6A  10  UPETN3-2560&&-2591         135  PRIM          WO
+ 134  RPM6A  11  UPETN3-2592&&-2623         135  SEC           WOTWIN
+ 134  RPM6A  12  UPETN3-2624&&-2655         135  PRIM          WO
+ 134  RPM6A  13  UPETN3-2656&&-2687         135  SEC           WOTWIN
+ 134  RPM6A  14  UPETN3-2688&&-2719         135  PRIM          MB
+ 134  RPM6A  15  UPETN3-2720&&-2751         135  SEC           MB
+
+ 135  RPM6A   0  UPETN3-1536&&-1567         134  SEC           WOTWIN
+ 135  RPM6A   1  UPETN3-1568&&-1599         134  PRIM          WO
+ 135  RPM6A   2  UPETN3-1600&&-1631         134  SEC           WOTWIN
+ 135  RPM6A   3  UPETN3-1632&&-1663         134  PRIM          WO
+ 135  RPM6A   4  UPETN3-1664&&-1695         134  SEC           WOTWIN
+ 135  RPM6A   5  UPETN3-1696&&-1727         134  PRIM          WO
+ 135  RPM6A   6  UPETN3-1728&&-1759         134  SEC           WOTWIN
+ 135  RPM6A   7  UPETN3-1760&&-1791         134  PRIM          MB
+ 135  RPM6A   8  UPETN3-2496&&-2527         134  SEC           WOTWIN
+ 135  RPM6A   9  UPETN3-2528&&-2559         134  PRIM          WO
+ 135  RPM6A  10  UPETN3-2560&&-2591         134  SEC           WOTWIN
+ 135  RPM6A  11  UPETN3-2592&&-2623         134  PRIM          WO
+ 135  RPM6A  12  UPETN3-2624&&-2655         134  SEC           WOTWIN
+ 135  RPM6A  13  UPETN3-2656&&-2687         134  PRIM          WO
+ 135  RPM6A  14  UPETN3-2688&&-2719         134  SEC           MB
+ 135  RPM6A  15  UPETN3-2720&&-2751         134  PRIM          MB
+
+ 136  RPM6A   0  ETRT3-14                   137  PRIM          WO
+ 136  RPM6A   1  ETRT3-15                   137  SEC           WOTWIN
+ 136  RPM6A   2  ETRT3-16                   137  PRIM          WO
+ 136  RPM6A   3  ETRT3-17                   137  SEC           WOTWIN
+ 136  RPM6A   4  ETRT3-18                   137  PRIM          WO
+ 136  RPM6A   5  ETRT3-19                   137  SEC           WOTWIN
+ 136  RPM6A   6  ETRT3-20                   137  PRIM          WO
+ 136  RPM6A   7  ETRT3-21                   137  SEC           WOTWIN
+ 136  RPM6A   8  ETRT3-22                   137  PRIM          WO
+ 136  RPM6A   9  ETRT3-23                   137  SEC           WOTWIN
+ 136  RPM6A  10  ETRT3-24                   137  PRIM          WO
+ 136  RPM6A  11  ETRT3-25                   137  SEC           WOTWIN
+ 136  RPM6A  12  ETRT3-26                   137  PRIM          WO
+ 136  RPM6A  13  ETRT3-27                   137  SEC           WOTWIN
+ 136  RPM6A  14  ETRT2-62                   137  PRIM          WO
+ 136  RPM6A  15  ETRT2-63                   137  SEC           WOTWIN
+
+ 137  RPM6A   0  ETRT3-14                   136  SEC           WOTWIN
+ 137  RPM6A   1  ETRT3-15                   136  PRIM          WO
+ 137  RPM6A   2  ETRT3-16                   136  SEC           WOTWIN
+ 137  RPM6A   3  ETRT3-17                   136  PRIM          WO
+ 137  RPM6A   4  ETRT3-18                   136  SEC           WOTWIN
+ 137  RPM6A   5  ETRT3-19                   136  PRIM          WO
+ 137  RPM6A   6  ETRT3-20                   136  SEC           WOTWIN
+ 137  RPM6A   7  ETRT3-21                   136  PRIM          WO
+ 137  RPM6A   8  ETRT3-22                   136  SEC           WOTWIN
+ 137  RPM6A   9  ETRT3-23                   136  PRIM          WO
+ 137  RPM6A  10  ETRT3-24                   136  SEC           WOTWIN
+ 137  RPM6A  11  ETRT3-25                   136  PRIM          WO
+ 137  RPM6A  12  ETRT3-26                   136  SEC           WOTWIN
+ 137  RPM6A  13  ETRT3-27                   136  PRIM          WO
+ 137  RPM6A  14  ETRT2-62                   136  SEC           WOTWIN
+ 137  RPM6A  15  ETRT2-63                   136  PRIM          WO
+
+ 138  RPM6A   0  ETRT2-64                   139  PRIM          WO
+ 138  RPM6A   1  ETRT2-65                   139  SEC           WOTWIN
+ 138  RPM6A   2  ETRT2-66                   139  PRIM          WO
+ 138  RPM6A   3  ETRT2-67                   139  SEC           WOTWIN
+ 138  RPM6A   4  ETRT2-68                   139  PRIM          WO
+ 138  RPM6A   5  ETRT2-69                   139  SEC           WOTWIN
+ 138  RPM6A   6  ETRT2-70                   139  PRIM          WO
+ 138  RPM6A   7  ETRT2-71                   139  SEC           WOTWIN
+ 138  RPM6A   9  ETRT2-73                   139  SEC           WOTWIN
+ 138  RPM6A  10  ETRT2-74                   139  PRIM          WO
+ 138  RPM6A  11  ETRT2-75                   139  SEC           WOTWIN
+ 138  RPM6A  12  ETRT2-76                   139  PRIM          WO
+
+ 139  RPM6A   0  ETRT2-64                   138  SEC           WOTWIN
+ 139  RPM6A   1  ETRT2-65                   138  PRIM          WO
+ 139  RPM6A   2  ETRT2-66                   138  SEC           WOTWIN
+ 139  RPM6A   3  ETRT2-67                   138  PRIM          WO
+ 139  RPM6A   4  ETRT2-68                   138  SEC           WOTWIN
+ 139  RPM6A   5  ETRT2-69                   138  PRIM          WO
+ 139  RPM6A   6  ETRT2-70                   138  SEC           WOTWIN
+ 139  RPM6A   7  ETRT2-71                   138  PRIM          WO
+ 139  RPM6A   9  ETRT2-73                   138  PRIM          WO
+ 139  RPM6A  10  ETRT2-74                   138  SEC           WOTWIN
+ 139  RPM6A  11  ETRT2-75                   138  PRIM          WO
+ 139  RPM6A  12  ETRT2-76                   138  SEC           WOTWIN
+
+ 140  RPM6A   0  TSM-16                     141  PRIM          WO
+ 140  RPM6A   1  TSM-16                     141  PRIM          WO
+ 140  RPM6A   2  TSM-17                     141  SEC           WOTWIN
+ 140  RPM6A   3  TSM-17                     141  SEC           WOTWIN
+ 140  RPM6A   4  TSM-18                     141  PRIM          WO
+ 140  RPM6A   5  TSM-18                     141  PRIM          WO
+ 140  RPM6A   6  TSM-19                     141  SEC           WOTWIN
+ 140  RPM6A   7  TSM-19                     141  SEC           WOTWIN
+ 140  RPM6A   8  TSM-20                     141  PRIM          WO
+ 140  RPM6A   9  TSM-20                     141  PRIM          WO
+ 140  RPM6A  10  TSM-21                     141  SEC           WOTWIN
+ 140  RPM6A  11  TSM-21                     141  SEC           WOTWIN
+ 140  RPM6A  12  TSM-22                     141  PRIM          WO
+ 140  RPM6A  13  TSM-22                     141  PRIM          MB
+ 140  RPM6A  14  TSM-23                     141  SEC           WOTWIN
+ 140  RPM6A  15  TSM-23                     141  SEC           WOTWIN
+
+ 141  RPM6A   0  TSM-16                     140  SEC           WOTWIN
+ 141  RPM6A   1  TSM-16                     140  SEC           WOTWIN
+ 141  RPM6A   2  TSM-17                     140  PRIM          WO
+ 141  RPM6A   3  TSM-17                     140  PRIM          WO
+ 141  RPM6A   4  TSM-18                     140  SEC           WOTWIN
+ 141  RPM6A   5  TSM-18                     140  SEC           WOTWIN
+ 141  RPM6A   6  TSM-19                     140  PRIM          WO
+ 141  RPM6A   7  TSM-19                     140  PRIM          WO
+ 141  RPM6A   8  TSM-20                     140  SEC           WOTWIN
+ 141  RPM6A   9  TSM-20                     140  SEC           WOTWIN
+ 141  RPM6A  10  TSM-21                     140  PRIM          WO
+ 141  RPM6A  11  TSM-21                     140  PRIM          WO
+ 141  RPM6A  12  TSM-22                     140  SEC           WOTWIN
+ 141  RPM6A  13  TSM-22                     140  SEC           MB
+ 141  RPM6A  14  TSM-23                     140  PRIM          WO
+ 141  RPM6A  15  TSM-23                     140  PRIM          WO
+
+ 142  RPM6A   0  TSM-24                     143  PRIM          WO
+ 142  RPM6A   1  TSM-24                     143  PRIM          WO
+ 142  RPM6A   2  TSM-25                     143  SEC           WOTWIN
+ 142  RPM6A   3  TSM-25                     143  SEC           WOTWIN
+ 142  RPM6A   4  TSM-26                     143  PRIM          WO
+ 142  RPM6A   5  TSM-26                     143  PRIM          WO
+ 142  RPM6A   6  TSM-27                     143  SEC           WOTWIN
+ 142  RPM6A   7  TSM-27                     143  SEC           WOTWIN
+ 142  RPM6A   8  TSM-28                     143  PRIM          WO
+ 142  RPM6A   9  TSM-28                     143  PRIM          WO
+ 142  RPM6A  10  TSM-29                     143  PRIM          WO
+ 142  RPM6A  11  TSM-29                     143  PRIM          WO
+ 142  RPM6A  12  TSM-30                     143  SEC           WOTWIN
+ 142  RPM6A  13  TSM-30                     143  SEC           WOTWIN
+ 142  RPM6A  14  TSM-31                     143  PRIM          WO
+ 142  RPM6A  15  TSM-31                     143  PRIM          WO
+
+ 143  RPM6A   0  TSM-24                     142  SEC           WOTWIN
+ 143  RPM6A   1  TSM-24                     142  SEC           WOTWIN
+ 143  RPM6A   2  TSM-25                     142  PRIM          WO
+ 143  RPM6A   3  TSM-25                     142  PRIM          WO
+ 143  RPM6A   4  TSM-26                     142  SEC           WOTWIN
+ 143  RPM6A   5  TSM-26                     142  SEC           WOTWIN
+ 143  RPM6A   6  TSM-27                     142  PRIM          WO
+ 143  RPM6A   7  TSM-27                     142  PRIM          WO
+ 143  RPM6A   8  TSM-28                     142  SEC           WOTWIN
+ 143  RPM6A   9  TSM-28                     142  SEC           WOTWIN
+ 143  RPM6A  10  TSM-29                     142  SEC           WOTWIN
+ 143  RPM6A  11  TSM-29                     142  SEC           WOTWIN
+ 143  RPM6A  12  TSM-30                     142  PRIM          WO
+ 143  RPM6A  13  TSM-30                     142  PRIM          WO
+ 143  RPM6A  14  TSM-31                     142  SEC           WOTWIN
+ 143  RPM6A  15  TSM-31                     142  SEC           WOTWIN
+
+ 160  STC2C   1  CLC-46                          PRIM          WO
+
+ 161  STC2C   1  CLC-47                          PRIM          WO
+
+ 162  STC2C   1  CLC-44                          PRIM          WO
+
+ 163  STC2C   1  CLC-45                          PRIM          WO
+
+ 168  RPM6A   0  UPETN3-2752&&-2783         169  PRIM          WO
+ 168  RPM6A   1  UPETN3-2784&&-2815         169  SEC           WOTWIN
+ 168  RPM6A   2  UPETN3-2816&&-2847         169  PRIM          WO
+ 168  RPM6A   3  UPETN3-2848&&-2879         169  SEC           WOTWIN
+ 168  RPM6A   4  UPETN3-2880&&-2911         169  PRIM          WO
+ 168  RPM6A   5  UPETN3-2912&&-2943         169  SEC           MB
+ 168  RPM6A   6  UPETN3-2944&&-2975         169  PRIM          MB
+ 168  RPM6A   7  UPETN3-2976&&-3007         169  SEC           MB
+ 168  RPM6A   8  UPETN3-3008&&-3039         169  PRIM          MB
+ 168  RPM6A   9  UPETN3-3040&&-3071         169  SEC           MB
+ 168  RPM6A  10  UPETN3-3072&&-3103         169  PRIM          MB
+ 168  RPM6A  11  UPETN3-3104&&-3135         169  SEC           MB
+ 168  RPM6A  12  UPETN3-3136&&-3167         169  PRIM          MB
+ 168  RPM6A  13  UPETN3-3168&&-3199         169  SEC           MB
+ 168  RPM6A  14  UPETN3-3200&&-3231         169  PRIM          MB
+ 168  RPM6A  15  UPETN3-3232&&-3263         169  SEC           MB
+
+ 169  RPM6A   0  UPETN3-2752&&-2783         168  SEC           WOTWIN
+ 169  RPM6A   1  UPETN3-2784&&-2815         168  PRIM          WO
+ 169  RPM6A   2  UPETN3-2816&&-2847         168  SEC           WOTWIN
+ 169  RPM6A   3  UPETN3-2848&&-2879         168  PRIM          WO
+ 169  RPM6A   4  UPETN3-2880&&-2911         168  SEC           WOTWIN
+ 169  RPM6A   5  UPETN3-2912&&-2943         168  PRIM          MB
+ 169  RPM6A   6  UPETN3-2944&&-2975         168  SEC           MB
+ 169  RPM6A   7  UPETN3-2976&&-3007         168  PRIM          MB
+ 169  RPM6A   8  UPETN3-3008&&-3039         168  SEC           MB
+ 169  RPM6A   9  UPETN3-3040&&-3071         168  PRIM          MB
+ 169  RPM6A  10  UPETN3-3072&&-3103         168  SEC           MB
+ 169  RPM6A  11  UPETN3-3104&&-3135         168  PRIM          MB
+ 169  RPM6A  12  UPETN3-3136&&-3167         168  SEC           MB
+ 169  RPM6A  13  UPETN3-3168&&-3199         168  PRIM          MB
+ 169  RPM6A  14  UPETN3-3200&&-3231         168  SEC           MB
+ 169  RPM6A  15  UPETN3-3232&&-3263         168  PRIM          MB
+
+ 170  RPM6A   0  UPETN3-3264&&-3295         171  PRIM          WO
+ 170  RPM6A   1  UPETN3-3296&&-3327         171  SEC           WOTWIN
+ 170  RPM6A   2  UPETN3-3328&&-3359         171  PRIM          WO
+ 170  RPM6A   3  UPETN3-3360&&-3391         171  SEC           WOTWIN
+ 170  RPM6A   4  UPETN3-3392&&-3423         171  PRIM          MB
+ 170  RPM6A   5  UPETN3-3424&&-3455         171  SEC           MB
+ 170  RPM6A   6  UPETN3-3456&&-3487         171  PRIM          MB
+ 170  RPM6A   7  UPETN3-3488&&-3519         171  SEC           MB
+ 170  RPM6A   8  UPETN3-3520&&-3551         171  PRIM          MB
+ 170  RPM6A   9  UPETN3-3552&&-3583         171  SEC           MB
+
+ 171  RPM6A   0  UPETN3-3264&&-3295         170  SEC           WOTWIN
+ 171  RPM6A   1  UPETN3-3296&&-3327         170  PRIM          WO
+ 171  RPM6A   2  UPETN3-3328&&-3359         170  SEC           WOTWIN
+ 171  RPM6A   3  UPETN3-3360&&-3391         170  PRIM          WO
+ 171  RPM6A   4  UPETN3-3392&&-3423         170  SEC           MB
+ 171  RPM6A   5  UPETN3-3424&&-3455         170  PRIM          MB
+ 171  RPM6A   6  UPETN3-3456&&-3487         170  SEC           MB
+ 171  RPM6A   7  UPETN3-3488&&-3519         170  PRIM          MB
+ 171  RPM6A   8  UPETN3-3520&&-3551         170  SEC           MB
+ 171  RPM6A   9  UPETN3-3552&&-3583         170  PRIM          MB
+
+ 172  RPM6A   0  ETBL3-608&&-639            173  PRIM          WO
+ 172  RPM6A   1  ETBL3-640&&-671            173  SEC           WOTWIN
+ 172  RPM6A   2  ETBL3-672&&-703            173  PRIM          WO
+ 172  RPM6A   3  ETBL3-704&&-735            173  SEC           WOTWIN
+ 172  RPM6A   4  ETL3DM-160&&-191           173  PRIM          WO
+ 172  RPM6A   5  ETL3DM-192&&-223           173  SEC           WOTWIN
+ 172  RPM6A   6  ETL3DM-224&&-255           173  PRIM          WO
+ 172  RPM6A   7  ETL3DM-256&&-287           173  SEC           WOTWIN
+ 172  RPM6A   8  ETL3DM-288&&-319           173  PRIM          WO
+ 172  RPM6A   9  ETL3DM-320&&-351           173  SEC           WOTWIN
+ 172  RPM6A  10  ETL3DM-352&&-383           173  PRIM          WO
+ 172  RPM6A  11  ETL3DM-384&&-415           173  SEC           WOTWIN
+ 172  RPM6A  12  ETL3DM-416&&-447           173  PRIM          WO
+ 172  RPM6A  13  ETL3DM-448&&-479           173  SEC           WOTWIN
+ 172  RPM6A  14  ETL3DM-480&&-511           173  PRIM          WO
+ 172  RPM6A  15  ETL3DM-512&&-543           173  SEC           WOTWIN
+
+ 173  RPM6A   0  ETBL3-608&&-639            172  SEC           WOTWIN
+ 173  RPM6A   1  ETBL3-640&&-671            172  PRIM          WO
+ 173  RPM6A   2  ETBL3-672&&-703            172  SEC           WOTWIN
+ 173  RPM6A   3  ETBL3-704&&-735            172  PRIM          WO
+ 173  RPM6A   4  ETL3DM-160&&-191           172  SEC           WOTWIN
+ 173  RPM6A   5  ETL3DM-192&&-223           172  PRIM          WO
+ 173  RPM6A   6  ETL3DM-224&&-255           172  SEC           WOTWIN
+ 173  RPM6A   7  ETL3DM-256&&-287           172  PRIM          WO
+ 173  RPM6A   8  ETL3DM-288&&-319           172  SEC           WOTWIN
+ 173  RPM6A   9  ETL3DM-320&&-351           172  PRIM          WO
+ 173  RPM6A  10  ETL3DM-352&&-383           172  SEC           WOTWIN
+ 173  RPM6A  11  ETL3DM-384&&-415           172  PRIM          WO
+ 173  RPM6A  12  ETL3DM-416&&-447           172  SEC           WOTWIN
+ 173  RPM6A  13  ETL3DM-448&&-479           172  PRIM          WO
+ 173  RPM6A  14  ETL3DM-480&&-511           172  SEC           WOTWIN
+ 173  RPM6A  15  ETL3DM-512&&-543           172  PRIM          WO
+
+ 174  RPM6A   0  ETRST-0&&-31               175  PRIM          WO
+ 174  RPM6A   1  ETRST-32&&-63              175  SEC           WOTWIN
+ 174  RPM6A   2  ETRST-64&&-95              175  PRIM          WO
+ 174  RPM6A   3  ETRST-96&&-127             175  SEC           WOTWIN
+ 174  RPM6A   4  ETRT2-82                   175  PRIM          WO
+ 174  RPM6A   5  ETRT2-83                   175  SEC           WOTWIN
+ 174  RPM6A   6  ETRT2-84                   175  PRIM          WO
+ 174  RPM6A   7  ETRT2-85                   175  SEC           WOTWIN
+
+ 175  RPM6A   0  ETRST-0&&-31               174  SEC           WOTWIN
+ 175  RPM6A   1  ETRST-32&&-63              174  PRIM          WO
+ 175  RPM6A   2  ETRST-64&&-95              174  SEC           WOTWIN
+ 175  RPM6A   3  ETRST-96&&-127             174  PRIM          WO
+ 175  RPM6A   4  ETRT2-82                   174  SEC           WOTWIN
+ 175  RPM6A   5  ETRT2-83                   174  PRIM          WO
+ 175  RPM6A   6  ETRT2-84                   174  SEC           WOTWIN
+ 175  RPM6A   7  ETRT2-85                   174  PRIM          WO
+
+ 176  STCG1A  0  CSLSNT-0                        PRIM          WO
+ 176  STCG1A  1  CSLM7-0&&-15                    PRIM          WO
+
+ 177  RPG1A   0  STAU-0&&-31                     PRIM          WO
+ 177  RPG1A   1  DLAU-0                          PRIM          WO
+ 177  RPG1A   4  CTRLAU-0                        PRIM          WO
+ 177  RPG1A   5  PSTNAU-0                        PRIM          WO
+ 177  RPG1A   6  MANAU-0                         PRIM          WO
+ 177  RPG1A   7  MHAU-0                          PRIM          WO
+ 177  RPG1A   8  V5PRTAU-0                       PRIM          WO
+ 177  RPG1A  10  PSTNHMA-0                       PRIM          WO
+ 177  RPG1A  15  LPATHMA-0                       PRIM          WO
+
+ 178  RPG1A   0  STTAU-0&&-31                    PRIM          WO
+ 178  RPG1A   1  DLTAU-0                         PRIM          WO
+ 178  RPG1A   2  MXTAU-0                         PRIM          WO
+
+ 179  STCG1A  0  CSLSNT-1                        PRIM          WO
+ 179  STCG1A  1  CSLM7-16&&-31                   PRIM          WO
+
+ 180  RPG1A   0  STAU-32&&-63                    PRIM          WO
+ 180  RPG1A   1  DLAU-1                          PRIM          WO
+ 180  RPG1A   4  CTRLAU-1                        PRIM          WO
+ 180  RPG1A   5  PSTNAU-1                        PRIM          WO
+ 180  RPG1A   6  MANAU-1                         PRIM          WO
+ 180  RPG1A   7  MHAU-1                          PRIM          WO
+ 180  RPG1A   8  V5PRTAU-1                       PRIM          WO
+ 180  RPG1A  10  PSTNHMA-1                       PRIM          WO
+ 180  RPG1A  15  LPATHMA-1                       PRIM          WO
+
+ 181  RPG1A   0  STTAU-32&&-63                   PRIM          WO
+ 181  RPG1A   1  DLTAU-1                         PRIM          WO
+ 181  RPG1A   2  MXTAU-1                         PRIM          WO
+
+ 192  RP4S1A  0  UPETN3-4032&&-4063         193  PRIM          WO
+ 192  RP4S1A  1  UPETN3-4064&&-4095         193  SEC           WOTWIN
+ 192  RP4S1A  2  UPETN3-4096&&-4127         193  PRIM          WO
+ 192  RP4S1A  3  UPETN3-4128&&-4159         193  SEC           WOTWIN
+ 192  RP4S1A  4  UPETN3-4160&&-4191         193  PRIM          WO
+ 192  RP4S1A  5  UPETN3-4192&&-4223         193  SEC           WOTWIN
+ 192  RP4S1A  6  UPETN3-4224&&-4255         193  PRIM          WO
+ 192  RP4S1A  7  UPETN3-4256&&-4287         193  SEC           WOTWIN
+ 192  RP4S1A  8  UPETN3-4288&&-4319         193  PRIM          WO
+ 192  RP4S1A  9  UPETN3-4320&&-4351         193  SEC           WOTWIN
+ 192  RP4S1A 10  UPETN3-4352&&-4383         193  PRIM          WO
+ 192  RP4S1A 11  UPETN3-4384&&-4415         193  SEC           WOTWIN
+ 192  RP4S1A 12  UPETN3-4416&&-4447         193  PRIM          WO
+ 192  RP4S1A 13  UPETN3-4448&&-4479         193  SEC           WOTWIN
+
+ 193  RP4S1A  0  UPETN3-4032&&-4063         192  SEC           WOTWIN
+ 193  RP4S1A  1  UPETN3-4064&&-4095         192  PRIM          WO
+ 193  RP4S1A  2  UPETN3-4096&&-4127         192  SEC           WOTWIN
+ 193  RP4S1A  3  UPETN3-4128&&-4159         192  PRIM          WO
+ 193  RP4S1A  4  UPETN3-4160&&-4191         192  SEC           WOTWIN
+ 193  RP4S1A  5  UPETN3-4192&&-4223         192  PRIM          WO
+ 193  RP4S1A  6  UPETN3-4224&&-4255         192  SEC           WOTWIN
+ 193  RP4S1A  7  UPETN3-4256&&-4287         192  PRIM          WO
+ 193  RP4S1A  8  UPETN3-4288&&-4319         192  SEC           WOTWIN
+ 193  RP4S1A  9  UPETN3-4320&&-4351         192  PRIM          WO
+ 193  RP4S1A 10  UPETN3-4352&&-4383         192  SEC           WOTWIN
+ 193  RP4S1A 11  UPETN3-4384&&-4415         192  PRIM          WO
+ 193  RP4S1A 12  UPETN3-4416&&-4447         192  SEC           WOTWIN
+ 193  RP4S1A 13  UPETN3-4448&&-4479         192  PRIM          WO
+
+ 194  RP4S1A  0  UPETN3-4480&&-4511         195  PRIM          WO
+ 194  RP4S1A  1  UPETN3-4512&&-4543         195  SEC           WOTWIN
+ 194  RP4S1A  2  UPETN3-4544&&-4575         195  PRIM          WO
+ 194  RP4S1A  3  UPETN3-4576&&-4607         195  SEC           WOTWIN
+ 194  RP4S1A  4  UPETN3-4608&&-4639         195  PRIM          WO
+ 194  RP4S1A  5  UPETN3-4640&&-4671         195  SEC           WOTWIN
+ 194  RP4S1A  6  UPETN3-4672&&-4703         195  PRIM          WO
+ 194  RP4S1A  7  UPETN3-4704&&-4735         195  SEC           WOTWIN
+ 194  RP4S1A  8  UPETN3-4736&&-4767         195  PRIM          WO
+ 194  RP4S1A  9  UPETN3-4768&&-4799         195  SEC           WOTWIN
+ 194  RP4S1A 10  UPETN3-4800&&-4831         195  PRIM          WO
+ 194  RP4S1A 11  UPETN3-4832&&-4863         195  SEC           WOTWIN
+ 194  RP4S1A 12  UPETN3-4864&&-4895         195  PRIM          WO
+ 194  RP4S1A 13  UPETN3-4896&&-4927         195  SEC           WOTWIN
+
+ 195  RP4S1A  0  UPETN3-4480&&-4511         194  SEC           WOTWIN
+ 195  RP4S1A  1  UPETN3-4512&&-4543         194  PRIM          WO
+ 195  RP4S1A  2  UPETN3-4544&&-4575         194  SEC           WOTWIN
+ 195  RP4S1A  3  UPETN3-4576&&-4607         194  PRIM          WO
+ 195  RP4S1A  4  UPETN3-4608&&-4639         194  SEC           WOTWIN
+ 195  RP4S1A  5  UPETN3-4640&&-4671         194  PRIM          WO
+ 195  RP4S1A  6  UPETN3-4672&&-4703         194  SEC           WOTWIN
+ 195  RP4S1A  7  UPETN3-4704&&-4735         194  PRIM          WO
+ 195  RP4S1A  8  UPETN3-4736&&-4767         194  SEC           WOTWIN
+ 195  RP4S1A  9  UPETN3-4768&&-4799         194  PRIM          WO
+ 195  RP4S1A 10  UPETN3-4800&&-4831         194  SEC           WOTWIN
+ 195  RP4S1A 11  UPETN3-4832&&-4863         194  PRIM          WO
+ 195  RP4S1A 12  UPETN3-4864&&-4895         194  SEC           WOTWIN
+ 195  RP4S1A 13  UPETN3-4896&&-4927         194  PRIM          WO
+
+ 196  RP4S1A  0  UPETN3-4928&&-4959         197  PRIM          WO
+ 196  RP4S1A  1  UPETN3-4960&&-4991         197  SEC           WOTWIN
+ 196  RP4S1A  2  UPETN3-4992&&-5023         197  PRIM          WO
+ 196  RP4S1A  3  UPETN3-5024&&-5055         197  SEC           WOTWIN
+ 196  RP4S1A  4  UPETN3-5056&&-5087         197  PRIM          WO
+ 196  RP4S1A  5  UPETN3-5088&&-5119         197  SEC           WOTWIN
+ 196  RP4S1A  6  UPETN3-5120&&-5151         197  PRIM          WO
+ 196  RP4S1A  7  UPETN3-5152&&-5183         197  SEC           WOTWIN
+ 196  RP4S1A  8  UPETN3-5184&&-5215         197  PRIM          WO
+ 196  RP4S1A  9  UPETN3-5216&&-5247         197  SEC           WOTWIN
+ 196  RP4S1A 10  UPETN3-5248&&-5279         197  PRIM          WO
+ 196  RP4S1A 11  UPETN3-5280&&-5311         197  SEC           WOTWIN
+ 196  RP4S1A 12  UPETN3-5312&&-5343         197  PRIM          WO
+ 196  RP4S1A 13  UPETN3-5344&&-5375         197  SEC           WOTWIN
+
+ 197  RP4S1A  0  UPETN3-4928&&-4959         196  SEC           WOTWIN
+ 197  RP4S1A  1  UPETN3-4960&&-4991         196  PRIM          WO
+ 197  RP4S1A  2  UPETN3-4992&&-5023         196  SEC           WOTWIN
+ 197  RP4S1A  3  UPETN3-5024&&-5055         196  PRIM          WO
+ 197  RP4S1A  4  UPETN3-5056&&-5087         196  SEC           WOTWIN
+ 197  RP4S1A  5  UPETN3-5088&&-5119         196  PRIM          WO
+ 197  RP4S1A  6  UPETN3-5120&&-5151         196  SEC           WOTWIN
+ 197  RP4S1A  7  UPETN3-5152&&-5183         196  PRIM          WO
+ 197  RP4S1A  8  UPETN3-5184&&-5215         196  SEC           WOTWIN
+ 197  RP4S1A  9  UPETN3-5216&&-5247         196  PRIM          WO
+ 197  RP4S1A 10  UPETN3-5248&&-5279         196  SEC           WOTWIN
+ 197  RP4S1A 11  UPETN3-5280&&-5311         196  PRIM          WO
+ 197  RP4S1A 12  UPETN3-5312&&-5343         196  SEC           WOTWIN
+ 197  RP4S1A 13  UPETN3-5344&&-5375         196  PRIM          WO
+
+ 198  RP4S1A  0  UPETN3-5376&&-5407         199  PRIM          WO
+ 198  RP4S1A  1  UPETN3-5408&&-5439         199  SEC           WOTWIN
+ 198  RP4S1A  2  UPETN3-5440&&-5471         199  PRIM          WO
+ 198  RP4S1A  3  UPETN3-5472&&-5503         199  SEC           WOTWIN
+ 198  RP4S1A  4  UPETN3-5504&&-5535         199  PRIM          WO
+ 198  RP4S1A  5  UPETN3-5536&&-5567         199  SEC           WOTWIN
+ 198  RP4S1A  6  UPETN3-5568&&-5599         199  PRIM          WO
+ 198  RP4S1A  7  UPETN3-5600&&-5631         199  SEC           WOTWIN
+
+ 199  RP4S1A  0  UPETN3-5376&&-5407         198  SEC           WOTWIN
+ 199  RP4S1A  1  UPETN3-5408&&-5439         198  PRIM          WO
+ 199  RP4S1A  2  UPETN3-5440&&-5471         198  SEC           WOTWIN
+ 199  RP4S1A  3  UPETN3-5472&&-5503         198  PRIM          WO
+ 199  RP4S1A  4  UPETN3-5504&&-5535         198  SEC           WOTWIN
+ 199  RP4S1A  5  UPETN3-5536&&-5567         198  PRIM          WO
+ 199  RP4S1A  6  UPETN3-5568&&-5599         198  SEC           WOTWIN
+ 199  RP4S1A  7  UPETN3-5600&&-5631         198  PRIM          WO
+
+ 200  RP4S1A  0  ETRST-352&&-383            201  PRIM          WO
+ 200  RP4S1A  1  ETRST-384&&-415            201  SEC           WOTWIN
+ 200  RP4S1A  2  UPETN3-5632&&-5663         201  PRIM          WO
+ 200  RP4S1A  3  UPETN3-5664&&-5695         201  SEC           WOTWIN
+ 200  RP4S1A  4  UPETN3-5696&&-5727         201  PRIM          WO
+ 200  RP4S1A  5  UPETN3-5728&&-5759         201  SEC           WOTWIN
+ 200  RP4S1A  6  UPETN3-5760&&-5791         201  PRIM          WO
+ 200  RP4S1A  7  UPETN3-5792&&-5823         201  SEC           WOTWIN
+ 200  RP4S1A  8  UPETN3-5824&&-5855         201  PRIM          WO
+ 200  RP4S1A  9  UPETN3-5856&&-5887         201  SEC           WOTWIN
+ 200  RP4S1A 10  UPETN3-5888&&-5919         201  PRIM          WO
+ 200  RP4S1A 11  UPETN3-5920&&-5951         201  SEC           WOTWIN
+ 200  RP4S1A 12  UPETN3-5952&&-5983         201  PRIM          WO
+ 200  RP4S1A 13  UPETN3-5984&&-6015         201  SEC           WOTWIN
+
+ 201  RP4S1A  0  ETRST-352&&-383            200  SEC           WOTWIN
+ 201  RP4S1A  1  ETRST-384&&-415            200  PRIM          WO
+ 201  RP4S1A  2  UPETN3-5632&&-5663         200  SEC           WOTWIN
+ 201  RP4S1A  3  UPETN3-5664&&-5695         200  PRIM          WO
+ 201  RP4S1A  4  UPETN3-5696&&-5727         200  SEC           WOTWIN
+ 201  RP4S1A  5  UPETN3-5728&&-5759         200  PRIM          WO
+ 201  RP4S1A  6  UPETN3-5760&&-5791         200  SEC           WOTWIN
+ 201  RP4S1A  7  UPETN3-5792&&-5823         200  PRIM          WO
+ 201  RP4S1A  8  UPETN3-5824&&-5855         200  SEC           WOTWIN
+ 201  RP4S1A  9  UPETN3-5856&&-5887         200  PRIM          WO
+ 201  RP4S1A 10  UPETN3-5888&&-5919         200  SEC           WOTWIN
+ 201  RP4S1A 11  UPETN3-5920&&-5951         200  PRIM          WO
+ 201  RP4S1A 12  UPETN3-5952&&-5983         200  SEC           WOTWIN
+ 201  RP4S1A 13  UPETN3-5984&&-6015         200  PRIM          WO
+
+ 204  RP4S1A  0  UPETN3-9600&&-9631         205  PRIM          WO
+ 204  RP4S1A  1  UPETN3-9632&&-9663         205  SEC           WOTWIN
+ 204  RP4S1A  2  ETRST-128&&-159            205  PRIM          WO
+ 204  RP4S1A  3  ETRST-160&&-191            205  SEC           WOTWIN
+ 204  RP4S1A  4  ETRST-192&&-223            205  PRIM          WO
+ 204  RP4S1A  5  ETV5G-0&&-31               205  SEC           WOTWIN
+ 204  RP4S1A  6  ETV5G-32&&-63              205  PRIM          WO
+ 204  RP4S1A  7  ETV5G-64&&-95              205  SEC           WOTWIN
+ 204  RP4S1A  8  ETV5G-96&&-127             205  PRIM          WO
+ 204  RP4S1A  9  ETV5G-128&&-159            205  SEC           WOTWIN
+ 204  RP4S1A 10  ETV5G-160&&-191            205  PRIM          WO
+ 204  RP4S1A 11  ETV5G-192&&-223            205  SEC           WOTWIN
+ 204  RP4S1A 12  ETV5G-224&&-255            205  PRIM          WO
+ 204  RP4S1A 13  ETV5G-256&&-287            205  SEC           WOTWIN
+
+ 205  RP4S1A  0  UPETN3-9600&&-9631         204  SEC           WOTWIN
+ 205  RP4S1A  1  UPETN3-9632&&-9663         204  PRIM          WO
+ 205  RP4S1A  2  ETRST-128&&-159            204  SEC           WOTWIN
+ 205  RP4S1A  3  ETRST-160&&-191            204  PRIM          WO
+ 205  RP4S1A  4  ETRST-192&&-223            204  SEC           WOTWIN
+ 205  RP4S1A  5  ETV5G-0&&-31               204  PRIM          WO
+ 205  RP4S1A  6  ETV5G-32&&-63              204  SEC           WOTWIN
+ 205  RP4S1A  7  ETV5G-64&&-95              204  PRIM          WO
+ 205  RP4S1A  8  ETV5G-96&&-127             204  SEC           WOTWIN
+ 205  RP4S1A  9  ETV5G-128&&-159            204  PRIM          WO
+ 205  RP4S1A 10  ETV5G-160&&-191            204  SEC           WOTWIN
+ 205  RP4S1A 11  ETV5G-192&&-223            204  PRIM          WO
+ 205  RP4S1A 12  ETV5G-224&&-255            204  SEC           WOTWIN
+ 205  RP4S1A 13  ETV5G-256&&-287            204  PRIM          WO
+
+ 214  RPG2A   0  STV5G-0&&-31                    PRIM          WO
+ 214  RPG2A   1  DLV5G-0                         PRIM          WO
+ 214  RPG2A   4  ANCTRLG-0                       PRIM          WO
+ 214  RPG2A   5  PSTNG-0                         PRIM          WO
+ 214  RPG2A   6  MANV5G-0                        PRIM          WO
+ 214  RPG2A   7  MHV5G-0                         PRIM          WO
+ 214  RPG2A   8  V5PTCLG-0                       PRIM          WO
+ 214  RPG2A  10  PSTNHVG-0                       PRIM          WO
+ 214  RPG2A  11  PROTP-0                         PRIM          WO
+ 214  RPG2A  15  LPATHG-0                        PRIM          WO
+
+ 215  RPG2A   0  STV5G-32&&-63                   PRIM          WO
+ 215  RPG2A   1  DLV5G-1                         PRIM          WO
+ 215  RPG2A   4  ANCTRLG-1                       PRIM          WO
+ 215  RPG2A   5  PSTNG-1                         PRIM          WO
+ 215  RPG2A   6  MANV5G-1                        PRIM          WO
+ 215  RPG2A   7  MHV5G-1                         PRIM          WO
+ 215  RPG2A   8  V5PTCLG-1                       PRIM          WO
+ 215  RPG2A  10  PSTNHVG-1                       PRIM          WO
+ 215  RPG2A  11  PROTP-1                         PRIM          WO
+ 215  RPG2A  15  LPATHG-1                        PRIM          WO
+
+ 216  RP4S1A  0  KRD-32&&-47                217  PRIM          WO
+ 216  RP4S1A  1  KRD-48&&-63                217  SEC           WOTWIN
+ 216  RP4S1A  2  KRD-64&&-79                217  PRIM          WO
+ 216  RP4S1A  3  KRD-80&&-95                217  SEC           WOTWIN
+
+ 217  RP4S1A  0  KRD-32&&-47                216  SEC           WOTWIN
+ 217  RP4S1A  1  KRD-48&&-63                216  PRIM          WO
+ 217  RP4S1A  2  KRD-64&&-79                216  SEC           WOTWIN
+ 217  RP4S1A  3  KRD-80&&-95                216  PRIM          WO
+
+ 224  RP4S1A  0  UPETN3-6016&&-6047         225  PRIM          WO
+ 224  RP4S1A  1  UPETN3-6048&&-6079         225  SEC           WOTWIN
+ 224  RP4S1A  2  UPETN3-6080&&-6111         225  PRIM          WO
+ 224  RP4S1A  3  UPETN3-6112&&-6143         225  SEC           WOTWIN
+ 224  RP4S1A  4  UPETN3-6144&&-6175         225  PRIM          WO
+ 224  RP4S1A  5  UPETN3-6176&&-6207         225  SEC           WOTWIN
+ 224  RP4S1A  6  UPETN3-6208&&-6239         225  PRIM          WO
+ 224  RP4S1A  7  UPETN3-6240&&-6271         225  SEC           WOTWIN
+ 224  RP4S1A  8  UPETN3-6272&&-6303         225  PRIM          WO
+ 224  RP4S1A  9  UPETN3-6304&&-6335         225  SEC           WOTWIN
+ 224  RP4S1A 10  UPETN3-6336&&-6367         225  PRIM          WO
+ 224  RP4S1A 11  UPETN3-6368&&-6399         225  SEC           WOTWIN
+ 224  RP4S1A 12  UPETN3-6400&&-6431         225  PRIM          WO
+ 224  RP4S1A 13  UPETN3-6432&&-6463         225  SEC           WOTWIN
+
+ 225  RP4S1A  0  UPETN3-6016&&-6047         224  SEC           WOTWIN
+ 225  RP4S1A  1  UPETN3-6048&&-6079         224  PRIM          WO
+ 225  RP4S1A  2  UPETN3-6080&&-6111         224  SEC           WOTWIN
+ 225  RP4S1A  3  UPETN3-6112&&-6143         224  PRIM          WO
+ 225  RP4S1A  4  UPETN3-6144&&-6175         224  SEC           WOTWIN
+ 225  RP4S1A  5  UPETN3-6176&&-6207         224  PRIM          WO
+ 225  RP4S1A  6  UPETN3-6208&&-6239         224  SEC           WOTWIN
+ 225  RP4S1A  7  UPETN3-6240&&-6271         224  PRIM          WO
+ 225  RP4S1A  8  UPETN3-6272&&-6303         224  SEC           WOTWIN
+ 225  RP4S1A  9  UPETN3-6304&&-6335         224  PRIM          WO
+ 225  RP4S1A 10  UPETN3-6336&&-6367         224  SEC           WOTWIN
+ 225  RP4S1A 11  UPETN3-6368&&-6399         224  PRIM          WO
+ 225  RP4S1A 12  UPETN3-6400&&-6431         224  SEC           WOTWIN
+ 225  RP4S1A 13  UPETN3-6432&&-6463         224  PRIM          WO
+
+ 226  RP4S1A  0  UPETN3-6464&&-6495         227  PRIM          WO
+ 226  RP4S1A  1  UPETN3-6496&&-6527         227  SEC           WOTWIN
+ 226  RP4S1A  2  UPETN3-6528&&-6559         227  PRIM          WO
+ 226  RP4S1A  3  UPETN3-6560&&-6591         227  SEC           WOTWIN
+ 226  RP4S1A  4  UPETN3-6592&&-6623         227  PRIM          WO
+ 226  RP4S1A  5  UPETN3-6624&&-6655         227  SEC           WOTWIN
+ 226  RP4S1A  6  UPETN3-6656&&-6687         227  PRIM          WO
+ 226  RP4S1A  7  UPETN3-6688&&-6719         227  SEC           WOTWIN
+ 226  RP4S1A  8  UPETN3-6720&&-6751         227  PRIM          WO
+ 226  RP4S1A  9  UPETN3-6752&&-6783         227  SEC           WOTWIN
+ 226  RP4S1A 10  UPETN3-6784&&-6815         227  PRIM          WO
+ 226  RP4S1A 11  UPETN3-6816&&-6847         227  SEC           WOTWIN
+ 226  RP4S1A 12  UPETN3-6848&&-6879         227  PRIM          WO
+ 226  RP4S1A 13  UPETN3-6880&&-6911         227  SEC           WOTWIN
+
+ 227  RP4S1A  0  UPETN3-6464&&-6495         226  SEC           WOTWIN
+ 227  RP4S1A  1  UPETN3-6496&&-6527         226  PRIM          WO
+ 227  RP4S1A  2  UPETN3-6528&&-6559         226  SEC           WOTWIN
+ 227  RP4S1A  3  UPETN3-6560&&-6591         226  PRIM          WO
+ 227  RP4S1A  4  UPETN3-6592&&-6623         226  SEC           WOTWIN
+ 227  RP4S1A  5  UPETN3-6624&&-6655         226  PRIM          WO
+ 227  RP4S1A  6  UPETN3-6656&&-6687         226  SEC           WOTWIN
+ 227  RP4S1A  7  UPETN3-6688&&-6719         226  PRIM          WO
+ 227  RP4S1A  8  UPETN3-6720&&-6751         226  SEC           WOTWIN
+ 227  RP4S1A  9  UPETN3-6752&&-6783         226  PRIM          WO
+ 227  RP4S1A 10  UPETN3-6784&&-6815         226  SEC           WOTWIN
+ 227  RP4S1A 11  UPETN3-6816&&-6847         226  PRIM          WO
+ 227  RP4S1A 12  UPETN3-6848&&-6879         226  SEC           WOTWIN
+ 227  RP4S1A 13  UPETN3-6880&&-6911         226  PRIM          WO
+
+ 228  RP4S1A  0  UPETN3-6912&&-6943         229  PRIM          WO
+ 228  RP4S1A  1  UPETN3-6944&&-6975         229  SEC           WOTWIN
+ 228  RP4S1A  2  UPETN3-6976&&-7007         229  PRIM          WO
+ 228  RP4S1A  3  UPETN3-7008&&-7039         229  SEC           WOTWIN
+ 228  RP4S1A  4  UPETN3-7040&&-7071         229  PRIM          WO
+ 228  RP4S1A  5  UPETN3-7072&&-7103         229  SEC           WOTWIN
+ 228  RP4S1A  6  UPETN3-7104&&-7135         229  PRIM          WO
+ 228  RP4S1A  7  UPETN3-7136&&-7167         229  SEC           WOTWIN
+ 228  RP4S1A  8  UPETN3-7168&&-7199         229  PRIM          WO
+ 228  RP4S1A  9  UPETN3-7200&&-7231         229  SEC           WOTWIN
+ 228  RP4S1A 10  UPETN3-7232&&-7263         229  PRIM          WO
+ 228  RP4S1A 11  UPETN3-7264&&-7295         229  SEC           WOTWIN
+ 228  RP4S1A 12  UPETN3-7296&&-7327         229  PRIM          WO
+ 228  RP4S1A 13  UPETN3-7328&&-7359         229  SEC           WOTWIN
+
+ 229  RP4S1A  0  UPETN3-6912&&-6943         228  SEC           WOTWIN
+ 229  RP4S1A  1  UPETN3-6944&&-6975         228  PRIM          WO
+ 229  RP4S1A  2  UPETN3-6976&&-7007         228  SEC           WOTWIN
+ 229  RP4S1A  3  UPETN3-7008&&-7039         228  PRIM          WO
+ 229  RP4S1A  4  UPETN3-7040&&-7071         228  SEC           WOTWIN
+ 229  RP4S1A  5  UPETN3-7072&&-7103         228  PRIM          WO
+ 229  RP4S1A  6  UPETN3-7104&&-7135         228  SEC           WOTWIN
+ 229  RP4S1A  7  UPETN3-7136&&-7167         228  PRIM          WO
+ 229  RP4S1A  8  UPETN3-7168&&-7199         228  SEC           WOTWIN
+ 229  RP4S1A  9  UPETN3-7200&&-7231         228  PRIM          WO
+ 229  RP4S1A 10  UPETN3-7232&&-7263         228  SEC           WOTWIN
+ 229  RP4S1A 11  UPETN3-7264&&-7295         228  PRIM          WO
+ 229  RP4S1A 12  UPETN3-7296&&-7327         228  SEC           WOTWIN
+ 229  RP4S1A 13  UPETN3-7328&&-7359         228  PRIM          WO
+
+ 230  RP4S1A  0  UPETN3-7360&&-7391         231  PRIM          WO
+ 230  RP4S1A  1  UPETN3-7392&&-7423         231  SEC           WOTWIN
+ 230  RP4S1A  2  UPETN3-7424&&-7455         231  PRIM          WO
+ 230  RP4S1A  3  UPETN3-7456&&-7487         231  SEC           WOTWIN
+ 230  RP4S1A  4  UPETN3-7488&&-7519         231  PRIM          WO
+ 230  RP4S1A  5  UPETN3-7520&&-7551         231  SEC           WOTWIN
+ 230  RP4S1A  6  UPETN3-7552&&-7583         231  PRIM          WO
+ 230  RP4S1A  7  UPETN3-7584&&-7615         231  SEC           WOTWIN
+ 230  RP4S1A  8  UPETN3-7616&&-7647         231  PRIM          WO
+ 230  RP4S1A  9  UPETN3-7648&&-7679         231  SEC           WOTWIN
+ 230  RP4S1A 10  UPETN3-7680&&-7711         231  PRIM          WO
+ 230  RP4S1A 11  UPETN3-7712&&-7743         231  SEC           WOTWIN
+ 230  RP4S1A 12  UPETN3-7744&&-7775         231  PRIM          WO
+ 230  RP4S1A 13  UPETN3-7776&&-7807         231  SEC           WOTWIN
+
+ 231  RP4S1A  0  UPETN3-7360&&-7391         230  SEC           WOTWIN
+ 231  RP4S1A  1  UPETN3-7392&&-7423         230  PRIM          WO
+ 231  RP4S1A  2  UPETN3-7424&&-7455         230  SEC           WOTWIN
+ 231  RP4S1A  3  UPETN3-7456&&-7487         230  PRIM          WO
+ 231  RP4S1A  4  UPETN3-7488&&-7519         230  SEC           WOTWIN
+ 231  RP4S1A  5  UPETN3-7520&&-7551         230  PRIM          WO
+ 231  RP4S1A  6  UPETN3-7552&&-7583         230  SEC           WOTWIN
+ 231  RP4S1A  7  UPETN3-7584&&-7615         230  PRIM          WO
+ 231  RP4S1A  8  UPETN3-7616&&-7647         230  SEC           WOTWIN
+ 231  RP4S1A  9  UPETN3-7648&&-7679         230  PRIM          WO
+ 231  RP4S1A 10  UPETN3-7680&&-7711         230  SEC           WOTWIN
+ 231  RP4S1A 11  UPETN3-7712&&-7743         230  PRIM          WO
+ 231  RP4S1A 12  UPETN3-7744&&-7775         230  SEC           WOTWIN
+ 231  RP4S1A 13  UPETN3-7776&&-7807         230  PRIM          WO
+
+ 232  RP4S1A  0  UPETN3-7808&&-7839         233  PRIM          WO
+ 232  RP4S1A  1  UPETN3-7840&&-7871         233  SEC           WOTWIN
+ 232  RP4S1A  2  UPETN3-7872&&-7903         233  PRIM          WO
+ 232  RP4S1A  3  UPETN3-7904&&-7935         233  SEC           WOTWIN
+ 232  RP4S1A  4  UPETN3-7936&&-7967         233  PRIM          WO
+ 232  RP4S1A  5  UPETN3-7968&&-7999         233  SEC           WOTWIN
+ 232  RP4S1A  6  UPETN3-8000&&-8031         233  PRIM          WO
+ 232  RP4S1A  7  UPETN3-8032&&-8063         233  SEC           WOTWIN
+ 232  RP4S1A  8  UPETN3-8064&&-8095         233  PRIM          WO
+ 232  RP4S1A  9  UPETN3-8096&&-8127         233  SEC           WOTWIN
+ 232  RP4S1A 10  UPETN3-8128&&-8159         233  PRIM          WO
+ 232  RP4S1A 11  UPETN3-8160&&-8191         233  SEC           WOTWIN
+ 232  RP4S1A 12  UPETN3-8192&&-8223         233  PRIM          WO
+ 232  RP4S1A 13  UPETN3-8224&&-8255         233  SEC           WOTWIN
+
+ 233  RP4S1A  0  UPETN3-7808&&-7839         232  SEC           WOTWIN
+ 233  RP4S1A  1  UPETN3-7840&&-7871         232  PRIM          WO
+ 233  RP4S1A  2  UPETN3-7872&&-7903         232  SEC           WOTWIN
+ 233  RP4S1A  3  UPETN3-7904&&-7935         232  PRIM          WO
+ 233  RP4S1A  4  UPETN3-7936&&-7967         232  SEC           WOTWIN
+ 233  RP4S1A  5  UPETN3-7968&&-7999         232  PRIM          WO
+ 233  RP4S1A  6  UPETN3-8000&&-8031         232  SEC           WOTWIN
+ 233  RP4S1A  7  UPETN3-8032&&-8063         232  PRIM          WO
+ 233  RP4S1A  8  UPETN3-8064&&-8095         232  SEC           WOTWIN
+ 233  RP4S1A  9  UPETN3-8096&&-8127         232  PRIM          WO
+ 233  RP4S1A 10  UPETN3-8128&&-8159         232  SEC           WOTWIN
+ 233  RP4S1A 11  UPETN3-8160&&-8191         232  PRIM          WO
+ 233  RP4S1A 12  UPETN3-8192&&-8223         232  SEC           WOTWIN
+ 233  RP4S1A 13  UPETN3-8224&&-8255         232  PRIM          WO
+
+ 234  RP4S1A  0  UPETN3-8256&&-8287         235  PRIM          WO
+ 234  RP4S1A  1  UPETN3-8288&&-8319         235  SEC           WOTWIN
+ 234  RP4S1A  2  UPETN3-8320&&-8351         235  PRIM          WO
+ 234  RP4S1A  3  UPETN3-8352&&-8383         235  SEC           WOTWIN
+ 234  RP4S1A  4  UPETN3-8384&&-8415         235  PRIM          WO
+ 234  RP4S1A  5  UPETN3-8416&&-8447         235  SEC           WOTWIN
+ 234  RP4S1A  6  UPETN3-8448&&-8479         235  PRIM          WO
+ 234  RP4S1A  7  UPETN3-8480&&-8511         235  SEC           WOTWIN
+ 234  RP4S1A  8  UPETN3-8512&&-8543         235  PRIM          WO
+ 234  RP4S1A  9  UPETN3-8544&&-8575         235  SEC           WOTWIN
+ 234  RP4S1A 10  UPETN3-8576&&-8607         235  PRIM          WO
+ 234  RP4S1A 11  UPETN3-8608&&-8639         235  SEC           WOTWIN
+ 234  RP4S1A 12  UPETN3-8640&&-8671         235  PRIM          WO
+ 234  RP4S1A 13  UPETN3-8672&&-8703         235  SEC           WOTWIN
+
+ 235  RP4S1A  0  UPETN3-8256&&-8287         234  SEC           WOTWIN
+ 235  RP4S1A  1  UPETN3-8288&&-8319         234  PRIM          WO
+ 235  RP4S1A  2  UPETN3-8320&&-8351         234  SEC           WOTWIN
+ 235  RP4S1A  3  UPETN3-8352&&-8383         234  PRIM          WO
+ 235  RP4S1A  4  UPETN3-8384&&-8415         234  SEC           WOTWIN
+ 235  RP4S1A  5  UPETN3-8416&&-8447         234  PRIM          WO
+ 235  RP4S1A  6  UPETN3-8448&&-8479         234  SEC           WOTWIN
+ 235  RP4S1A  7  UPETN3-8480&&-8511         234  PRIM          WO
+ 235  RP4S1A  8  UPETN3-8512&&-8543         234  SEC           WOTWIN
+ 235  RP4S1A  9  UPETN3-8544&&-8575         234  PRIM          WO
+ 235  RP4S1A 10  UPETN3-8576&&-8607         234  SEC           WOTWIN
+ 235  RP4S1A 11  UPETN3-8608&&-8639         234  PRIM          WO
+ 235  RP4S1A 12  UPETN3-8640&&-8671         234  SEC           WOTWIN
+ 235  RP4S1A 13  UPETN3-8672&&-8703         234  PRIM          WO
+
+ 236  RP4S1A  0  UPETN3-8704&&-8735         237  PRIM          WO
+ 236  RP4S1A  1  UPETN3-8736&&-8767         237  SEC           WOTWIN
+ 236  RP4S1A  2  UPETN3-8768&&-8799         237  PRIM          WO
+ 236  RP4S1A  3  UPETN3-8800&&-8831         237  SEC           WOTWIN
+ 236  RP4S1A  4  UPETN3-8832&&-8863         237  PRIM          WO
+ 236  RP4S1A  5  UPETN3-8864&&-8895         237  SEC           WOTWIN
+ 236  RP4S1A  6  UPETN3-8896&&-8927         237  PRIM          WO
+ 236  RP4S1A  7  UPETN3-8928&&-8959         237  SEC           WOTWIN
+ 236  RP4S1A  8  UPETN3-8960&&-8991         237  PRIM          WO
+ 236  RP4S1A  9  UPETN3-8992&&-9023         237  SEC           WOTWIN
+ 236  RP4S1A 10  UPETN3-9024&&-9055         237  PRIM          WO
+ 236  RP4S1A 11  UPETN3-9056&&-9087         237  SEC           WOTWIN
+ 236  RP4S1A 12  UPETN3-9088&&-9119         237  PRIM          WO
+ 236  RP4S1A 13  UPETN3-9120&&-9151         237  SEC           WOTWIN
+
+ 237  RP4S1A  0  UPETN3-8704&&-8735         236  SEC           WOTWIN
+ 237  RP4S1A  1  UPETN3-8736&&-8767         236  PRIM          WO
+ 237  RP4S1A  2  UPETN3-8768&&-8799         236  SEC           WOTWIN
+ 237  RP4S1A  3  UPETN3-8800&&-8831         236  PRIM          WO
+ 237  RP4S1A  4  UPETN3-8832&&-8863         236  SEC           WOTWIN
+ 237  RP4S1A  5  UPETN3-8864&&-8895         236  PRIM          WO
+ 237  RP4S1A  6  UPETN3-8896&&-8927         236  SEC           WOTWIN
+ 237  RP4S1A  7  UPETN3-8928&&-8959         236  PRIM          WO
+ 237  RP4S1A  8  UPETN3-8960&&-8991         236  SEC           WOTWIN
+ 237  RP4S1A  9  UPETN3-8992&&-9023         236  PRIM          WO
+ 237  RP4S1A 10  UPETN3-9024&&-9055         236  SEC           WOTWIN
+ 237  RP4S1A 11  UPETN3-9056&&-9087         236  PRIM          WO
+ 237  RP4S1A 12  UPETN3-9088&&-9119         236  SEC           WOTWIN
+ 237  RP4S1A 13  UPETN3-9120&&-9151         236  PRIM          WO
+
+ 238  RP4S1A  0  UPETN3-9152&&-9183         239  PRIM          WO
+ 238  RP4S1A  1  UPETN3-9184&&-9215         239  SEC           WOTWIN
+ 238  RP4S1A  2  UPETN3-9216&&-9247         239  PRIM          WO
+ 238  RP4S1A  3  UPETN3-9248&&-9279         239  SEC           WOTWIN
+ 238  RP4S1A  4  UPETN3-9280&&-9311         239  PRIM          WO
+ 238  RP4S1A  5  UPETN3-9312&&-9343         239  SEC           WOTWIN
+ 238  RP4S1A  6  UPETN3-9344&&-9375         239  PRIM          WO
+ 238  RP4S1A  7  UPETN3-9376&&-9407         239  SEC           WOTWIN
+ 238  RP4S1A  8  UPETN3-9408&&-9439         239  PRIM          WO
+ 238  RP4S1A  9  UPETN3-9440&&-9471         239  SEC           WOTWIN
+ 238  RP4S1A 10  UPETN3-9472&&-9503         239  PRIM          WO
+ 238  RP4S1A 11  UPETN3-9504&&-9535         239  SEC           WOTWIN
+ 238  RP4S1A 12  UPETN3-9536&&-9567         239  PRIM          WO
+ 238  RP4S1A 13  UPETN3-9568&&-9599         239  SEC           WOTWIN
+
+ 239  RP4S1A  0  UPETN3-9152&&-9183         238  SEC           WOTWIN
+ 239  RP4S1A  1  UPETN3-9184&&-9215         238  PRIM          WO
+ 239  RP4S1A  2  UPETN3-9216&&-9247         238  SEC           WOTWIN
+ 239  RP4S1A  3  UPETN3-9248&&-9279         238  PRIM          WO
+ 239  RP4S1A  4  UPETN3-9280&&-9311         238  SEC           WOTWIN
+ 239  RP4S1A  5  UPETN3-9312&&-9343         238  PRIM          WO
+ 239  RP4S1A  6  UPETN3-9344&&-9375         238  SEC           WOTWIN
+ 239  RP4S1A  7  UPETN3-9376&&-9407         238  PRIM          WO
+ 239  RP4S1A  8  UPETN3-9408&&-9439         238  SEC           WOTWIN
+ 239  RP4S1A  9  UPETN3-9440&&-9471         238  PRIM          WO
+ 239  RP4S1A 10  UPETN3-9472&&-9503         238  SEC           WOTWIN
+ 239  RP4S1A 11  UPETN3-9504&&-9535         238  PRIM          WO
+ 239  RP4S1A 12  UPETN3-9536&&-9567         238  SEC           WOTWIN
+ 239  RP4S1A 13  UPETN3-9568&&-9599         238  PRIM          WO
+
+ 256  RPM6A   0  TSM-32                     257  PRIM          WO
+ 256  RPM6A   1  TSM-32                     257  PRIM          WO
+ 256  RPM6A   2  TSM-33                     257  SEC           WOTWIN
+ 256  RPM6A   3  TSM-33                     257  SEC           WOTWIN
+ 256  RPM6A   4  TSM-34                     257  PRIM          WO
+ 256  RPM6A   5  TSM-34                     257  PRIM          WO
+ 256  RPM6A   6  TSM-35                     257  SEC           WOTWIN
+ 256  RPM6A   7  TSM-35                     257  SEC           WOTWIN
+ 256  RPM6A   8  TSM-36                     257  PRIM          WO
+ 256  RPM6A   9  TSM-36                     257  PRIM          WO
+ 256  RPM6A  10  TSM-37                     257  SEC           WOTWIN
+ 256  RPM6A  11  TSM-37                     257  SEC           WOTWIN
+ 256  RPM6A  12  TSM-38                     257  PRIM          WO
+ 256  RPM6A  13  TSM-38                     257  PRIM          WO
+ 256  RPM6A  14  TSM-39                     257  SEC           WOTWIN
+ 256  RPM6A  15  TSM-39                     257  SEC           WOTWIN
+
+ 257  RPM6A   0  TSM-32                     256  SEC           WOTWIN
+ 257  RPM6A   1  TSM-32                     256  SEC           WOTWIN
+ 257  RPM6A   2  TSM-33                     256  PRIM          WO
+ 257  RPM6A   3  TSM-33                     256  PRIM          WO
+ 257  RPM6A   4  TSM-34                     256  SEC           WOTWIN
+ 257  RPM6A   5  TSM-34                     256  SEC           WOTWIN
+ 257  RPM6A   6  TSM-35                     256  PRIM          WO
+ 257  RPM6A   7  TSM-35                     256  PRIM          WO
+ 257  RPM6A   8  TSM-36                     256  SEC           WOTWIN
+ 257  RPM6A   9  TSM-36                     256  SEC           WOTWIN
+ 257  RPM6A  10  TSM-37                     256  PRIM          WO
+ 257  RPM6A  11  TSM-37                     256  PRIM          WO
+ 257  RPM6A  12  TSM-38                     256  SEC           WOTWIN
+ 257  RPM6A  13  TSM-38                     256  SEC           WOTWIN
+ 257  RPM6A  14  TSM-39                     256  PRIM          WO
+ 257  RPM6A  15  TSM-39                     256  PRIM          WO
+
+ 258  RPM6A   0  TSM-40                     259  PRIM          WO
+ 258  RPM6A   1  TSM-40                     259  PRIM          WO
+ 258  RPM6A   2  TSM-41                     259  SEC           WOTWIN
+ 258  RPM6A   3  TSM-41                     259  SEC           WOTWIN
+ 258  RPM6A   4  TSM-42                     259  PRIM          WO
+ 258  RPM6A   5  TSM-42                     259  PRIM          WO
+ 258  RPM6A   6  TSM-43                     259  SEC           WOTWIN
+ 258  RPM6A   7  TSM-43                     259  SEC           WOTWIN
+
+ 259  RPM6A   0  TSM-40                     258  SEC           WOTWIN
+ 259  RPM6A   1  TSM-40                     258  SEC           WOTWIN
+ 259  RPM6A   2  TSM-41                     258  PRIM          WO
+ 259  RPM6A   3  TSM-41                     258  PRIM          WO
+ 259  RPM6A   4  TSM-42                     258  SEC           WOTWIN
+ 259  RPM6A   5  TSM-42                     258  SEC           WOTWIN
+ 259  RPM6A   6  TSM-43                     258  PRIM          WO
+ 259  RPM6A   7  TSM-43                     258  PRIM          WO
+
+ 288  RP4S1A  0  ETV5G-288&&-319            289  PRIM          WO
+ 288  RP4S1A  1  ETV5G-320&&-351            289  SEC           WOTWIN
+ 288  RP4S1A  2  ETV5G-352&&-383            289  PRIM          WO
+ 288  RP4S1A  3  ETV5G-384&&-415            289  SEC           WOTWIN
+ 288  RP4S1A  4  ETV5G-416&&-447            289  PRIM          WO
+ 288  RP4S1A  5  ETV5G-448&&-479            289  SEC           WOTWIN
+ 288  RP4S1A  6  ETV5G-480&&-511            289  PRIM          WO
+ 288  RP4S1A  7  ETRST-224&&-255            289  SEC           WOTWIN
+ 288  RP4S1A  8  ETRST-256&&-287            289  PRIM          WO
+ 288  RP4S1A  9  ETRST-288&&-319            289  SEC           WOTWIN
+ 288  RP4S1A 10  ETRST-320&&-351            289  PRIM          WO
+ 288  RP4S1A 11  ETRST-416&&-447            289  SEC           WOTWIN
+
+ 289  RP4S1A  0  ETV5G-288&&-319            288  SEC           WOTWIN
+ 289  RP4S1A  1  ETV5G-320&&-351            288  PRIM          WO
+ 289  RP4S1A  2  ETV5G-352&&-383            288  SEC           WOTWIN
+ 289  RP4S1A  3  ETV5G-384&&-415            288  PRIM          WO
+ 289  RP4S1A  4  ETV5G-416&&-447            288  SEC           WOTWIN
+ 289  RP4S1A  5  ETV5G-448&&-479            288  PRIM          WO
+ 289  RP4S1A  6  ETV5G-480&&-511            288  SEC           WOTWIN
+ 289  RP4S1A  7  ETRST-224&&-255            288  PRIM          WO
+ 289  RP4S1A  8  ETRST-256&&-287            288  SEC           WOTWIN
+ 289  RP4S1A  9  ETRST-288&&-319            288  PRIM          WO
+ 289  RP4S1A 10  ETRST-320&&-351            288  SEC           WOTWIN
+ 289  RP4S1A 11  ETRST-416&&-447            288  PRIM          WO
+
+ 290  RPG2A   0  STV5G-64&&-95                   PRIM          WO
+ 290  RPG2A   1  DLV5G-2                         PRIM          WO
+ 290  RPG2A   4  ANCTRLG-2                       PRIM          WO
+ 290  RPG2A   5  PSTNG-2                         PRIM          WO
+ 290  RPG2A   6  MANV5G-2                        PRIM          WO
+ 290  RPG2A   7  MHV5G-2                         PRIM          WO
+ 290  RPG2A   8  V5PTCLG-2                       PRIM          WO
+ 290  RPG2A  10  PSTNHVG-2                       PRIM          WO
+ 290  RPG2A  11  PROTP-2                         PRIM          WO
+ 290  RPG2A  15  LPATHG-2                        PRIM          WO
+
+ 291  RPG2A   0  STV5G-96&&-127                  PRIM          WO
+ 291  RPG2A   1  DLV5G-3                         PRIM          WO
+ 291  RPG2A   4  ANCTRLG-3                       PRIM          WO
+ 291  RPG2A   5  PSTNG-3                         PRIM          WO
+ 291  RPG2A   6  MANV5G-3                        PRIM          WO
+ 291  RPG2A   7  MHV5G-3                         PRIM          WO
+ 291  RPG2A   8  V5PTCLG-3                       PRIM          WO
+ 291  RPG2A  10  PSTNHVG-3                       PRIM          WO
+ 291  RPG2A  11  PROTP-3                         PRIM          WO
+ 291  RPG2A  15  LPATHG-3                        PRIM          WO
+
+ 292  RP4S1A  0  ETRST-448&&-479            293  PRIM          WO
+ 292  RP4S1A  1  ETRST-480&&-511            293  SEC           WOTWIN
+ 292  RP4S1A  2  ETRST-512&&-543            293  PRIM          WO
+ 292  RP4S1A  3  ETRST-640&&-671            293  SEC           WOTWIN
+ 292  RP4S1A  4  ETRST-672&&-703            293  PRIM          WO
+ 292  RP4S1A  5  ETRST-544&&-575            293  SEC           WOTWIN
+ 292  RP4S1A  6  ETRST-576&&-607            293  PRIM          WO
+ 292  RP4S1A  7  ETRST-608&&-639            293  SEC           WOTWIN
+ 292  RP4S1A  8  ETV5G-512&&-543            293  PRIM          WO
+ 292  RP4S1A  9  ETV5G-544&&-575            293  SEC           WOTWIN
+ 292  RP4S1A 10  ETV5G-576&&-607            293  PRIM          WO
+ 292  RP4S1A 11  ETV5G-608&&-639            293  SEC           WOTWIN
+
+ 293  RP4S1A  0  ETRST-448&&-479            292  SEC           WOTWIN
+ 293  RP4S1A  1  ETRST-480&&-511            292  PRIM          WO
+ 293  RP4S1A  2  ETRST-512&&-543            292  SEC           WOTWIN
+ 293  RP4S1A  3  ETRST-640&&-671            292  PRIM          WO
+ 293  RP4S1A  4  ETRST-672&&-703            292  SEC           WOTWIN
+ 293  RP4S1A  5  ETRST-544&&-575            292  PRIM          WO
+ 293  RP4S1A  6  ETRST-576&&-607            292  SEC           WOTWIN
+ 293  RP4S1A  7  ETRST-608&&-639            292  PRIM          WO
+ 293  RP4S1A  8  ETV5G-512&&-543            292  SEC           WOTWIN
+ 293  RP4S1A  9  ETV5G-544&&-575            292  PRIM          WO
+ 293  RP4S1A 10  ETV5G-576&&-607            292  SEC           WOTWIN
+ 293  RP4S1A 11  ETV5G-608&&-639            292  PRIM          WO
+
+ 294  RPG2A   0  STAU-64&&-95                    PRIM          WO
+ 294  RPG2A   1  DLAU-2                          PRIM          WO
+ 294  RPG2A   4  CTRLAU-2                        PRIM          WO
+ 294  RPG2A   5  PSTNAU-2                        PRIM          WO
+ 294  RPG2A   6  MANAU-2                         PRIM          WO
+ 294  RPG2A   7  MHAU-2                          PRIM          WO
+ 294  RPG2A   8  V5PRTAU-2                       PRIM          WO
+ 294  RPG2A  10  PSTNHMA-2                       PRIM          WO
+ 294  RPG2A  15  LPATHMA-2                       PRIM          WO
+
+ 296  RP4S1A  0  ETRST-736&&-767            297  PRIM          WO
+ 296  RP4S1A  1  ETRST-768&&-799            297  SEC           WOTWIN
+ 296  RP4S1A  2  ETRST-704&&-735            297  PRIM          WO
+
+ 297  RP4S1A  0  ETRST-736&&-767            296  SEC           WOTWIN
+ 297  RP4S1A  1  ETRST-768&&-799            296  PRIM          WO
+ 297  RP4S1A  2  ETRST-704&&-735            296  SEC           WOTWIN
+
+ 298  RPG2A   0  STAU-96&&-127                   PRIM          WO
+ 298  RPG2A   1  DLAU-3                          PRIM          WO
+ 298  RPG2A   4  CTRLAU-3                        PRIM          WO
+ 298  RPG2A   5  PSTNAU-3                        PRIM          WO
+ 298  RPG2A   6  MANAU-3                         PRIM          WO
+ 298  RPG2A   7  MHAU-3                          PRIM          WO
+ 298  RPG2A   8  V5PRTAU-3                       PRIM          WO
+ 298  RPG2A  10  PSTNHMA-3                       PRIM          WO
+ 298  RPG2A  15  LPATHMA-3                       PRIM          WO
+
+ 300  RP4S1A  0  ETV5G-640&&-671            301  PRIM          WO
+ 300  RP4S1A  1  ETV5G-672&&-703            301  SEC           WOTWIN
+ 300  RP4S1A  2  ETV5G-704&&-735            301  PRIM          WO
+ 300  RP4S1A  3  ETV5G-736&&-767            301  SEC           WOTWIN
+
+ 301  RP4S1A  0  ETV5G-640&&-671            300  SEC           WOTWIN
+ 301  RP4S1A  1  ETV5G-672&&-703            300  PRIM          WO
+ 301  RP4S1A  2  ETV5G-704&&-735            300  SEC           WOTWIN
+ 301  RP4S1A  3  ETV5G-736&&-767            300  PRIM          WO
+
+ 302  RPG2A   0  STV5G-128&&-159                 PRIM          WO
+ 302  RPG2A   1  DLV5G-4                         PRIM          WO
+ 302  RPG2A   4  ANCTRLG-4                       PRIM          WO
+ 302  RPG2A   5  PSTNG-4                         PRIM          WO
+ 302  RPG2A   6  MANV5G-4                        PRIM          WO
+ 302  RPG2A   7  MHV5G-4                         PRIM          WO
+ 302  RPG2A   8  V5PTCLG-4                       PRIM          WO
+ 302  RPG2A  10  PSTNHVG-4                       PRIM          WO
+ 302  RPG2A  11  PROTP-4                         PRIM          WO
+ 302  RPG2A  15  LPATHG-4                        PRIM          WO
+
+ 303  RPG2A   0  STV5G-160&&-191                 PRIM          WO
+ 303  RPG2A   1  DLV5G-5                         PRIM          WO
+ 303  RPG2A   4  ANCTRLG-5                       PRIM          WO
+ 303  RPG2A   5  PSTNG-5                         PRIM          WO
+ 303  RPG2A   6  MANV5G-5                        PRIM          WO
+ 303  RPG2A   7  MHV5G-5                         PRIM          WO
+ 303  RPG2A   8  V5PTCLG-5                       PRIM          WO
+ 303  RPG2A  10  PSTNHVG-5                       PRIM          WO
+ 303  RPG2A  11  PROTP-5                         PRIM          WO
+ 303  RPG2A  15  LPATHG-5                        PRIM          WO
+
+END
+

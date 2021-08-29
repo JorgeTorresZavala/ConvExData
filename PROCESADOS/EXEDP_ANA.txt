@@ -1,0 +1,2314 @@
+<EXEDP:EMG=ALL,EM=ALL;                                           
+
+EMGEM SOFTWARE UNIT AND EQUIPMENT DATA
+
+EMG
+ELPM
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-28                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-28                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-28               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-28               H'0145
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-768                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-64                 H'0159
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-29                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-29                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-29               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-29               H'0145
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-769                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-65                 H'0159
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-30                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-30                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-30               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-30               H'0145
+TWR      9000/CAA 140 069       R1A01    TW-20                  H'0128
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-770                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-66                 H'0159
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-31                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-31                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-31               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-31               H'0145
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-771                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-67                 H'0159
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-32                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-32                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-32               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-32               H'0145
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-772                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-68                 H'0159
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-33                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-33                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-33               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-33               H'0145
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-773                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-69                 H'0159
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-34                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-34                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-34               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-34               H'0145
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-774                 H'0167
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-70                 H'0159
+
+EMG
+EVFO
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-736                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-7                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-7                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-7                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-7                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-16                 H'0159
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-737                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-8                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-8                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-8                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-8                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-17                 H'0159
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-738                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-9                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-9                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-9                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-9                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-18                 H'0159
+TWR      9000/CAA 140 069       R1A01    TW-18                  H'0128
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-739                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-10                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-10                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-10               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-10               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-19                 H'0159
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-740                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-11                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-11                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-11               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-11               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-20                 H'0159
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-741                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-12                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-12                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-12               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-12               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-21                 H'0159
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-742                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-13                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-13                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-13               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-13               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-22                 H'0159
+
+EMG
+ECUC
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-704                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-0                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-0                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-0                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-0                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-0                  H'0159
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-705                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-1                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-1                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-1                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-1                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-1                  H'0159
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-706                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-2                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-2                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-2                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-2                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-2                  H'0159
+TWR      9000/CAA 140 069       R1A01    TW-17                  H'0128
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-707                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-3                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-3                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-3                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-3                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-3                  H'0159
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-708                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-4                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-4                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-4                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-4                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-4                  H'0159
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-709                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-5                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-5                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-5                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-5                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-5                  H'0159
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-710                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-6                  H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-6                  H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-6                H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-6                H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-6                  H'0159
+
+EMG
+SSI1
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-640                 H'0068
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-261                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02    ETGAM-20&&-23          H'0081
+RT3R     1DKB/CAA 117 1145/MD2M R4A01    RT3-128&&-191          H'0288
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02    LIPRA-640&&-767        H'00BC
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-320             H'0125
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-641                 H'0068
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-262                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02    ETGAM-24&&-27          H'0081
+RT3R     1DKB/CAA 117 1145/MD2M R4A01    RT3-192&&-255          H'0288
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02    LIPRA-768&&-895        H'00BC
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-321             H'0125
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-642                 H'0068
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-263                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02                           H'0081
+RT3R     1DKB/CAA 117 1145/MD2M R4A01    RT3-256&&-319          H'0288
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02                           H'00BC
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-322             H'0125
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-643                 H'0068
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-264                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02                           H'0081
+RT3R     1DKB/CAA 117 1145/MD2M R4A01    RT3-320&&-383          H'0288
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02                           H'00BC
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-323             H'0125
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-644                 H'0068
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-274                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02                           H'0081
+RT3R     1DKB/CAA 117 1145/MD2M R4A01    RT3-384&&-447          H'0288
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02                           H'00BC
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-324             H'0125
+
+EMG
+LPM4
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-247                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1920&&-1951        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-34816&&-34943      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-440&&-447          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-576                 H'0068
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-224                H'01A3
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-34816&&-34943     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-288             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-272               H'028B
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-248                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1952&&-1983        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-34944&&-35071      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-448&&-455          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-577                 H'0068
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-225                H'01A3
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-34944&&-35071     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-289             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-273               H'028B
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-249                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1984&&-2015        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35072&&-35199      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02                           H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-578                 H'0068
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-226                H'01A3
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35072&&-35199     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-290             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-274               H'028B
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-250                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-2528&&-2559        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35200&&-35327      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-579                 H'0068
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-227                H'01A3
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35200&&-35327     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-291             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-275               H'028B
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-251                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35328&&-35455      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-580                 H'0068
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-228                H'01A3
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35328&&-35455     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-292             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-276               H'028B
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-252                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35456&&-35583      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-581                 H'0068
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-229                H'01A3
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35456&&-35583     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-293             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-277               H'028B
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-230                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-101                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-32&&-63            H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35584&&-35711      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-472&&-479          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-582                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-278               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35584&&-35711     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-101             H'0125
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-231                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-102                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-64&&-95            H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35712&&-35839      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-480&&-487          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-583                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-279               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35712&&-35839     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-102             H'0125
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-232                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-103                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-96&&-127           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35840&&-35967      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-584                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-280               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35840&&-35967     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-103             H'0125
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-233                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-104                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-128&&-159          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-35968&&-36095      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-585                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-281               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-35968&&-36095     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-104             H'0125
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-234                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-105                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-36096&&-36223      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-586                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-282               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-36096&&-36223     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-105             H'0125
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-235                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-106                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-36224&&-36351      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-587                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-283               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-36224&&-36351     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-106             H'0125
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-236                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-107                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-36352&&-36479      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-588                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-284               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-36352&&-36479     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-107             H'0125
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-237                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-108                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-36480&&-36607      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-589                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-285               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-36480&&-36607     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-108             H'0125
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-238                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-109                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-36608&&-36735      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-590                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-286               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-36608&&-36735     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-109             H'0125
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-15               H'028C
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-60&&-63           H'01B0
+EXAL0R   2/CAA 117 052/1 C      R1A01    EXAL0-416&&-447        H'000E
+TWR      2/CAA 117 064/1 E      R1A01    TW-14                  H'000F
+ACCSDR   1D11/CAA 117 1092/MD2E R1A04    ACCSD-15               H'0198
+
+EMG
+SEP3
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-128                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-195                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1344&&-1375        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-28672&&-28799      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-224               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-280&&-287          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-480                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-28672&&-28799     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-240             H'0125
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-129                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-196                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1376&&-1407        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-28800&&-28927      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-225               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-288&&-295          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-481                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-28800&&-28927     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-241             H'0125
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-130                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-197                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1408&&-1439        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-28928&&-29055      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-223               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-482                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-28928&&-29055     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-242             H'0125
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-416&&-423          H'01B7
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-131                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-198                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29056&&-29183      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-227               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-483                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29056&&-29183     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-243             H'0125
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-424&&-431          H'01B7
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-132                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-199                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29184&&-29311      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-228               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-484                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29184&&-29311     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-244             H'0125
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-133                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-206                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29312&&-29439      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-485                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29312&&-29439     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-245             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-229               H'028B
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-134                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-207                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29440&&-29567      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-486                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29440&&-29567     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-246             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-230               H'028B
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-135                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-208                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29568&&-29695      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-487                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29568&&-29695     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-247             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-231               H'028B
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-136                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-265                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29696&&-29823      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-232               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02                           H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-488                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29696&&-29823     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-248             H'0125
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-137                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-266                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29824&&-29951      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-233               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02                           H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-489                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29824&&-29951     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-249             H'0125
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-138                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-267                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-2720&&-2751        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-29952&&-30079      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-234               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-490                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-29952&&-30079     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-250             H'0125
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-432&&-439          H'01B7
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-139                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-96                  H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-30080&&-30207      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-235               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-491                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-30080&&-30207     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-96              H'0125
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-140                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-97                  H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-30208&&-30335      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-236               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-492                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-30208&&-30335     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-97              H'0125
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-141                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-98                  H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01                           H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-30336&&-30463      H'00D4
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-237               H'028B
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-493                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-30336&&-30463     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-98              H'0125
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-142                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-99                  H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-0&&-31             H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-30464&&-30591      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-494                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-238               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-30464&&-30591     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-99              H'0125
+EM
+15
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-143                H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-100                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-30592&&-30719      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-495                 H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-239               H'028B
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-30592&&-30719     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-100             H'0125
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-12               H'028C
+ACCSDR   1D11/CAA 117 1092/MD2E R1A04    ACCSD-12               H'0198
+EXAL0R   2/CAA 117 052/1 C      R1A01    EXAL0-352&&-383        H'000E
+TWR      2/CAA 117 064/1 E      R1A01    TW-12                  H'000F
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-48&&-51           H'01B0
+
+EMG
+SSI0
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   CAA 140 001             R7A01                          H'002D
+EDEXR    CAA 140 063             R1B01                          H'0029
+CDR      300/CAA 147 021/MZXC    R5A01   CD-192                 H'004A
+LIBAER   300/CAA 147 071/MZXC   R1D01    LIBAE-0                H'004E
+MANBAR   301/CAA 147 082/MZXC   R1B01    MANBA-0                H'0191
+MHBAR    300/CAA 147 048/MF5B    R1A02   MHBA-0                 H'00C3
+SLQCTR   300/CAA 147 005/MM4C R4A01      SLQCT                  H'00CC
+STL2R    000/CAA 140 171/MZXC   R2D01    STL2                   H'0165
+TSR      300/CAA 147 028/MZXC   R4D01    TS-448                 H'005A
+FHLR     000/CAA 140 173/MECG    R1A01   FHL-0                  H'0174
+JT2R     301/CAA 147 027/MM4C R1A02      JT2-0&&-63             H'00B1
+SSTONER  AHJ/CAA 147 078/MMAA    R1A02   SSTONE-224             H'0124
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-193                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02    ETGAM-0&&-3            H'0081
+JT2R     1D12/CAA 117 1036/MD2E R3A01    JT2-64&&-127           H'01B1
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02    LIPRA-0&&-127          H'00BC
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-449                 H'0068
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-225             H'0125
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-194                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02    ETGAM-4&&-7            H'0081
+JT2R     1D12/CAA 117 1036/MD2E R3A01    JT2-128&&-191          H'01B1
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02    LIPRA-128&&-255        H'00BC
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-450                 H'0068
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-226             H'0125
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   CAA 140 001             R7A01                          H'002D
+EDEXR    CAA 140 063             R1B01                          H'0029
+CDR      300/CAA 147 021/MZXC    R5A01   CD-253                 H'004A
+LIBAER   300/CAA 147 071/MZXC   R1D01    LIBAE-1                H'004E
+MANBAR   301/CAA 147 082/MZXC   R1B01    MANBA-1                H'0191
+MHBAR    300/CAA 147 048/MF5B    R1A02   MHBA-1                 H'00C3
+SLQCTR   300/CAA 147 005/MM4C R4A01      SLQCT                  H'00CC
+STL2R    000/CAA 140 171/MZXC   R2D01    STL2                   H'0165
+TSR      300/CAA 147 028/MZXC   R4D01    TS-451                 H'005A
+FHLR     000/CAA 140 173/MECG    R1A01   FHL-1                  H'0174
+SSTONER  AHJ/CAA 147 078/MMAA    R1A02   SSTONE-227             H'0124
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-254                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02    ETGAM-8&&-11           H'0081
+JT2R     1D12/CAA 117 1036/MD2E R3A01    JT2-192&&-255          H'01B1
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02    LIPRA-256&&-383        H'00BC
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-452                 H'0068
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-228             H'0125
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-255                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02    ETGAM-12&&-15          H'0081
+JT2R     1D12/CAA 117 1036/MD2E R3A01    JT2-256&&-319          H'01B1
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02    LIPRA-384&&-511        H'00BC
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-453                 H'0068
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-229             H'0125
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-259                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02                           H'0081
+JT2R     1D12/CAA 117 1036/MD2E R3A01    JT2-320&&-383          H'01B1
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02                           H'00BC
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-454                 H'0068
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-230             H'0125
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-260                 H'0059
+ETGAMNR  1B9K/CAA 117 1284/MTZB R1A02                           H'0081
+JT2R     1D12/CAA 117 1036/MD2E R3A01    JT2-384&&-447          H'01B1
+LIPRAR   1D2B/CAA 117 1213/MD2E R1A02                           H'00BC
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-455                 H'0068
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-231             H'0125
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-13               H'028C
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-52&&-55           H'01B0
+ACCSDR   1D11/CAA 117 1092/MD2E R1A04    ACCSD-13               H'0198
+
+EMG
+LPM2
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-152                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-928&&-959          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16384&&-16511      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-128&&-135          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-320                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16384&&-16511     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-160             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-128               H'028B
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-153                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-960&&-991          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16512&&-16639      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-136&&-143          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-321                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16512&&-16639     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-161             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-129               H'028B
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-154                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-992&&-1023         H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16640&&-16767      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-322                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16640&&-16767     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-162             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-130               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-320&&-327          H'01B7
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-155                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1024&&-1055        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16768&&-16895      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-323                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16768&&-16895     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-163             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-131               H'028B
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-156                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1216&&-1247        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16896&&-17023      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-324                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16896&&-17023     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-164             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-132               H'028B
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-157                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17024&&-17151      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-325                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17024&&-17151     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-165             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-133               H'028B
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-2272&&-2303        H'0060
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-158                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17152&&-17279      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-326                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17152&&-17279     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-166             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-134               H'028B
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-159                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17280&&-17407      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-327                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17280&&-17407     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-167             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-135               H'028B
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-160                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17408&&-17535      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-328                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17408&&-17535     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-168             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-136               H'028B
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-161                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17536&&-17663      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-329                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17536&&-17663     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-169             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-137               H'028B
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-162                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17664&&-17791      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-330                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17664&&-17791     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-170             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-138               H'028B
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-163                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17792&&-17919      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-331                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17792&&-17919     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-171             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-139               H'028B
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-164                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-17920&&-18047      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-332                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-17920&&-18047     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-172             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-140               H'028B
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-165                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-18048&&-18175      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-333                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-18048&&-18175     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-173             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-141               H'028B
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-166                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-18176&&-18303      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-334                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-18176&&-18303     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-174             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-142               H'028B
+EM
+15
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-167                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-18304&&-18431      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-335                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-18304&&-18431     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-175             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-143               H'028B
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-8                H'028C
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-36&&-39           H'01B0
+EXAL0R   2/CAA 117 052/1 C      R1A01    EXAL0-224&&-255        H'000E
+TWR      2/CAA 117 064/1 E      R1A01    TW-7                   H'000F
+
+EMG
+CUC2
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-136                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-416&&-447          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-14336&&-14463      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-112&&-119          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-288                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-14336&&-14463     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-144             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-112               H'028B
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-137                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-448&&-479          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-14464&&-14591      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-120&&-127          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-289                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-14464&&-14591     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-145             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-113               H'028B
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-138                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-384&&-415          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-14592&&-14719      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-290                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-14592&&-14719     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-146             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-114               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-184&&-191          H'01B7
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-139                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1184&&-1215        H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-14720&&-14847      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-291                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-14720&&-14847     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-147             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-115               H'028B
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-140                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-14848&&-14975      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-292                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-14848&&-14975     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-148             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-116               H'028B
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1152&&-1183        H'0060
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-141                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-14976&&-15103      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-293                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-14976&&-15103     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-149             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-117               H'028B
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1472&&-1503        H'0060
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-142                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15104&&-15231      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-294                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15104&&-15231     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-150             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-118               H'028B
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-143                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15232&&-15359      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-295                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15232&&-15359     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-151             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-119               H'028B
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-144                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15360&&-15487      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-296                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15360&&-15487     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-152             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-120               H'028B
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-145                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15488&&-15615      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-297                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15488&&-15615     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-153             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-121               H'028B
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-146                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15616&&-15743      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-298                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15616&&-15743     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-154             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-122               H'028B
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-147                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15744&&-15871      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-299                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15744&&-15871     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-155             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-123               H'028B
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-148                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-15872&&-15999      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-300                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-15872&&-15999     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-156             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-124               H'028B
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-149                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16000&&-16127      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-301                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16000&&-16127     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-157             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-125               H'028B
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-150                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16128&&-16255      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-302                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16128&&-16255     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-158             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-126               H'028B
+EM
+15
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-151                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-16256&&-16383      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-303                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-16256&&-16383     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-159             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-127               H'028B
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-7                H'028C
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-32&&-35           H'01B0
+EXAL0R   2/CAA 117 052/1 C      R1A01    EXAL0-160&&-191        H'000E
+TWR      2/CAA 117 064/1 E      R1A01    TW-6                   H'000F
+
+EMG
+VLF2
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-128                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-160&&-191          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12288&&-12415      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-96&&-103           H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-256                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12288&&-12415     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-128             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-96                H'028B
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-129                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-192&&-223          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12416&&-12543      H'00D4
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-104&&-111          H'01B7
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-257                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12416&&-12543     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-129             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-97                H'028B
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-130                 H'0059
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-224&&-255          H'0060
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12544&&-12671      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-258                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12544&&-12671     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-130             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-98                H'028B
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-131                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12672&&-12799      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-259                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12672&&-12799     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-131             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-99                H'028B
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-1536&&-1567        H'0060
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-132                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12800&&-12927      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-260                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12800&&-12927     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-132             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-100               H'028B
+RT2R     1DKA/CAA 117 1145/MD2M R4A01    RT2-2464&&-2495        H'0060
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-133                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12928&&-13055      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-261                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12928&&-13055     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-133             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-101               H'028B
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-134                 H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-13056&&-13183      H'00D4
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-262                 H'0068
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-13056&&-13183     H'01C2
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-134             H'0125
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-102               H'028B
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-6                H'028C
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-64&&-67           H'01B0
+EXAL0R   2/CAA 117 052/1 C      R1A01    EXAL0-192&&-223        H'000E
+TWR      2/CAA 117 064/1 E      R1A01    TW-11                  H'000F
+ACCSDR   1D11/CAA 117 1092/MD2E R1A04    ACCSD-16               H'0198
+
+EMG
+ESEP
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-224                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-21                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-21                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-21               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-21               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-48                 H'0159
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-225                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-22                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-22                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-22               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-22               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-49                 H'0159
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-226                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-23                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-23                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-23               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-23               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-50                 H'0159
+TWR      9000/CAA 140 069       R1A01    TW-19                  H'0128
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-227                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-24                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-24                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-24               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-24               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-51                 H'0159
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-228                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-25                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-25                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-25               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-25               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-52                 H'0159
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-229                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-26                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-26                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-26               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-26               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-53                 H'0159
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-230                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-27                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-27                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-27               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-27               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-54                 H'0159
+
+EMG
+EVREY4
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-192                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-14                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-14                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-14               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-14               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-32                 H'0159
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-193                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-15                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-15                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-15               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-15               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-33                 H'0159
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-194                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-16                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-16                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-16               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-16               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-34                 H'0159
+TWR      9000/CAA 140 069       R1A01    TW-1                   H'0128
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-195                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-17                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-17                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-17               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-17               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-35                 H'0159
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-196                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-18                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-18                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-18               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-18               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-36                 H'0159
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-197                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-19                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-19                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-19               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-19               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-37                 H'0159
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+EIEX1R   9000/CAA 203 58        R2C02                           H'0056
+TEETR    9000/CAA 140 054       R1A03                           H'0042
+EMGFDR   9000/CAA 140 007       R1A03                           H'0041
+TSR      9000/CAA 203 04/MZXS   R2M01    TS-198                 H'0167
+KRTR     9000/CAA 203 05/MZXS   R2N01    KRT-20                 H'0153
+AUSR     9000/CAA 203 03/MZXS   R5A01    AUS-20                 H'001D
+ETAUSR   9000/CAA 203 06/MZXM   R4A01    ETAUS-20               H'018E
+STCONR   9000/CAA 140 178/MZXM  R1G01    STCON-20               H'0145
+SAHR     9000/CAA 140 195/MZXS  R2A01    SAH-38                 H'0159
+
+EMG
+SS2
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-32                  H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-216&&-223          H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-22528&&-22655      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-22528&&-22655     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-64                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-176               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-512&&-543           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-32              H'0125
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-33                  H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-224&&-231          H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-22656&&-22783      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-22656&&-22783     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-65                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-177               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-544&&-575           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-33              H'0125
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-34                  H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-232&&-239          H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-22784&&-22911      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-22784&&-22911     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-66                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-178               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-576&&-607           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-34              H'0125
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-35                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-22912&&-23039      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-22912&&-23039     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-67                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-179               H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-344&&-351          H'01B7
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-608&&-639           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-35              H'0125
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-36                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23040&&-23167      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23040&&-23167     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-68                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-180               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-640&&-671           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-36              H'0125
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-37                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23168&&-23295      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23168&&-23295     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-69                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-181               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-672&&-703           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-37              H'0125
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-38                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23296&&-23423      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23296&&-23423     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-70                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-182               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-704&&-735           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-38              H'0125
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-39                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23424&&-23551      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23424&&-23551     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-71                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-183               H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-736&&-767           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-39              H'0125
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-40                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23552&&-23679      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23552&&-23679     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-72                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-184               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-40              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1280&&-1311         H'01B4
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-41                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23680&&-23807      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23680&&-23807     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-73                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-185               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-41              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1312&&-1343         H'01B4
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-42                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23808&&-23935      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23808&&-23935     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-74                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-186               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-42              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1344&&-1375         H'01B4
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-43                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-23936&&-24063      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-23936&&-24063     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-75                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-187               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-43              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1376&&-1407         H'01B4
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-44                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-24064&&-24191      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-24064&&-24191     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-76                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-188               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-44              H'0125
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-45                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-24192&&-24319      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-24192&&-24319     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-77                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-189               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-45              H'0125
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-46                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-24320&&-24447      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-24320&&-24447     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-78                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-190               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-46              H'0125
+EM
+15
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01                           H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-47                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-24448&&-24575      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-24448&&-24575     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-79                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-191               H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-47              H'0125
+
+EMG
+SS1
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-32                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-16                  H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-80&&-87            H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-10240&&-10367      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-10240&&-10367     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-32                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-80                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-256&&-287           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-16              H'0125
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-33                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-17                  H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-88&&-95            H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-10368&&-10495      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-10368&&-10495     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-33                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-81                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-288&&-319           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-17              H'0125
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-34                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-18                  H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-176&&-183          H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-10496&&-10623      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-10496&&-10623     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-34                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-82                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-320&&-351           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-18              H'0125
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-35                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-19                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-10624&&-10751      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-10624&&-10751     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-35                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-83                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-352&&-383           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-19              H'0125
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-336&&-343          H'01B7
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-36                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-20                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-10752&&-10879      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-10752&&-10879     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-36                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-84                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-384&&-415           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-20              H'0125
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-37                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-21                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-10880&&-11007      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-10880&&-11007     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-37                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-85                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-416&&-447           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-21              H'0125
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-38                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-22                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11008&&-11135      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11008&&-11135     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-38                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-86                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-448&&-479           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-22              H'0125
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-39                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-23                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11136&&-11263      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11136&&-11263     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-39                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-87                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-480&&-511           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-23              H'0125
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-40                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-24                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11264&&-11391      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11264&&-11391     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-40                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-88                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-24              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1184&&-1215         H'01B4
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-41                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-25                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11392&&-11519      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11392&&-11519     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-41                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-89                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-25              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1216&&-1247         H'01B4
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-42                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-26                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11520&&-11647      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11520&&-11647     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-42                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-90                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-26              H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1248&&-1279         H'01B4
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-43                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-27                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11648&&-11775      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11648&&-11775     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-43                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-91                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-27              H'0125
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-44                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-28                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11776&&-11903      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11776&&-11903     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-44                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-92                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-28              H'0125
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-45                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-29                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-11904&&-12031      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-11904&&-12031     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-45                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-93                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-29              H'0125
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-46                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-30                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12032&&-12159      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12032&&-12159     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-46                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-94                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-30              H'0125
+EM
+15
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-47                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-31                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-12160&&-12287      H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-12160&&-12287     H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-47                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-95                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-31              H'0125
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-5                H'028C
+ACCSDR   1D11/CAA 117 1092/MD2E R1A04    ACCSD-5                H'0198
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-0&&-3             H'01B0
+
+EMG
+SS0
+EM
+ 0
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-0                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-0                   H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-32&&-39            H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4096&&-4223        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4096&&-4223       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-0                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-32                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-0&&-31              H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-0               H'0125
+EM
+ 1
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-1                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-1                   H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-40&&-47            H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4224&&-4351        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4224&&-4351       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-1                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-33                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-32&&-63             H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-1               H'0125
+EM
+ 2
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-2                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-2                   H'0059
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-160&&-167          H'01B7
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4352&&-4479        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4352&&-4479       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-2                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-34                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-64&&-95             H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-2               H'0125
+EM
+ 3
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-3                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-3                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4480&&-4607        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4480&&-4607       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-3                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-35                H'028B
+KR2R     1A3A/CAA 117 1022/MF5D R2A02    KR2-328&&-335          H'01B7
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-96&&-127            H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-3               H'0125
+EM
+ 4
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-4                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-4                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4608&&-4735        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4608&&-4735       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-4                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-36                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-128&&-159           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-4               H'0125
+EM
+ 5
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-5                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-5                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4736&&-4863        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4736&&-4863       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-5                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-37                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-160&&-191           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-5               H'0125
+EM
+ 6
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-6                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-6                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4864&&-4991        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4864&&-4991       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-6                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-38                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-192&&-223           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-6               H'0125
+EM
+ 7
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-7                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-7                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-4992&&-5119        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-4992&&-5119       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-7                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-39                H'028B
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-224&&-255           H'01B4
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-7               H'0125
+EM
+ 8
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-8                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-8                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5120&&-5247        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5120&&-5247       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-8                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-40                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-8               H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1120&&-1151         H'01B4
+EM
+ 9
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-9                  H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-9                   H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5248&&-5375        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5248&&-5375       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-9                   H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-41                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-9               H'0125
+JTR      1D11/CAA 117 1036/MD2E R3A01    JT-1152&&-1183         H'01B4
+EM
+10
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-10                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-10                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5376&&-5503        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5376&&-5503       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-10                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-42                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-10              H'0125
+EM
+11
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-11                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-11                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5504&&-5631        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5504&&-5631       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-11                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-43                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-11              H'0125
+EM
+12
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-12                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-12                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5632&&-5759        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5632&&-5759       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-12                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-44                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-12              H'0125
+EM
+13
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-13                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-13                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5760&&-5887        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5760&&-5887       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-13                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-45                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-13              H'0125
+EM
+14
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-14                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-14                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-5888&&-6015        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-5888&&-6015       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-14                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-46                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-14              H'0125
+EM
+15
+SUNAME   SUID                            EQM                    SUP
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+ATLR     1DKA/CAA 117 1039/MBYG R6A01    ATL-15                 H'01A3
+CDR      1DKA/CAA 117 1062/MTZC R4A01    CD-15                  H'0059
+LI33R    1AF6/CAA 117 1275/MMAA R1A01    LI3-6016&&-6143        H'00D4
+SULAR    1AE3/CAA 117 013/MFZG  R1A03    SULA-6016&&-6143       H'01C2
+TSR      1DKA/CAA 117 1209/MTZC R4A04    TS-15                  H'0068
+SLCT2R   1DKA/CAA 117 1160/MD2H R2A04    SLCT-47                H'028B
+SSTONER  1CQO/CAA 117 1271/MMAA R1A02    SSTONE-15              H'0125
+EM
+16
+SUNAME   SUID                            EQM                    SUP
+ACCSDR   1D11/CAA 117 1092/MD2E R1A04    ACCSD-2                H'0198
+HOWLR    1D11/CAA 117 1013/MD2E R2A02    HOWL-12&&-15           H'01B0
+SULTDR   1303/CAA 117 1121/MD2E R2A02    SULTD-2                H'028C
+EMGFDR   1401/CAA 117 054/1N    R3A02                           H'0038
+TEETR    1000/CAA 117 067/1N    R2A01                           H'0035
+TWR      2/CAA 117 058/1 E      R1A01    TW-0                   H'000D
+EXAL0R   2/CAA 117 052/1 C      R1A01    EXAL0-0&&-31           H'000E
+REPER    1000/CAA 117 2517/1N   R1A01                           H'0039
+END

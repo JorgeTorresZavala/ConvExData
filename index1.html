@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Material Design Bootstrap</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Start your project here-->
+  <form>
+    <div class="form-group">
+      <label for="exampleFormControlFile1">Example file input</label>
+      <input type="file" class="form-control-file" id="exampleFormControlFile1">
+    </div>
+  </form>
+
+    <!--Modal: Login / Register Form-->
+    <div class="modal fade" id="modalLRForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog cascading-modal" role="document">
+        <!--Content-->
+        <div class="modal-content">
+
+          <!--Modal cascading tabs-->
+          <div class="modal-c-tabs">
+
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs md-tabs tabs-2 light-blue darken-3" role="tablist">
+              <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#ingreso" role="tab"><i class="fas fa-user mr-1"></i>
+                  Ingresa</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#registro" role="tab"><i class="fas fa-user-plus mr-1"></i>
+                  Registro</a>
+              </li>
+            </ul>
+
+            <!-- Tab panels -->
+            <div class="tab-content">
+              <!--ingreso-->
+              <div class="tab-pane fade in show active" id="ingreso" role="tabpanel">
+
+                <!--Body-->
+                <div class="modal-body mb-1">
+                  <!--Correo-->
+                  <div class="md-form form-sm mb-5">
+                    <i class="fas fa-envelope prefix"></i>
+                    <input type="email" id="modalLRInput10" class="form-control form-control-sm validate">
+                    <label data-error="revisa tu correo" data-success="correcto" for="modalLRInput10">Tu correo...</label>
+                  </div>
+                  <!--/Correo-->
+
+                  <!--Contraseña-->
+                  <div class="md-form form-sm mb-4">
+                    <i class="fas fa-lock prefix"></i>
+                    <input type="password" id="modalLRInput11" class="form-control form-control-sm validate">
+                    <label data-error="revisa tu contraeña" data-success="correcto" for="modalLRInput11">Tu contraseña...</label>
+                  </div>
+                  <!--/Contraseña-->
+
+                  <!--Botón de ingreso-->
+                  <div class="text-center mt-2">
+                    <button class="btn btn-info">Ingresa <i class="fas fa-sign-in ml-1"></i></button>
+                  </div>
+                  <!--/Botón de ingreso-->
+                </div>
+                <!--/Body-->
+
+                <!--Footer-->
+                <div class="modal-footer">
+                  <div class="options text-center text-md-right mt-1">
+                    <p>¿No estás registrado? <a data-toggle="tab" href="#registro" class="blue-text">Regístrate!!!</a></p>
+                    <p>¿Olvidaste <a href="#" class="blue-text">tu contraseña?</a></p>
+                  </div>
+                  <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Cerrar</button>
+                </div>
+                <!--/Footer-->
+              </div>
+              <!--/ingreso-->
+
+              <!--registro-->
+              <div class="tab-pane fade" id="registro" role="tabpanel">
+
+                <!--Body-->
+                <div class="modal-body">
+                  <div class="md-form form-sm mb-5">
+                    <i class="fas fa-envelope prefix"></i>
+                    <input type="email" id="modalLRInput12" class="form-control form-control-sm validate">
+                    <label data-error="error....revisa tu correo" data-success="correcto" for="modalLRInput12">Tu correo</label>
+                  </div>
+
+                  <div class="md-form form-sm mb-5">
+                    <i class="fas fa-lock prefix"></i>
+                    <input type="password" id="modalLRInput13" class="form-control form-control-sm validate">
+                    <label data-error="error....revisa tu contraseña" data-success="correcto" for="modalLRInput13">Tu contraseña</label>
+                  </div>
+
+                  <div class="md-form form-sm mb-4">
+                    <i class="fas fa-lock prefix"></i>
+                    <input type="password" id="modalLRInput14" class="form-control form-control-sm validate">
+                    <label data-error="error....revisa tu contraeña" data-success="correcto" for="modalLRInput14">Repite la contraeña</label>
+                  </div>
+
+                  <div class="text-center form-sm mt-2">
+                    <button class="btn btn-info">Ingresa <i class="fas fa-sign-in ml-1"></i></button>
+                  </div>
+
+                </div>
+                <!--Footer-->
+                <div class="modal-footer">
+                  <div class="options text-right">
+                    <p class="pt-1">¿Ya tienes una cuenta? <a data-toggle="tab" href="#registro" role="tab" class="blue-text">Ingresa...</a></p>
+                  </div>
+                  <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Cerrar</button>
+                </div>
+              </div>
+              <!--/registro-->
+            </div>
+
+          </div>
+        </div>
+        <!--/Content-->
+      </div>
+    </div>
+    <!--/Modal: Login / Register Form-->
+
+    <div class="text-center">
+      <a href="" class="btn btn-default btn-rounded my-3" data-toggle="modal" data-target="#modalLRForm">Launch
+        Modal LogIn/Register</a>
+    </div>
+  
+  <!-- /Start your project here-->
+
+  <!-- SCRIPTS -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+</body>
+
+</html>

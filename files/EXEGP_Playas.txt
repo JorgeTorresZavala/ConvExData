@@ -1,0 +1,85 @@
+        <exegp:EMG=ALL;
+        EMG DATA
+        
+        EMG             TYPE    SIDE    LINK         ST  MAST            EMGNUM
+        ESAT4           REMOTE  A       CSLM7-6      WO  IDLE              26
+                        REMOTE  B       CSLM7-22     WO  IDLE              26
+        EMIR            REMOTE  A       CSLM7-7      WO  IDLE              25
+                        REMOTE  B       CSLM7-23     WO  IDLE              25
+        ERDM            REMOTE  A       CSLM7-24     WO  IDLE              24
+                        REMOTE  B       CSLM7-8      WO  IDLE              24
+        SOL4            REMOTE  A       CLC-46       WO  IDLE              23
+                        REMOTE  B       CLC-47       WO  IDLE              23
+        SSI1            REMOTE  A       CLC-44       WO  IDLE              22
+                        REMOTE  B       CLC-45       WO  IDLE              22
+        MIR3            REMOTE  A       CLC-32       WO  IDLE              16
+                        REMOTE  B       CLC-33       WO  IDLE              16
+        SSI0            CENTRAL A       CLC-26       WO  IDLE              13
+                        CENTRAL B       CLC-27       WO  IDLE              13
+        SOL3            REMOTE  A       CLC-24       WO  IDLE              12
+                        REMOTE  B       CLC-25       WO  IDLE              12
+        SS4             CENTRAL A       CLC-22       WO  IDLE              11
+                        CENTRAL B       CLC-23       WO  IDLE              11
+        SS1             CENTRAL A       CLC-8        WO  IDLE              10
+                        CENTRAL B       CLC-9        WO  IDLE              10
+        SS2             CENTRAL A       CLC-16       WO  IDLE               9
+                        CENTRAL B       CLC-17       WO  IDLE               9
+        SS3             CENTRAL A       CLC-20       WO  IDLE               8
+                        CENTRAL B       CLC-21       WO  IDLE               8
+        POR             REMOTE  A       CLC-0        WO  IDLE               7
+                        REMOTE  B       CLC-1        WO  IDLE               7
+        SOL2            REMOTE  A       CLC-10       WO  IDLE               5
+                        REMOTE  B       CLC-11       WO  IDLE               5
+        MIR2            REMOTE  A       CLC-12       WO  IDLE               4
+                        REMOTE  B       CLC-13       WO  IDLE               4
+        POR2            REMOTE  A       CLC-14       WO  IDLE               3
+                        REMOTE  B       CLC-15       WO  IDLE               3
+        SOL             REMOTE  A       CLC-2        WO  IDLE               1
+                        REMOTE  B       CLC-3        WO  IDLE               1
+        SS0             CENTRAL A       CLC-6        WO  IDLE               0
+                        CENTRAL B       CLC-7        WO  IDLE               0
+        END
+        
+        <EXEGP:EMG=ALL,CSTINFO;
+        EMG CONTROL SIGNALLING TERMINAL DATA
+        
+        EMG             SIDE    EM  STR TYPE        STC FAMILY      RP
+        ESAT4           A           STRT1A          STC-G            176
+                        B           STRT1A          STC-G            179
+        EMIR            A           STRT1A          STC-G            176
+                        B           STRT1A          STC-G            179
+        ERDM            A           STRT1A          STC-G            179
+                        B           STRT1A          STC-G            176
+        SOL4            A           STR2D           STC-E            160
+                        B           STR2D           STC-E            161
+        SSI1            A           STR2D           STC-E            162
+                        B           STR2D           STC-E            163
+        MIR3            A           STR2D           STC-E            108
+                        B           STR2D           STC-E            109
+        SSI0            A           RPBC2C                           112
+                        B           RPBC2C                           113
+        SOL3            A           STR2D           STC-E            104
+                        B           STR2D           STC-E            105
+        SS4             A           RPBC2C                           110
+                        B           RPBC2C                           111
+        SS1             A           RPBC2C                            78
+                        B           RPBC2C                            79
+        WO      TIJNXBPLDS1/64-B/05-00   AT-0     TIME 190725 1857  PAGE   44
+        SS2             A           RPBC2C                            62
+                        B           RPBC2C                            63
+        SS3             A           RPBC2C                            58
+                        B           RPBC2C                            59
+        POR             A           STR2D           STC-E             32
+                        B           STR2D           STC-E             33
+        SOL2            A           STR2D           STC-E             44
+                        B           STR2D           STC-E             45
+        MIR2            A           STR2D           STC-E             38
+                        B           STR2D           STC-E             39
+        POR2            A           STR2D           STC-E             34
+                        B           STR2D           STC-E             35
+        SOL             A           STR2D           STC-E             42
+                        B           STR2D           STC-E             43
+        SS0             A           RPBC2C                            84
+                        B           RPBC2C                            85
+        END
+        

@@ -1,0 +1,15 @@
+SUSCP 6646315983-> pide categorias del SNB
+
+<SUSCP:SNB=6646099056, LIST;
+
+SUBSCRIBER DATA
+SNB        DEV            DETY    SUT SCL         MIS             COS
+6646099056 LI3-16427                  TBO-0
+                                      CBB-1
+                                      PCAC-1
+                                      CBQ-5
+SULIE -> desconectar
+
+SULII -> conectar
+
+SUSCC:SNB=6646315983,SCL=TBO-0&CBB-1&PCAC-1&CBQ-5;
