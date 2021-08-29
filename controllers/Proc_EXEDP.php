@@ -93,43 +93,43 @@
     for($j = 0; $j < count($emgs[$i]['ems']); $j++){
       for($k = 0; $k < count($emgs[$i]['ems'][$j]['em_data']); $k++){
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'LI3') > -1){
-          array_push($emg_cmd[$i]['LI3'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['LI3'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'RT2') > -1){
-          array_push($emg_cmd[$i]['RT2'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['RT2'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'SLCT') > -1){
-          array_push($emg_cmd[$i]['SLCT'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['SLCT'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'JT') > -1){
-          array_push($emg_cmd[$i]['JT'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['JT'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'KR2') > -1){
-          array_push($emg_cmd[$i]['KR2'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['KR2'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'SULTD') > -1){
-          array_push($emg_cmd[$i]['SULTD'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['SULTD'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'EXAL0') > -1){
-          array_push($emg_cmd[$i]['EXAL0'],  "ALEXP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['EXAL0'],  "ALEXP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'TW') > -1){
-          array_push($emg_cmd[$i]['TW'],  "IOIOP:IO=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['TW'],  "IOIOP:IO=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'HOWL') > -1){
-          array_push($emg_cmd[$i]['HOWL'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['HOWL'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'ACCSD') > -1){
-          array_push($emg_cmd[$i]['ACCSD'],  "EXAMP:ACCSMODULE=".explode("-",$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'])[1].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['ACCSD'],  "EXAMP:ACCSMODULE=".explode("-",$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'])[1].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'RT3') > -1){
-          array_push($emg_cmd[$i]['RT3'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['RT3'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'LIPRA') > -1){
-          array_push($emg_cmd[$i]['LIPRA'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['LIPRA'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
         if(strpos($emgs[$i]['ems'][$j]['em_data'][$k]['EQM'], 'RT2E155') > -1){
-          array_push($emg_cmd[$i]['RT2E155'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
+          array_push($emg_cmd[$i]['RT2E155'],  "STDEP:DEV=".$emgs[$i]['ems'][$j]['em_data'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['nombre'].","."EM:" . $emgs[$i]['ems'][$j]['em_num'] . "!");
         }
       }
     }
