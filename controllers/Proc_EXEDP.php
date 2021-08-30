@@ -56,13 +56,12 @@
         $indice_em++;
         //echo json_encode($emgs[($indice_emg-1)]);
       }else{
-        if(trim($lines[$i+2]) != 'EM' and (int)(trim($lines[$i+2]))== false and trim($lines[$i+2])!='' and trim($lines[$i+2])!='END'){
+        if(trim($lines[$i+2]) != 'EM' and trim($lines[$i+2]) != 'EMG' and (int)(trim($lines[$i+2]))== false and trim($lines[$i+2])!='' and trim($lines[$i+2])!='END'){
           $data = array();
           $data['SUNAME'] = trim(substr($lines[$i+2], 0, 9));
           $data['SUID'] = trim(substr($lines[$i+2], 9, 32));
           $data['EQM'] = trim(substr($lines[$i+2], 41, 23));
           $data['SUP'] = trim(substr($lines[$i+2], 64, 7));
-          //array_push($emgs[($indice_emg-1)]['EMs'][$indice_temporal]['DatosEM'], $data);
           array_push($emgs[($indice_emg-1)]['EMs'][$indice_temporal]['DatosEM'], $data);
         }
       }
@@ -72,9 +71,12 @@
     $indice++;
   }
   echo json_encode($emgs);
-  //return;
+
+  $table = "";
+
   $emg_cmd = array();
   for($i = 0; $i < count($emgs); $i++){
+    
     $emg_cmd[$i]['EMG'] = $emgs[$i]['EMG'];
     $emg_cmd[$i]['LI3'] = array();
     $emg_cmd[$i]['RT2'] = array();
@@ -92,7 +94,22 @@
     $emg_cmd[$i]['RT2E155'] = array();
 
     for($j = 0; $j < count($emgs[$i]['EMs']); $j++){
+     
       for($k = 0; $k < count($emgs[$i]['EMs'][$j]['DatosEM']); $k++){
+        $table.=str_pad($emgs[$i]['EMG'], 9);
+        $table.=str_pad($emgs[$i]['EMs'][$j]["EM"], 3);
+        $table.=str_pad($emgs[$i]['EMs'][$j]["DatosEM"][$k]["SUNAME"], 10);
+        $table.=str_pad($emgs[$i]['EMs'][$j]["DatosEM"][$k]["SUID"], 30);
+        $table.=str_pad($emgs[$i]['EMs'][$j]["DatosEM"][$k]["EQM"], 20);
+        $table.=str_pad($emgs[$i]['EMs'][$j]["DatosEM"][$k]["SUP"], 10);
+        $table.="\n";
+        /*
+        $table.="<tr style='border: 1px solid;'><td>" . $emgs[$i]['EMG'] . "</td>";
+        $table.= "<td>" . $emgs[$i]['EMs'][$j]["EM"] . "</td>";
+        $table.= "<td>" . $emgs[$i]['EMs'][$j]["DatosEM"][$k]["SUNAME"] . "</td>";
+        $table.= "<td>" . $emgs[$i]['EMs'][$j]["DatosEM"][$k]["SUID"] . "</td>";
+        $table.= "<td>" . $emgs[$i]['EMs'][$j]["DatosEM"][$k]["EQM"] . "</td></tr>";
+        */
         if(strpos($emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'], 'LI3') > -1){
           array_push($emg_cmd[$i]['LI3'],  "STDEP:DEV=".$emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['EMG'].","."EM:" . $emgs[$i]['EMs'][$j]['EM'] . "!");
         }
@@ -102,7 +119,7 @@
         if(strpos($emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'], 'SLCT') > -1){
           array_push($emg_cmd[$i]['SLCT'],  "STDEP:DEV=".$emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['EMG'].","."EM:" . $emgs[$i]['EMs'][$j]['EM'] . "!");
         }
-        if(strpos($emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'], 'JT') > -1){
+        if(strpos($emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'], 'JT-') > -1){
           array_push($emg_cmd[$i]['JT'],  "STDEP:DEV=".$emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'].";!EMG:". $emg_cmd[$i]['EMG'].","."EM:" . $emgs[$i]['EMs'][$j]['EM'] . "!");
         }
         if(strpos($emgs[$i]['EMs'][$j]['DatosEM'][$k]['EQM'], 'JT2') > -1){
@@ -140,7 +157,15 @@
         }
       }
     }
+  //$table.= "</tr>";
   }
+  //$table.= "</table>";
+  //echo $table;
+  
+  $output_winfiol = fopen($mainFolder . "/".$EMG ,"wb");
+  fwrite($output_winfiol,$table);
+  fclose($output_winfiol);
+
   $command = "";
   for($i = 0; $i < count($emg_cmd); $i++){
     if(count($emg_cmd[$i]['LI3']) > 0 ||

@@ -361,7 +361,7 @@ $(".custom-file-input").on("change", function() {
                   <div class="card">
                     <div class="card-body">
                       <h5 class="card-title">Impresos de datos de la central</h5>
-                      <p class="card-text">Selecciona el grupo de impresos</p>
+                      <p class="card-text">Selecciona el grupo de impresos original</p>
   
                       <div class="form-check">
                         <input class="form-check-input" type="checkbox" value="" id="SSS">
