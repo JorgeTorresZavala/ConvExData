@@ -124,9 +124,10 @@ $(".custom-file-input").on("change", function() {
                         </div>
                         <select class="custom-select" id="Direccion">
                           <option selected>Dirección Divisional...</option>
-                          <option value="1">Metro Poniente</option>
-                          <option value="2">Metro Sur</option>
-                          <option value="3">Norte</option>
+                          <option value="1">TELNOR</option>
+                          <option value="2">Metro Poniente</option>
+                          <option value="3">Metro Sur</option>
+                          <option value="4">Norte</option>
                         </select>                       
                       </div>  <!-- Opción: /Dirección Divisional -->
 
@@ -137,12 +138,14 @@ $(".custom-file-input").on("change", function() {
                         </div>
                         <select class="custom-select" id="AreaOperativa">
                           <option selected>Área Operativa...</option>
-                          <option value="1">Metro Sur Área I</option>
-                          <option value="2">Metro Sur Área II</option>
-                          <option value="3">Metro Sur Área III</option>
-                          <option value="4">Metro Poniente Área I</option>
-                          <option value="5">Metro Poniente Área II</option>
-                          <option value="6">Metro Poniente Área III</option>
+                          <option value="1">Tijuana</option>
+                          <option value="2">Mexicali</option>
+                          <option value="3">Metro Sur Área I</option>
+                          <option value="4">Metro Sur Área II</option>
+                          <option value="5">Metro Sur Área III</option>
+                          <option value="6">Metro Poniente Área I</option>
+                          <option value="7">Metro Poniente Área II</option>
+                          <option value="8">Metro Poniente Área III</option>
                         </select>                        
                       </div>  <!-- Opción: /Área Operativa -->
 
@@ -153,13 +156,17 @@ $(".custom-file-input").on("change", function() {
                         </div>
                         <select class="custom-select" id="Central">
                           <option selected>Central...</option>
-                          <option value="1">Arboledad 3-5</option>
-                          <option value="2">Bosques 2-4</option>
-                          <option value="3">Ciudad López Mateos 2-5</option>
-                          <option value="4">Cuajimalpa (Contadero) 1-2</option>
-                          <option value="5">Echegaray 3-6</option>
-                          <option value="6">Madrid 7</option>
-                          <option value="7">Molinito 1-3</option>
+                          <option value="1">Playas</option>
+                          <option value="2">CTI-PIO</option>
+                          <option value="3">Lomas</option>
+                          <option value="4">Anáhuac</option>
+                          <option value="5">Arboledad 3-5</option>
+                          <option value="6">Bosques 2-4</option>
+                          <option value="7">Ciudad López Mateos 2-5</option>
+                          <option value="8">Cuajimalpa (Contadero) 1-2</option>
+                          <option value="9">Echegaray 3-6</option>
+                          <option value="10">Madrid 7</option>
+                          <option value="11">Molinito 1-3</option>
                         </select>                        
                       </div>  <!-- Opción: /Central -->
 
@@ -170,13 +177,17 @@ $(".custom-file-input").on("change", function() {
                         </div>
                         <select class="custom-select" id="NomCorto">
                           <option selected>Nombre corto...</option>
-                          <option value="1">AR03</option>
-                          <option value="2">BO02</option>
-                          <option value="3">CLM2</option>
-                          <option value="4">CUJ2</option>
-                          <option value="5">EC03</option>
-                          <option value="6">MA07</option>
-                          <option value="7">MN01</option>
+                          <option value="1">PLY</option>
+                          <option value="2">PIO</option>
+                          <option value="3">LOM</option>
+                          <option value="4">ANA</option>
+                          <option value="5">AR03</option>
+                          <option value="6">BO02</option>
+                          <option value="7">CLM2</option>
+                          <option value="8">CUJ2</option>
+                          <option value="9">EC03</option>
+                          <option value="10">MA07</option>
+                          <option value="11">MN01</option>
                         </select>                        
                       </div>  <!-- Opción: /Nombre corto -->
 
@@ -188,11 +199,15 @@ $(".custom-file-input").on("change", function() {
                         <select class="custom-select" id="CLLI">
                           <option selected>CLLI...</option>
                           <option value="1">CLMTXMARDS3</option>
-                          <option value="2">CDMXDFBODS2</option>
-                          <option value="3">CDMXDFCJDS2</option>
-                          <option value="4">NCPNXMECDS3</option>
-                          <option value="5">CDMXDFMADS7</option>
-                          <option value="6">NCPNXMMNDS1</option>
+                          <option value="2">CLMTXMARDS3</option>
+                          <option value="3">CLMTXMARDS3</option>
+                          <option value="4">CLMTXMARDS3</option>
+                          <option value="5">CLMTXMARDS3</option>
+                          <option value="6">CDMXDFBODS2</option>
+                          <option value="7">CDMXDFCJDS2</option>
+                          <option value="8">NCPNXMECDS3</option>
+                          <option value="9">CDMXDFMADS7</option>
+                          <option value="10">NCPNXMMNDS1</option>
                         </select>                        
                       </div>  <!-- Opción: /CLLI -->
                     </div>  
